@@ -5,12 +5,17 @@ from typing import List
 
 from tqdm import tqdm
 
+from defs.config import GENSHIN_GENDER_BOY
 from defs.client import client
 from defs.birthday_card import BirthdayCard
 from defs.models import MyDraw
 
 FILE_PATH = Path("files")
+FILE_PATH_BOY = FILE_PATH / "aether"
+FILE_PATH_GIRL = FILE_PATH / "lumine"
 FILE_PATH.mkdir(exist_ok=True)
+FILE_PATH_BOY.mkdir(exist_ok=True)
+FILE_PATH_GIRL.mkdir(exist_ok=True)
 
 
 async def get_my_draws() -> List["MyDraw"]:
@@ -29,6 +34,7 @@ async def get_my_draws() -> List["MyDraw"]:
 async def save_raw_jsons():
     draws = await get_my_draws()
     data = [draw.dict() for draw in draws]
-    with open(FILE_PATH / "my_draws.json", "w", encoding="utf-8") as f:
+    path = FILE_PATH_BOY if GENSHIN_GENDER_BOY else FILE_PATH_GIRL
+    with open(path / "my_draws.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
     print("Done")
