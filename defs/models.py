@@ -19,6 +19,22 @@ class MyDraw(BaseModel):
     is_compensate: bool
     role_name: str
 
+    @property
+    def month(self) -> int:
+        return int(self.birthday.split("/")[0])
+
+    @property
+    def day(self) -> int:
+        return int(self.birthday.split("/")[1])
+
+    @property
+    def ext(self) -> str:
+        return self.take_picture.split(".")[-1]
+
+    @property
+    def unread_ext(self) -> str:
+        return self.unread_picture.split(".")[-1]
+
 
 class MyDraws(BaseModel):
     my_draws: List[MyDraw]

@@ -44,7 +44,7 @@ async def get_draws(gender_boy: bool = True) -> List["MyDraw"]:
 
 async def save_raw_jsons():
     draws = await get_my_draws()
-    data = [draw.dict() for draw in draws]
+    data = [draw.dict() for draw in draws if draw.take_picture]
     path = FILE_PATH_BOY if GENSHIN_GENDER_BOY else FILE_PATH_GIRL
     with open(path / "my_draws.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)

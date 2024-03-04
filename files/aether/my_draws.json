@@ -2014,21 +2014,5 @@
         "op_id": 244,
         "is_compensate": false,
         "role_name": "班尼特"
-    },
-    {
-        "draw_status": "normal",
-        "take_picture": "",
-        "unread_picture": "",
-        "word_text": "",
-        "year": 2024,
-        "birthday": "3/3",
-        "is_new": false,
-        "role_id": 10000035,
-        "gal_xml": "",
-        "gal_resource": "",
-        "is_collected": false,
-        "op_id": 0,
-        "is_compensate": false,
-        "role_name": "七七"
     }
 ]

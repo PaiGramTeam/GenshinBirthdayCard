@@ -3,11 +3,11 @@ from pathlib import Path
 from typing import TypeVar, Tuple, List, Union, Type
 
 import aiofiles
-from httpx import AsyncClient
 from xml.dom.minidom import parse, Element
 
 from tqdm import tqdm
 
+from defs.client import download
 from defs.json_data import get_draws
 from defs.models import ResourceCharacter, ResourceBg, GalCharacter
 
@@ -22,23 +22,7 @@ RESOURCE_CHARA_PATH.mkdir(exist_ok=True)
 RESOURCE_BG_PATH.mkdir(exist_ok=True)
 FILE_PATH_BOY = FILE_PATH / "aether"
 FILE_PATH_GIRL = FILE_PATH / "lumine"
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-}
-client = AsyncClient(timeout=60.0, headers=headers)
 T = TypeVar("T")
-
-
-async def download(url: str, path: Path):
-    head = await client.head(url)
-    if head.status_code != 200:
-        print(f"Failed to download {url}, status code: {head.status_code}")
-        return
-    async with client.stream("GET", url) as response:  # noqa
-        async with aiofiles.open(path, "wb") as f:
-            async for chunk in response.aiter_bytes():
-                await f.write(chunk)
 
 
 def xml_to_json_model(model_class: Type[T], data: "Element") -> T:
