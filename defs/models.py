@@ -41,12 +41,20 @@ class ResourceCharacter(BaseModel):
     rel: Optional[str] = ""
     group: Optional[str] = ""
 
+    @property
+    def ext(self) -> str:
+        return self.src.split(".")[-1]
+
 
 class ResourceBg(BaseModel):
     src: str
     src_os: str
     id: str
     group: Optional[str] = ""
+
+    @property
+    def ext(self) -> str:
+        return self.src.split(".")[-1]
 
 
 class GalCharacter(BaseModel):
