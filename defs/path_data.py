@@ -20,7 +20,14 @@ async def create_path_data():
             data[year] = {}
         if month not in data[year]:
             data[year][month] = []
-        data[year][month].append(draw.role_name)
+        data[year][month].append(
+            {
+                "role_name": draw.role_name,
+                "day": draw.day,
+                "ext": draw.ext,
+                "unread_ext": draw.unread_ext,
+            }
+        )
         if draw.role_name not in role_birthdays:
             role_birthdays[draw.role_name] = [[draw.year, draw.month, draw.day]]
         else:
