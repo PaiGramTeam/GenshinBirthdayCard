@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 
 from pydantic import BaseModel
 
@@ -32,3 +32,24 @@ class MyDraws(BaseModel):
     current_compensate_num: int
     is_compensate_num: bool
     year_compensate_num: int
+
+
+class ResourceCharacter(BaseModel):
+    src: str
+    src_os: str
+    id: str
+    rel: Optional[str] = ""
+    group: Optional[str] = ""
+
+
+class ResourceBg(BaseModel):
+    src: str
+    src_os: str
+    id: str
+    group: Optional[str] = ""
+
+
+class GalCharacter(BaseModel):
+    id: str
+    name: str
+    key: Optional[str] = ""
