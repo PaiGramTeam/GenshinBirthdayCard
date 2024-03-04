@@ -1,0 +1,3 @@
+simnet
+python-dotenv
+tqdm
