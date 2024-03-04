@@ -33,9 +33,9 @@ async def get_my_draws() -> List["MyDraw"]:
     return draws
 
 
-async def get_draws(gender_boy: bool = True) -> List["MyDraw"]:
+async def get_draws() -> List["MyDraw"]:
     data = []
-    path = FILE_PATH_BOY if gender_boy else FILE_PATH_GIRL
+    path = FILE_PATH_BOY if GENSHIN_GENDER_BOY else FILE_PATH_GIRL
     async with aiofiles.open(path / "my_draws.json", "r", encoding="utf-8") as f:
         for d in json.loads(await f.read()):
             data.append(MyDraw(**d))
