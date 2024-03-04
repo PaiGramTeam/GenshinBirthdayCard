@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="410">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="left" key="gal-line-47128430-e59f-11ed-ba1a-aba227628698">好饱！枣椰蜜糖真好吃啊，嘿嘿。</simple_dialog>
+      <simple_dialog chara="candace" img="坎蒂丝-1" pos="right" key="gal-line-47128431-e59f-11ed-ba1a-aba227628698">是啊，旅行者的手艺很棒。</simple_dialog>
+      <simple_dialog chara="candace" img="坎蒂丝-2" pos="right" key="gal-line-47128432-e59f-11ed-ba1a-aba227628698">对了，请收下这个。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-47128433-e59f-11ed-ba1a-aba227628698">哇！好漂亮！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-47128434-e59f-11ed-ba1a-aba227628698">真的可以吗…</simple_dialog>
+      <simple_dialog chara="candace" img="坎蒂丝-1" pos="right" key="gal-line-47128435-e59f-11ed-ba1a-aba227628698">哈哈，没关系。我平时没什么机会戴这些小饰品，倒不如当成礼物送给朋友。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-47128436-e59f-11ed-ba1a-aba227628698">谢谢你，坎蒂丝。</simple_dialog>
+      <simple_dialog chara="candace" img="坎蒂丝-2" pos="right" key="gal-line-47128437-e59f-11ed-ba1a-aba227628698">不用客气。</simple_dialog>
+      <simple_dialog chara="candace" img="坎蒂丝-1" pos="right" key="gal-line-47128438-e59f-11ed-ba1a-aba227628698">嗯，果然没有看错，它们和你很相称。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-47128439-e59f-11ed-ba1a-aba227628698">旅行者…快帮帮我，这个项圈好沉…</simple_dialog>
+      <simple_dialog chara="candace" img="坎蒂丝-1" pos="right" key="gal-line-4712843a-e59f-11ed-ba1a-aba227628698">派蒙，那个呀，是手镯。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

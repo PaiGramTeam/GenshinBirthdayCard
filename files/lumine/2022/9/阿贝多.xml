@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="318">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="阿贝多-场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-6be7be00-2d95-11ed-9f6a-757c41739f0f">你说，阿贝多会不会喜欢我们送的礼物呢？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-6be7be01-2d95-11ed-9f6a-757c41739f0f">…啊等等，阿贝多的工坊爆炸了！</simple_dialog>
+      <simple_dialog chara="klee" pos="right" img="可莉-2" key="gal-line-6be7be02-2d95-11ed-9f6a-757c41739f0f">哇！可莉不是故意的！！</simple_dialog>
+      <simple_dialog key="gal-line-6be7be03-2d95-11ed-9f6a-757c41739f0f">……</simple_dialog>
+      <simple_dialog chara="albedo" img="阿贝多-2" pos="left" key="gal-line-6be7be04-2d95-11ed-9f6a-757c41739f0f">——所以你们就帮可莉抓鱼来道歉？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-5" pos="right" key="gal-line-6be7be05-2d95-11ed-9f6a-757c41739f0f">是…是这样的…</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="right" key="gal-line-6be7be06-2d95-11ed-9f6a-757c41739f0f">嗯…</simple_dialog>
+      <simple_dialog chara="albedo" img="阿贝多-2" pos="left" key="gal-line-6be7be07-2d95-11ed-9f6a-757c41739f0f">啊，看起来可莉的新配方有些问题，一会我来看一下…</simple_dialog>
+      <simple_dialog chara="albedo" img="阿贝多-1" pos="left" key="gal-line-6be7be08-2d95-11ed-9f6a-757c41739f0f">在此之前，可莉要把工坊先打扫干净哦。</simple_dialog>
+      <simple_dialog chara="klee" pos="right" img="可莉-2" key="gal-line-6be7be09-2d95-11ed-9f6a-757c41739f0f">可莉知道错了，阿贝多哥哥对不起！</simple_dialog>
+      <simple_dialog chara="klee" pos="right" img="可莉-1" key="gal-line-6be7be0a-2d95-11ed-9f6a-757c41739f0f">可莉这就去打扫！</simple_dialog>
+      <simple_dialog chara="albedo" img="阿贝多-1" pos="left" key="gal-line-6be7be0b-2d95-11ed-9f6a-757c41739f0f">好哦。</simple_dialog>
+      <simple_dialog chara="albedo" img="阿贝多-1" pos="left" key="gal-line-e6275020-2db5-11ed-9f6a-757c41739f0f">走吧旅行者，我们去烤鱼。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

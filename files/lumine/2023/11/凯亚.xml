@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="490">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2023凯亚-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙1" pos="center" key="gal-line-2205cda0-8e69-11ee-bfbe-31ae3d6bc6c8">难得凯亚没有邀请我们去酒馆见呢。</simple_dialog>
+      <simple_dialog chara="kaiya" img="凯亚-2" pos="right" key="gal-line-2205cda1-8e69-11ee-bfbe-31ae3d6bc6c8">我也不是每时每刻都在喝酒啊。</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon3" pos="center" key="gal-line-2205cda2-8e69-11ee-bfbe-31ae3d6bc6c8">哇，架子上葡萄好像都熟了耶！</simple_dialog>
+      <simple_dialog chara="kaiya" img="凯亚-1" pos="right" key="gal-line-2205cda3-8e69-11ee-bfbe-31ae3d6bc6c8">上次特纳教你的，还记得吗？到时候新酿好的饮品，可以给你们先尝尝。</simple_dialog>
+      <simple_dialog chara="player" key="gal-line-2205cda4-8e69-11ee-bfbe-31ae3d6bc6c8" img="aether5" pos="center">摘葡萄？当然记得。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-口水" pos="center" key="gal-line-2205cda5-8e69-11ee-bfbe-31ae3d6bc6c8">旅行者…那我们？</simple_dialog>
+      <simple_dialog chara="-2" key="gal-line-2205cda6-8e69-11ee-bfbe-31ae3d6bc6c8">（与派蒙、凯亚一起摘了许多葡萄）</simple_dialog>
+      <simple_dialog chara="player" key="gal-line-2205cda7-8e69-11ee-bfbe-31ae3d6bc6c8" img="aether6" pos="center">呼…果然是力气活。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="center" key="gal-line-2205cda8-8e69-11ee-bfbe-31ae3d6bc6c8">欸，是嘛？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

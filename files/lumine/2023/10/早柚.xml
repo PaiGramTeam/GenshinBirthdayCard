@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="475">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="早柚2023-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-aff94480-6d89-11ee-be49-c52ae81161a5">呼~好累呀，早柚也太擅长隐匿身形了吧，过生日都找不到她。不知道神子指的这个方向对不对呀！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-aff94481-6d89-11ee-be49-c52ae81161a5">看神子胸有成竹的样子，应该不会有什么问题吧……？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-aff94482-6d89-11ee-be49-c52ae81161a5">好像就在这附近……找到了！早柚在这里！</simple_dialog>
+      <simple_dialog chara="sayu" img="早柚-1" pos="center" key="gal-line-aff94483-6d89-11ee-be49-c52ae81161a5">早柚要长高……（呓语）</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-aff94484-6d89-11ee-be49-c52ae81161a5">嘘~别吵醒她啦，希望她的生日愿望早日实现。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

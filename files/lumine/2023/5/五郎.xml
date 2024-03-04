@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="414">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="五郎背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-b2e66170-f3bb-11ed-9646-3be1ca60cb02">五郎——！</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-抱手" pos="left" key="gal-line-b2e66171-f3bb-11ed-9646-3be1ca60cb02">你们来了。这个味道…你们涂了什么东西吗？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-8" pos="left" key="gal-line-b2e66172-f3bb-11ed-9646-3be1ca60cb02">其实…这是要送给你的植物精油…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-b2e66173-f3bb-11ed-9646-3be1ca60cb02">呜，没有惊喜感了。五郎的鼻子也太灵啦！下次，下次一定要选择无香型的…</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-抱手" pos="left" key="gal-line-b2e66174-f3bb-11ed-9646-3be1ca60cb02">哈哈，谢谢你们，有这份心意我就已经很开心了。</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-默认" pos="left" key="gal-line-b2e66175-f3bb-11ed-9646-3be1ca60cb02">说起来，最近我给《闲事月刊》写回信的时候也遇到了类似的问题。有位读者在信中写道——</simple_dialog>
+      <simple_dialog chara="reader" pos="center" key="gal-line-b2e66176-f3bb-11ed-9646-3be1ca60cb02">
+        <p>「上司最近要过生日了，我们想给他一个惊喜。</p>
+        <p>他的鼻子很灵，蛋糕也好，鲜花也好，总是在我们拿出来之前，就被他发现了。」</p>
+      </simple_dialog>
+      <simple_dialog chara="reader" pos="center" key="gal-line-b2e66177-f3bb-11ed-9646-3be1ca60cb02">「上司是位温柔又细心的人，他也每次都假装很吃惊的样子配合着我们。但果然还是想看看他发自内心惊喜的表情啊…这次一定要提前做好保密工作！」</simple_dialog>
+      <simple_dialog chara="reader" pos="center" key="gal-line-b2e66178-f3bb-11ed-9646-3be1ca60cb02">「他的爱好是登山，大家准备凑钱买一套新的登山套装送给他，但是我们不知道该如何挑选…」</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-b2e66179-f3bb-11ed-9646-3be1ca60cb02">五郎是怎么回复的呢？</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-默认" pos="left" key="gal-line-b2e68880-f3bb-11ed-9646-3be1ca60cb02">正好我也经常登山，就给他们推荐了我正在用的那套，虽然算不上名贵，但胜在结实耐用。</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-微笑" pos="left" key="gal-line-b2e68881-f3bb-11ed-9646-3be1ca60cb02">礼物的珍贵在于其中饱含的心意，而不是花费了多少金钱。</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-抱手" pos="left" key="gal-line-b2e68882-f3bb-11ed-9646-3be1ca60cb02">咳咳…说回正题。晚饭马上准备好了，我们先进去吧。</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-默认" pos="left" key="gal-line-b2e68883-f3bb-11ed-9646-3be1ca60cb02">欸？门前放着一个盒子…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-b2e68884-f3bb-11ed-9646-3be1ca60cb02">一定是士兵们送给你的生日礼物，快打开看看吧！</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-微笑" pos="left" key="gal-line-b2e68885-f3bb-11ed-9646-3be1ca60cb02">嗯！</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-默认" pos="left" key="gal-line-b2e68886-f3bb-11ed-9646-3be1ca60cb02">……</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-抱手" pos="left" key="gal-line-b2e68887-f3bb-11ed-9646-3be1ca60cb02">噗哈哈哈，原来是他们！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-b2e68888-f3bb-11ed-9646-3be1ca60cb02">怎么了？笑什么？里面是什么呀？</simple_dialog>
+      <simple_dialog chara="gorou" img="五郎-抱手" pos="left" key="gal-line-b2e68889-f3bb-11ed-9646-3be1ca60cb02">是我推荐的那套登山装备。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

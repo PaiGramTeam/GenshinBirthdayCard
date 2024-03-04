@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="440">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="神子2023-背景"></bg>
+      <simple_dialog chara="yae" img="八重-2" pos="left" key="gal-line-5dfc9c00-1333-11ee-9221-5b28aea783ff">怎么办呢…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="right" key="gal-line-5dfc9c01-1333-11ee-9221-5b28aea783ff">神子！</simple_dialog>
+      <simple_dialog chara="yae" img="八重-1" pos="left" key="gal-line-5dfc9c02-1333-11ee-9221-5b28aea783ff">是你们呀？来得刚好！</simple_dialog>
+      <simple_dialog chara="player" img="aether1" pos="right" key="gal-line-5dfc9c03-1333-11ee-9221-5b28aea783ff">发生什么事情了吗？</simple_dialog>
+      <simple_dialog chara="yae" img="八重-2" pos="left" key="gal-line-5dfc9c04-1333-11ee-9221-5b28aea783ff">八重堂最近的轻小说销量普普通通，我作为总编正在发愁呢，愁得油豆腐都吃不下了。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-5dfc9c05-1333-11ee-9221-5b28aea783ff">我们这里有很多故事可以作为小说素材。</simple_dialog>
+      <simple_dialog chara="yae" img="八重-3" pos="left" key="gal-line-5dfc9c06-1333-11ee-9221-5b28aea783ff">嗯，你们的经历固然精彩，可是现在的读者要求越来越严格，光是有精彩的故事情节还不够，更需要能让人眼前一亮的新奇设定。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="right" key="gal-line-5dfc9c07-1333-11ee-9221-5b28aea783ff">也就是说…光是勇者战胜巨龙还不够，必须是噼咔噼咔的勇者战胜噼咔噼咔的巨龙？</simple_dialog>
+      <simple_dialog chara="yae" img="八重-1" pos="left" key="gal-line-5dfc9c08-1333-11ee-9221-5b28aea783ff">小派蒙真聪明。对了！“金发旅人穿越到异世界，和可爱的神秘生物结缔契约，被赋予超能力后，一边变身为猫猫勇士，一边拯救世界”这个设定如何？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="right" key="gal-line-5dfc9c09-1333-11ee-9221-5b28aea783ff">我才没办法赋予那种能力呢！不过…我也很好奇旅行者长出猫耳和尾巴会是什么样子…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-5dfc9c0a-1333-11ee-9221-5b28aea783ff">我不好奇。</simple_dialog>
+      <simple_dialog chara="yae" img="八重-1" pos="left" key="gal-line-5dfc9c0b-1333-11ee-9221-5b28aea783ff">正好，我这里有角色扮演活动留下来的道具。下次签售会你们就作为特邀嘉宾出席吧。来，戴上这个，再比个喵的姿势看看吧~</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="right" key="gal-line-5dfc9c0c-1333-11ee-9221-5b28aea783ff">不可能——！！</simple_dialog>
+      <simple_dialog chara="yae" img="八重-3" pos="left" key="gal-line-5dfc9c0d-1333-11ee-9221-5b28aea783ff">哎呀哎呀…呵呵，怎么跑得比五郎还快呀。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

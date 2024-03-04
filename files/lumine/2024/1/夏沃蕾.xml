@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="509">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2024夏沃蕾"></bg>
+      <simple_dialog chara="player" img="aether1" pos="left" key="gal-line-b6742020-aec8-11ee-9b3a-939da469b902">夏沃蕾今天的工作结束了吗？</simple_dialog>
+      <simple_dialog chara="Chevreuse" img="夏沃蕾-默认" pos="right" key="gal-line-b6742021-aec8-11ee-9b3a-939da469b902">今天是休息日，希望不会有什么突发情况。</simple_dialog>
+      <simple_dialog chara="Chevreuse" img="夏沃蕾-默认" pos="right" key="gal-line-b6742022-aec8-11ee-9b3a-939da469b902">走吧，去吃点东西，我请客。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-口水" pos="center" key="gal-line-b6742023-aec8-11ee-9b3a-939da469b902">好耶！</simple_dialog>
+      <simple_dialog chara="-2" key="gal-line-b6742024-aec8-11ee-9b3a-939da469b902">……</simple_dialog>
+      <simple_dialog chara="Chevreuse" img="夏沃蕾-抬手微笑" pos="right" key="gal-line-b6742025-aec8-11ee-9b3a-939da469b902">呼…果然糖分和油脂能让人开心，就是容易忍不住吃太多。</simple_dialog>
+      <simple_dialog chara="player" img="aether4" pos="left" key="gal-line-b6742026-aec8-11ee-9b3a-939da469b902">人之常情嘛，派蒙一定很赞成。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="center" key="gal-line-b6742027-aec8-11ee-9b3a-939da469b902">对呀，开心就好！</simple_dialog>
+      <simple_dialog chara="Chevreuse" img="夏沃蕾-抬手微笑" pos="right" key="gal-line-b6742028-aec8-11ee-9b3a-939da469b902">等会我要去加练，派蒙好像也吃了不少，跟我一起去吧？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="center" key="gal-line-b6742029-aec8-11ee-9b3a-939da469b902">欸欸欸？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

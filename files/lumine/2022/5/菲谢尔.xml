@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="197">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="菲谢尔插图-背景"></bg>
+      <simple_dialog chara="paimon" pos="left" img="paimon2" key="gal-line-3949a3a0-dcc8-11ec-b682-3bfb2df104a5">菲谢尔，奥兹！你们好，我们来赴约啦！</simple_dialog>
+      <simple_dialog chara="Fishel" img="菲谢尔1" pos="right" key="gal-line-3949cab0-dcc8-11ec-b682-3bfb2df104a5">不愧是被命运之丝引至我身前的祝圣之人，能将吾之旨意铭记于心。</simple_dialog>
+      <simple_dialog chara="player" pos="left" img="aether1" key="gal-line-3949cab1-dcc8-11ec-b682-3bfb2df104a5">菲谢尔，生日快乐。</simple_dialog>
+      <simple_dialog chara="Fishel" img="菲谢尔1" pos="right" key="gal-line-3949cab2-dcc8-11ec-b682-3bfb2df104a5">谢谢！</simple_dialog>
+      <simple_dialog chara="Fishel" img="菲谢尔2" pos="right" key="gal-line-3949cab3-dcc8-11ec-b682-3bfb2df104a5">唔！咳咳…</simple_dialog>
+      <simple_dialog chara="Fishel" img="菲谢尔3" pos="right" key="gal-line-3949cab4-dcc8-11ec-b682-3bfb2df104a5">在这幽星闪烁之日，本皇女恩许你们，随我一同见证这世间万象的因果与命运！</simple_dialog>
+      <simple_dialog chara="auz" img="奥兹" pos="right" key="gal-line-3949cab5-dcc8-11ec-b682-3bfb2df104a5">小姐的意思是，现在时间还早，她想和你们一起四处转转。</simple_dialog>
+      <simple_dialog chara="player" pos="left" img="aether3" key="gal-line-3949cab6-dcc8-11ec-b682-3bfb2df104a5">荣幸至极！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

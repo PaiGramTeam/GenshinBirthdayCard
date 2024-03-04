@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="431">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="派蒙2023-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-302b8aa0-fbac-11ed-a28d-abe8392c45df">欸，你怎么一副神神秘秘的样子？</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-302b8aa1-fbac-11ed-a28d-abe8392c45df">咳咳——</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-302b8aa2-fbac-11ed-a28d-abe8392c45df">派蒙，你相信命运吗？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-8" pos="left" key="gal-line-302b8aa3-fbac-11ed-a28d-abe8392c45df">啊啊啊，现在看起来更奇怪了啦！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-302b8aa4-fbac-11ed-a28d-abe8392c45df">那天我在须弥城里闲逛，向娜比雅学习了一些占卜知识。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-302b8aa5-fbac-11ed-a28d-abe8392c45df">怎么样，要听听最近的运势吗？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-302b8aa6-fbac-11ed-a28d-abe8392c45df">好吧，那、那你说说看。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-302b8aa7-fbac-11ed-a28d-abe8392c45df">根据咖啡杯底的形状来看…</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-302b8aa8-fbac-11ed-a28d-abe8392c45df">预示着我最好的伙伴，接下来的旅程遇到的都是开心的事，还会拥有很多好吃的哦。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-302b8aa9-fbac-11ed-a28d-abe8392c45df">派蒙，生日快乐！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

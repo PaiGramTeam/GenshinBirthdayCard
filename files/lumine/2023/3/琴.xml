@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="391">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="琴2"></bg>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="center" key="gal-line-123e8160-be2f-11ed-a5bf-e5079f508162">琴！</simple_dialog>
+      <simple_dialog chara="kaiya" img="凯亚-2" pos="center" key="gal-line-123e8161-be2f-11ed-a5bf-e5079f508162">哦？原来是你们。可惜，琴团长现在不在这里。</simple_dialog>
+      <event action="goto" to="2"></event>
+    </scene>
+    <scene id="2" prev="1" title="2">
+      <bg img="丽莎-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="center" key="gal-line-123e8162-be2f-11ed-a5bf-e5079f508162">琴！</simple_dialog>
+      <simple_dialog chara="lisa" img="丽莎-2" pos="center" key="gal-line-123e8163-be2f-11ed-a5bf-e5079f508162">是小可爱呀。琴刚刚出去了哦。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="center" key="gal-line-123e8164-be2f-11ed-a5bf-e5079f508162">不在办公室，也不在图书馆，那她到底去哪了呢？</simple_dialog>
+      <event action="goto" to="3"></event>
+    </scene>
+    <scene id="3" prev="2" title="3">
+      <bg img="琴生日插图-背景"></bg>
+      <simple_dialog key="gal-line-123e8165-be2f-11ed-a5bf-e5079f508162">……</simple_dialog>
+      <simple_dialog chara="jean" img="琴-惊讶" pos="left" key="gal-line-123e8166-be2f-11ed-a5bf-e5079f508162">演出前喝这么辣的饮料，嗓子没问题吗？</simple_dialog>
+      <simple_dialog chara="barbara" img="芭芭拉-2" pos="right" key="gal-line-123e8167-be2f-11ed-a5bf-e5079f508162">没关系，我已经习惯了。</simple_dialog>
+      <simple_dialog chara="jean" img="琴-笑" pos="left" key="gal-line-123e8168-be2f-11ed-a5bf-e5079f508162">你呀，不要太勉强自己。</simple_dialog>
+      <simple_dialog chara="barbara" img="芭芭拉-3" pos="right" key="gal-line-123e8169-be2f-11ed-a5bf-e5079f508162">姐姐才是…看你的样子，昨晚又通宵处理工作了吧？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="center" key="gal-line-123e816a-be2f-11ed-a5bf-e5079f508162">快看，她们在那呢！琴——</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="center" key="gal-line-123e816b-be2f-11ed-a5bf-e5079f508162">嘘！派蒙，让她们再单独多待一会儿吧。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="492">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2023甘雨-背景"></bg>
+      <simple_dialog chara="yaoyao" img="瑶瑶-1" pos="left" key="gal-line-f0e257b0-9021-11ee-953d-937b06d0e674">没想到在这里碰到了甘雨姐姐。</simple_dialog>
+      <simple_dialog chara="ganyu" img="甘雨-2" pos="right" key="gal-line-f0e257b1-9021-11ee-953d-937b06d0e674">唔，原本是因为工作外出的，不小心就在这里睡着了…</simple_dialog>
+      <simple_dialog key="gal-line-7b8278a0-9022-11ee-b789-a9ce93c647dd" chara="player" img="aether4" pos="left">不着急回去的话，要不要坐一会儿？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="center" key="gal-line-e745f200-9023-11ee-b46c-934978c4005b">今天的阳光很舒服，气温也正好，我和旅行者就出来闲逛啦。</simple_dialog>
+      <simple_dialog chara="yaoyao" img="瑶瑶-2" pos="left" key="gal-line-e745f201-9023-11ee-b46c-934978c4005b">我晒了一些清心叶子，要不要泡茶试试？喜欢的话可以带回去哦，对身体好的。</simple_dialog>
+      <simple_dialog chara="ganyu" img="甘雨-1" pos="right" key="gal-line-e745f202-9023-11ee-b46c-934978c4005b">之前瑶瑶给我送过，旅行者和派蒙多拿一些吧。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-1" pos="center" key="gal-line-e745f203-9023-11ee-b46c-934978c4005b">这个真的好吃嘛？甘雨提过好几次，要不要试试呢…</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="left" key="gal-line-e745f204-9023-11ee-b46c-934978c4005b">等等，不是直接吃呀。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

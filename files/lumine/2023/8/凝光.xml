@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="463">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="甘雨2022-背景（去蛋糕）"></bg>
+      <simple_dialog chara="ningguang" img="凝光1" pos="left" key="gal-line-df50ed70-4186-11ee-8d5f-d330bb0326be">今天的事情就先处理到这里。旅行者，谢谢你的帮助。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-df50ed71-4186-11ee-8d5f-d330bb0326be">凝光今天也辛苦了，接下来该到休息时间啦。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="center" key="gal-line-df50ed72-4186-11ee-8d5f-d330bb0326be">旅——行——者——快出来呀！</simple_dialog>
+      <simple_dialog chara="ningguang" img="凝光2" pos="left" key="gal-line-df50ed73-4186-11ee-8d5f-d330bb0326be">呵呵，派蒙这么着急，是有什么事吗？</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-df50ed74-4186-11ee-8d5f-d330bb0326be">咳咳，这个…</simple_dialog>
+      <bg img="凝光2023-背景"></bg>
+      <simple_dialog key="gal-line-df50ed75-4186-11ee-8d5f-d330bb0326be">（群玉阁大门打开的那一刻，有状似琉璃百合的烟花在月夜中绽放）</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-好耶" pos="left" key="gal-line-df50ed76-4186-11ee-8d5f-d330bb0326be">呼——顺利发射！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="left" key="gal-line-df50ed77-4186-11ee-8d5f-d330bb0326be">这个图案我和旅行者研究了很久哦，虽然不是特别还原…</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-df50ed78-4186-11ee-8d5f-d330bb0326be">凝光，生日快乐！</simple_dialog>
+      <simple_dialog chara="ningguang" img="凝光1" pos="right" key="gal-line-df50ed79-4186-11ee-8d5f-d330bb0326be">今夜的景色很美呢。谢谢二位为我准备了这些，我很喜欢。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

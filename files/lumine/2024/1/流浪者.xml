@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="505">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2023流浪者-背景"></bg>
+      <simple_dialog chara="paimon" key="gal-line-4eded370-a95e-11ee-85d5-a5a967872419" img="派蒙-4" pos="center">哇！那边的人是…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-4eded371-a95e-11ee-85d5-a5a967872419">嘘——</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="center" key="gal-line-4eded372-a95e-11ee-85d5-a5a967872419">（小声）没想到会在图书馆遇到你。</simple_dialog>
+      <simple_dialog chara="wanderer" img="流浪者-2" pos="right" key="gal-line-4eded373-a95e-11ee-85d5-a5a967872419">因论派的学生硬给我推荐了几本书，无聊了随便翻翻而已。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-4eded374-a95e-11ee-85d5-a5a967872419">那要出去走走吗？</simple_dialog>
+      <simple_dialog chara="wanderer" img="流浪者-1" pos="right" key="gal-line-4eded375-a95e-11ee-85d5-a5a967872419">不必了，这里没人烦我，清净点也不错。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-4eded376-a95e-11ee-85d5-a5a967872419">那我也一起看看吧。</simple_dialog>
+      <simple_dialog chara="wanderer" img="流浪者-1" pos="right" key="gal-line-4eded377-a95e-11ee-85d5-a5a967872419">随你。</simple_dialog>
+      <simple_dialog chara="-2" key="gal-line-4eded378-a95e-11ee-85d5-a5a967872419">旅行者从桌上拿起一本书，坐在一旁开始阅读。</simple_dialog>
+      <simple_dialog chara="-2" key="gal-line-4eded379-a95e-11ee-85d5-a5a967872419">……</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="center" key="gal-line-4eded37a-a95e-11ee-85d5-a5a967872419">唔…你们还在看啊，到晚饭时间了吗？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

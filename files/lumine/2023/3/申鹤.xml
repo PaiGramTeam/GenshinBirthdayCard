@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="390">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="申鹤-场景"></bg>
+      <simple_dialog chara="shenhe" img="申鹤-笑" pos="left" key="gal-line-50f25d20-be2d-11ed-a5bf-e5079f508162">原来这就是师父的改良版「机关烹饪神机」。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-50f25d21-be2d-11ed-a5bf-e5079f508162">今天是看在申鹤的面子上，我们才能把它借出来呢！据说它能够调和不同食材，呈现出最和谐的味道，解决众口难调的难题。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-50f25d22-be2d-11ed-a5bf-e5079f508162">我们快把各自喜欢的食材加进去吧。</simple_dialog>
+      <bg img="申鹤-场景-锅"></bg>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-50f25d23-be2d-11ed-a5bf-e5079f508162">…等等，这烟的颜色…</simple_dialog>
+      <simple_dialog chara="shenhe" img="申鹤-1" pos="left" key="gal-line-50f25d24-be2d-11ed-a5bf-e5079f508162">危险，退后！</simple_dialog>
+      <simple_dialog key="gal-line-50f25d25-be2d-11ed-a5bf-e5079f508162">（嘭——！！！）</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-50f25d26-be2d-11ed-a5bf-e5079f508162">咳咳咳…看来我们几个的口味关系很好，都碰撞出火花了呢！</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="left" key="gal-line-50f25d27-be2d-11ed-a5bf-e5079f508162">派蒙，一点也不好笑。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-50f25d28-be2d-11ed-a5bf-e5079f508162">唔…好吧，那大家都加了什么进去？</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-50f28430-be2d-11ed-a5bf-e5079f508162">鱼肉。</simple_dialog>
+      <simple_dialog chara="shenhe" img="申鹤-2" pos="left" key="gal-line-50f28431-be2d-11ed-a5bf-e5079f508162">清心。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-口水" pos="left" key="gal-line-50f28432-be2d-11ed-a5bf-e5079f508162">史莱姆凝液！</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="left" key="gal-line-50f28433-be2d-11ed-a5bf-e5079f508162">……</simple_dialog>
+      <simple_dialog chara="shenhe" img="申鹤-1" pos="left" key="gal-line-50f28434-be2d-11ed-a5bf-e5079f508162">……</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-50f28435-be2d-11ed-a5bf-e5079f508162">…为什么这样看着我？不是说喜欢的食材吗…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-50f28436-be2d-11ed-a5bf-e5079f508162">哇，旅行者，别掐我的脸！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

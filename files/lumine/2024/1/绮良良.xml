@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="511">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2024绮良良"></bg>
+      <simple_dialog chara="paimon" img="派蒙1" pos="center" key="gal-line-9b8b9e50-b5e9-11ee-a9f0-99c7d4d9e730">绮良良，我们来寄快递啦！</simple_dialog>
+      <simple_dialog key="gal-line-9b8b9e51-b5e9-11ee-a9f0-99c7d4d9e730" chara="Kirara" img="绮良良-笑" pos="right">旅行者、派蒙，上午好！让我看看……收件人是谁呀？</simple_dialog>
+      <simple_dialog key="gal-line-9b8b9e52-b5e9-11ee-a9f0-99c7d4d9e730" chara="player" img="aether5" pos="left">收件人的活动范围有点广，送起来可能比较麻烦呢……</simple_dialog>
+      <simple_dialog key="gal-line-9b8b9e53-b5e9-11ee-a9f0-99c7d4d9e730" chara="Kirara" img="绮良良-默认" pos="right">你放心，没有什么快递是我送不到的！</simple_dialog>
+      <simple_dialog key="gal-line-9b8b9e54-b5e9-11ee-a9f0-99c7d4d9e730" chara="player" img="aether3" pos="left">收件人远在天边近在眼前！</simple_dialog>
+      <simple_dialog key="gal-line-9b8b9e55-b5e9-11ee-a9f0-99c7d4d9e730" chara="Kirara" img="绮良良-默认" pos="right">欸？在哪里？不会是我吧？</simple_dialog>
+      <simple_dialog key="gal-line-9b8b9e56-b5e9-11ee-a9f0-99c7d4d9e730" chara="player" img="aether3" pos="left">没错！是给你准备的生日礼物哦。</simple_dialog>
+      <simple_dialog key="gal-line-9b8b9e57-b5e9-11ee-a9f0-99c7d4d9e730" chara="paimon" img="paimon3" pos="center">快打开看看吧！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

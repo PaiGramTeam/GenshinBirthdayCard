@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="208">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="宵宫-背景"></bg>
+      <simple_dialog chara="yomiya" img="宵宫-1" pos="left" key="gal-line-37753f00-e7cf-11ec-9c68-2ba7948d3f0d">晚上好啊，你们来得正好，现在是最适合观赏烟花的时间！</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon2" pos="right" key="gal-line-37753f01-e7cf-11ec-9c68-2ba7948d3f0d">宵宫——！</simple_dialog>
+      <simple_dialog chara="yomiya" img="宵宫-2" pos="left" key="gal-line-37753f02-e7cf-11ec-9c68-2ba7948d3f0d">嗯？什么什么？</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon3" pos="right" key="gal-line-37753f03-e7cf-11ec-9c68-2ba7948d3f0d">今天是你的生日！我们想对你说——</simple_dialog>
+    </scene>
+  </scripts>
+</data>

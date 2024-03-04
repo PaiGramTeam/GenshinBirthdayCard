@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="515">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2024琳妮特背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="center" key="gal-line-68d05e80-c0af-11ee-b556-2175da0be65e">啊吃饱了！真好吃o(^▽^)o</simple_dialog>
+      <simple_dialog chara="Lyney" img="林尼立绘1" pos="right" key="gal-line-68d05e81-c0af-11ee-b556-2175da0be65e">哈——吃饱了…</simple_dialog>
+      <simple_dialog chara="player" img="aether5" pos="left" key="gal-line-68d05e82-c0af-11ee-b556-2175da0be65e">林尼吃饱了也会犯困呢？</simple_dialog>
+      <simple_dialog chara="Lynette" img="琳妮特立绘1" pos="right" key="gal-line-68d05e83-c0af-11ee-b556-2175da0be65e">为了刚刚展示给旅行者和派蒙的专属表演，哥哥昨天都没怎么睡觉，想了很多方案…平时歌剧院的演出前倒是睡得很好。</simple_dialog>
+      <simple_dialog chara="Lyney" img="林尼立绘1" pos="right" key="gal-line-68d05e84-c0af-11ee-b556-2175da0be65e">那还不是…重要的程度有区别啦。等等，你怎么知道我没有睡？</simple_dialog>
+      <simple_dialog chara="Lynette" img="琳妮特立绘1" pos="right" key="gal-line-68d05e85-c0af-11ee-b556-2175da0be65e">这是秘密，不告诉哥哥。旅行者来这边——</simple_dialog>
+      <simple_dialog chara="Lynette" img="琳妮特立绘2" pos="right" key="gal-line-68d05e86-c0af-11ee-b556-2175da0be65e">…</simple_dialog>
+    </scene>
+  </scripts>
+</data>

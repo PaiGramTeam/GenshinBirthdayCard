@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="471">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="绫华2023-背景"></bg>
+      <simple_dialog chara="ayaka" img="绫华-1" pos="center" key="gal-line-692c4550-5c42-11ee-9680-c59a9fcd69e8">这样就做好了，尝尝看吧？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-口水" pos="left" key="gal-line-692c4551-5c42-11ee-9680-c59a9fcd69e8">哇，绫华好厉害呀！旅行者，你泡的茶也不错嘛。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-692c4552-5c42-11ee-9680-c59a9fcd69e8">绫华一起吃吧？你的生日，应该是我们帮你才对。</simple_dialog>
+      <simple_dialog chara="ayaka" img="绫华-2" pos="center" key="gal-line-692c4553-5c42-11ee-9680-c59a9fcd69e8">没关系，这样一边聊天一边做点心，对我来说是很难得的休息时间。</simple_dialog>
+      <simple_dialog chara="ayaka" img="绫华-1" pos="center" key="gal-line-692c4554-5c42-11ee-9680-c59a9fcd69e8">反而是我要谢谢你愿意陪我，我很开心。</simple_dialog>
+      <simple_dialog key="gal-line-692c4555-5c42-11ee-9680-c59a9fcd69e8">（趁旅行者的注意力在绫华身上，派蒙又拿起了一块绯樱饼…）</simple_dialog>
+      <simple_dialog chara="taromaru" pos="center" key="gal-line-692c4556-5c42-11ee-9680-c59a9fcd69e8">汪！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-692c4557-5c42-11ee-9680-c59a9fcd69e8">派蒙——</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-692c4558-5c42-11ee-9680-c59a9fcd69e8">唔…再吃最后一块！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

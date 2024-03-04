@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="183">
+  <scripts>
+    <scene id="1" title="诺艾尔" root="true">
+      <bg img="诺艾尔"></bg>
+      <simple_dialog pos="center" chara="noelle" img="诺艾尔-1" key="gal-line-e3577820-94b3-11ec-a640-f711072e5421">呼…今天的工作提前完成了，我们出发吧。</simple_dialog>
+      <simple_dialog chara="noelle" pos="center" img="诺艾尔-好奇" key="gal-line-0b9d8720-94b4-11ec-a640-f711072e5421">咦？</simple_dialog>
+      <simple_dialog pos="center" chara="noelle" img="诺艾尔-好奇" key="gal-line-e3577821-94b3-11ec-a640-f711072e5421">旅行者，你在干什么？</simple_dialog>
+      <simple_dialog pos="right" chara="paimon" img="派蒙-no" key="gal-line-e3579f30-94b3-11ec-a640-f711072e5421">哇！等等，现在还不能看！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

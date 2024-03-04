@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="286">
+  <scripts>
+    <scene id="1" root="true">
+      <bg img="烟绯插图（背景"></bg>
+      <simple_dialog chara="yanfei" img="1" pos="left" key="gal-line-11a41140-fe70-11ec-8171-7f04a0ec1571">嗯…清淡爽口、口感鲜嫩，还冒着腾腾热气。</simple_dialog>
+      <simple_dialog chara="yanfei" img="2" pos="left" key="gal-line-11a41141-fe70-11ec-8171-7f04a0ec1571">这顿饭完美符合「豆腐律法」，我给它一百分！</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon3" pos="right" key="gal-line-11a41142-fe70-11ec-8171-7f04a0ec1571">嘿嘿，符合你的口味就好！</simple_dialog>
+      <simple_dialog chara="yanfei" img="1" pos="left" key="gal-line-11a41143-fe70-11ec-8171-7f04a0ec1571">作为回报，这里是各国律法资料！</simple_dialog>
+      <simple_dialog chara="yanfei" img="2" pos="left" key="gal-line-11a41144-fe70-11ec-8171-7f04a0ec1571">下次见面时我还可以赠送一次免费的普法课程哟~</simple_dialog>
+    </scene>
+  </scripts>
+</data>

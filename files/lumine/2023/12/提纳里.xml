@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="503">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2023提纳里-背景"></bg>
+      <simple_dialog chara="tighnari" img="提纳里-1" pos="right" key="gal-line-d803b970-a555-11ee-aad3-59064037cbd4">水之国生长的植物果然与雨林中的差异甚大，谢谢你们带来如此珍贵的礼物。</simple_dialog>
+      <simple_dialog chara="tighnari" img="提纳里-1" pos="right" key="gal-line-d803b971-a555-11ee-aad3-59064037cbd4">加上巡林时收获的这些，足够做一批新的标本了。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="center" key="gal-line-d803b972-a555-11ee-aad3-59064037cbd4">嘿嘿，你喜欢就好~</simple_dialog>
+      <simple_dialog chara="tighnari" img="提纳里-1" pos="right" key="gal-line-d803b973-a555-11ee-aad3-59064037cbd4">整理完这些我们就去吃饭吧。柯莱那孩子听说你们要来，几天前就开始念叨要准备些什么来招待。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-口水" pos="center" key="gal-line-d803b974-a555-11ee-aad3-59064037cbd4">好耶——那我们现在开始！</simple_dialog>
+      <simple_dialog chara="-2" key="gal-line-d803b975-a555-11ee-aad3-59064037cbd4">（三人开始整理……）</simple_dialog>
+      <simple_dialog chara="tighnari" img="提纳里-1" pos="right" key="gal-line-d803b976-a555-11ee-aad3-59064037cbd4">唔，虹彩蔷薇和须弥蔷薇虽然名字相近，外形却相去甚远…真是有趣。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-笑" pos="center" key="gal-line-d803b977-a555-11ee-aad3-59064037cbd4">（悄声）呜哇！旅行者你看这种叶子的形状，是不是很像…</simple_dialog>
+      <simple_dialog chara="player" img="aether6" pos="left" key="gal-line-d803b978-a555-11ee-aad3-59064037cbd4">咳咳，派蒙——</simple_dialog>
+    </scene>
+  </scripts>
+</data>

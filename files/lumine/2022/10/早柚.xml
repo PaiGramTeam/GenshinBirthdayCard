@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="332">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="早柚-场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-5c1387d0-4ebe-11ed-91a5-3d2f6719fc87">嗨，早柚！我们终于找到你了。</simple_dialog>
+      <simple_dialog chara="sayu" pos="right" img="早柚-2" key="gal-line-5c1387d1-4ebe-11ed-91a5-3d2f6719fc87">嘘…早柚现在在偷…啊不，在休息，不可以被巫女姐姐发现啦。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-5c1387d2-4ebe-11ed-91a5-3d2f6719fc87">那我小声一些…早柚，生日快乐！</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-5c1387d3-4ebe-11ed-91a5-3d2f6719fc87">我们还准备了饭团，一起趁热吃吧。</simple_dialog>
+      <simple_dialog chara="sayu" pos="right" img="早柚-1" key="gal-line-5c1387d4-4ebe-11ed-91a5-3d2f6719fc87">饭团能提供很多能量，吃完又可以安心睡觉了…谢谢你们为我准备这些…呼——</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-5c1387d5-4ebe-11ed-91a5-3d2f6719fc87">哎呀！怎么有东西掉下来…不好，巫女姐姐往这边看过来了！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

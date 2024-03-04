@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="368">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="托马-场景"></bg>
+      <simple_dialog chara="thoma" img="托马-2" pos="left" key="gal-line-b6fa7260-8d9a-11ed-8da9-3d5ec19d0c05">把这些饭团也拿着吧，给小动物们带些吃的。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="center" key="gal-line-b6fa7261-8d9a-11ed-8da9-3d5ec19d0c05">好呀，毛衣也快织好了，我们一会儿就出发。</simple_dialog>
+      <simple_dialog chara="thoma" img="托马-1" pos="left" key="gal-line-b6fa7262-8d9a-11ed-8da9-3d5ec19d0c05">哇，上次教学之后，旅行者进步很大嘛！</simple_dialog>
+      <simple_dialog chara="thoma" img="托马-1" pos="left" key="gal-line-b6fa7263-8d9a-11ed-8da9-3d5ec19d0c05">不过，这一件是不是太宽松了？</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-b6fa7264-8d9a-11ed-8da9-3d5ec19d0c05">嗯…好像是欸。要不派蒙试试看？合适的话就送你啦。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-6" pos="center" key="gal-line-b6fa7265-8d9a-11ed-8da9-3d5ec19d0c05">什么嘛，这明显就不是给人穿的衣服吧！手和脚都露不出来了！</simple_dialog>
+      <simple_dialog chara="thoma" img="托马-2" pos="left" key="gal-line-b6fa7266-8d9a-11ed-8da9-3d5ec19d0c05">哈哈，那就留给太郎丸吧，它一定会喜欢的！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

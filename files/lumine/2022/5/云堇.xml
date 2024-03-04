@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="196">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="云堇生日单格-背景"></bg>
+      <simple_dialog chara="paimon" pos="left" img="派蒙3" key="gal-line-b810e820-d803-11ec-a997-23c3942c5183">云堇，生日快乐！</simple_dialog>
+      <simple_dialog chara="YunJin" img="云堇-01" pos="right" key="gal-line-b810e821-d803-11ec-a997-23c3942c5183">呀，是旅行者和派蒙，谢谢你们。</simple_dialog>
+      <simple_dialog chara="paimon" pos="left" img="paimon2" key="gal-line-b810e822-d803-11ec-a997-23c3942c5183">我们一直想着要送你一份特别的生日礼物，想了好久好久…</simple_dialog>
+      <simple_dialog chara="paimon" pos="left" img="paimon3" key="gal-line-b810e823-d803-11ec-a997-23c3942c5183">最后试着写了一场「戏」！</simple_dialog>
+      <simple_dialog chara="player" pos="left" img="aether3" key="gal-line-b810e824-d803-11ec-a997-23c3942c5183">是以你为原型的故事。想现在唱给你听，可以吗？</simple_dialog>
+      <simple_dialog chara="YunJin" img="云堇-02" pos="right" key="gal-line-b810e825-d803-11ec-a997-23c3942c5183">当然可以，我很期待！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

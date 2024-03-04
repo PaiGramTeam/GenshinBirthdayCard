@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="198">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="派蒙插图-背景"></bg>
+      <simple_dialog chara="paimon" pos="left" key="gal-line-7bece3c0-dfc0-11ec-a89f-19c3f00c4cac" img="派蒙-正常">说起来，这已经是和你一起度过的第二个生日了呢！</simple_dialog>
+      <simple_dialog chara="paimon" pos="left" key="gal-line-7bece3c1-dfc0-11ec-a89f-19c3f00c4cac" img="派蒙-正常">过去的一年里，我们共同走过了好多地方，比如——</simple_dialog>
+      <simple_dialog chara="player" pos="right" key="gal-line-7bece3c2-dfc0-11ec-a89f-19c3f00c4cac" img="aether2">在神秘的海岛冒险。</simple_dialog>
+      <simple_dialog chara="paimon" pos="left" key="gal-line-7bece3c3-dfc0-11ec-a89f-19c3f00c4cac" img="派蒙-口水">那时我们在海边烧烤…</simple_dialog>
+      <simple_dialog chara="player" pos="right" key="gal-line-7bece3c4-dfc0-11ec-a89f-19c3f00c4cac" img="aether2">在稻妻结交了很多新朋友。</simple_dialog>
+      <simple_dialog chara="paimon" pos="left" key="gal-line-7bece3c5-dfc0-11ec-a89f-19c3f00c4cac" img="派蒙-好耶">吃到了好多好吃的…</simple_dialog>
+      <simple_dialog chara="player" pos="right" key="gal-line-7bed0ad0-dfc0-11ec-a89f-19c3f00c4cac" img="aether2">还在层岩巨渊下发现了许多秘密。</simple_dialog>
+      <simple_dialog chara="paimon" pos="left" key="gal-line-7bed0ad1-dfc0-11ec-a89f-19c3f00c4cac" img="派蒙-正常">见到了会说话的大蘑菇…</simple_dialog>
+      <simple_dialog chara="player" pos="right" key="gal-line-7bed0ad2-dfc0-11ec-a89f-19c3f00c4cac" img="aether-00">呃…你是不是又饿了？</simple_dialog>
+      <simple_dialog chara="paimon" pos="left" key="gal-line-7bed0ad3-dfc0-11ec-a89f-19c3f00c4cac" img="派蒙-笑">嘿嘿，被发现了。</simple_dialog>
+      <simple_dialog chara="paimon" pos="left" key="gal-line-7bed0ad4-dfc0-11ec-a89f-19c3f00c4cac" img="派蒙-好耶">那么接下来，就有请善良可爱的，我最好的伙伴，带我去吃蛋糕吧！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="209">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="雷神场景"></bg>
+      <simple_dialog chara="yae" img="八重-2" pos="left" key="gal-line-11355570-e86d-11ec-92c6-b7137b5b8af5">怎么样？读了这本《转生成为雷电将军，然后天下无敌》，你有什么感想吗？</simple_dialog>
+      <simple_dialog chara="ei" img="影-1" pos="right" key="gal-line-11355571-e86d-11ec-92c6-b7137b5b8af5">嗯…想法很有趣，没想到在一般民众眼里，将军会是这样的形象。</simple_dialog>
+      <simple_dialog chara="yae" img="八重-2" pos="left" key="gal-line-11355572-e86d-11ec-92c6-b7137b5b8af5">什么呀，真冷淡。不喜欢的话，我这里还有本《拜托了我的狐仙宫司》哦。</simple_dialog>
+      <simple_dialog chara="yae" img="八重-1" pos="left" key="gal-line-11355573-e86d-11ec-92c6-b7137b5b8af5">是八重堂限量发售的珍藏纪念版，扉页还有我的亲笔签名呢。</simple_dialog>
+      <simple_dialog chara="ei" img="影-2" pos="right" key="gal-line-11355574-e86d-11ec-92c6-b7137b5b8af5">你啊…</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon3" pos="center" key="gal-line-11355575-e86d-11ec-92c6-b7137b5b8af5">什么什么？让我看看…</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon1" pos="center" key="gal-line-11355576-e86d-11ec-92c6-b7137b5b8af5">呜哇！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

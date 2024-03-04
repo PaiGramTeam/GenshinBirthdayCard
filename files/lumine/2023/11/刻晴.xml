@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="483">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="刻晴-2023-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙1" pos="center" key="gal-line-61912bf0-8517-11ee-8ffd-27ecb6ee7bc9">等你的时候，香菱还准备了金丝虾球哦。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-61912bf1-8517-11ee-8ffd-27ecb6ee7bc9">派蒙已经盯了好久了……</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="center" key="gal-line-61912bf2-8517-11ee-8ffd-27ecb6ee7bc9">我一口都没有吃呢！刻晴先吃吧。</simple_dialog>
+      <simple_dialog chara="keqing" img="刻晴-2" pos="left" key="gal-line-61912bf3-8517-11ee-8ffd-27ecb6ee7bc9">今天事情有点多，谢谢你们等我。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-61912bf4-8517-11ee-8ffd-27ecb6ee7bc9">如果工作到很晚的话，直接回去休息也没关系的。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="center" key="gal-line-61912bf5-8517-11ee-8ffd-27ecb6ee7bc9">是呀是呀，劳逸结合是不错，但也别紧绷过头哦。</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="right" key="gal-line-61912bf6-8517-11ee-8ffd-27ecb6ee7bc9">派蒙还学刻晴说话。</simple_dialog>
+      <simple_dialog chara="keqing" img="刻晴-2" pos="left" key="gal-line-61915300-8517-11ee-8ffd-27ecb6ee7bc9">…噗，没关系。今日事今日毕是我的行事准则，工作要今天完成，和你的约定也一样重要。</simple_dialog>
+      <simple_dialog chara="keqing" img="刻晴-1" pos="left" key="gal-line-61915301-8517-11ee-8ffd-27ecb6ee7bc9">吃完饭再一起去逛一逛吧，如何？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

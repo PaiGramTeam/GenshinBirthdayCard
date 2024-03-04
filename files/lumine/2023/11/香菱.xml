@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="480">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="香菱2023-背景"></bg>
+      <simple_dialog chara="player" img="aether1" pos="center" key="gal-line-d9294cf0-73ed-11ee-8805-af4e3dc21181">香菱，生日快乐！这是给你带的新食材。</simple_dialog>
+      <simple_dialog chara="xiangling" img="香菱-1" pos="left" key="gal-line-d9297400-73ed-11ee-8805-af4e3dc21181">哇真是太感谢了，今天我也有准备特别料理招待大家哦！</simple_dialog>
+      <simple_dialog chara="xinyan" img="辛焱-2" pos="left" key="gal-line-d9297401-73ed-11ee-8805-af4e3dc21181">哈哈，已经有点期待了！</simple_dialog>
+      <simple_dialog chara="xiangling" img="香菱-1" pos="left" key="gal-line-d9297402-73ed-11ee-8805-af4e3dc21181">这可是我苦心研制、加了泡泡桔的新菜品——待会请务必多尝两口~</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="right" key="gal-line-d9297403-73ed-11ee-8805-af4e3dc21181">火……火！香菱，锅要爆炸啦！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-d9297404-73ed-11ee-8805-af4e3dc21181">快！派蒙，接住那个盘子——</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-8" pos="right" key="gal-line-d9297405-73ed-11ee-8805-af4e3dc21181">要接不住啦！！！！！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

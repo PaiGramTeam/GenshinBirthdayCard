@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="356">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="妮露-场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="left" key="gal-line-653ecbc0-7214-11ed-966a-93cc30504a7b">妮露，你刚刚跳的这支舞和正式演出时的感觉不太一样呢！</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-1" pos="right" key="gal-line-653ecbc1-7214-11ed-966a-93cc30504a7b">嗯…平常练习时，我会根据当下的心情对舞步做一些改编。</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-2" pos="right" key="gal-line-653ecbc2-7214-11ed-966a-93cc30504a7b">对了，旅行者。你要不要也一起？</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-653ecbc3-7214-11ed-966a-93cc30504a7b">欸？可是我不会跳须弥的舞…</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-2" pos="right" key="gal-line-653ecbc4-7214-11ed-966a-93cc30504a7b">没关系，请站到这里来。</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-1" pos="right" key="gal-line-653ef2d0-7214-11ed-966a-93cc30504a7b">你看，净善宫旁的那棵大树变得那么小，城里的吆喝声传到这儿也变得模模糊糊。</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-1" pos="right" key="gal-line-653ef2d1-7214-11ed-966a-93cc30504a7b">此刻没有别人，连湖中的鱼儿都去休息了，只有花草和月亮作为你的观众。</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-1" pos="right" key="gal-line-653ef2d2-7214-11ed-966a-93cc30504a7b">这种时候最适合尽情跳舞了！</simple_dialog>
+      <simple_dialog chara="player" img="aether4" pos="left" key="gal-line-653ef2d3-7214-11ed-966a-93cc30504a7b">妮露…</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-2" pos="right" key="gal-line-653ef2d4-7214-11ed-966a-93cc30504a7b">不必担心动作是否优美，你的舞蹈是独属于你自己的「语言」。试试看！我会认真去理解的。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

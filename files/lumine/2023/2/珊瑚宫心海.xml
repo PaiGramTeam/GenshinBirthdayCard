@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="380">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="心海-场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-7f9508a0-b110-11ed-8940-a9d8e160eee5">心海，你说，下一笔该画在哪里？</simple_dialog>
+      <simple_dialog chara="kokomi" img="心海-1" pos="right" key="gal-line-7f9508a1-b110-11ed-8940-a9d8e160eee5">嗯…等下旅行者醒过来会生气吧。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-7f9508a2-b110-11ed-8940-a9d8e160eee5">嘿嘿，旅行者才不会生我的气呢~</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-6" pos="left" key="gal-line-7f9508a3-b110-11ed-8940-a9d8e160eee5">再说了，是旅行者不对，都说好了要去帮忙布置生日晚会，却还在这里睡懒觉。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-6" pos="left" key="gal-line-7f9508a4-b110-11ed-8940-a9d8e160eee5">喂——！旅行者！旅行者——</simple_dialog>
+      <simple_dialog chara="kokomi" img="心海-1" pos="right" key="gal-line-7f9508a5-b110-11ed-8940-a9d8e160eee5">没关系的。我们在这里多待一会儿，刚好可以把《沉秋拾剑录》读完。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-7f9508a6-b110-11ed-8940-a9d8e160eee5">心海喜欢《沉秋拾剑录》？</simple_dialog>
+      <simple_dialog chara="kokomi" img="心海-2" pos="right" key="gal-line-7f9508a7-b110-11ed-8940-a9d8e160eee5">嗯。派蒙也喜欢吗？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-7f9508a8-b110-11ed-8940-a9d8e160eee5">当然了，不过我们在璃月的经历可比《沉秋拾剑录》更刺激哦！</simple_dialog>
+      <simple_dialog chara="kokomi" img="心海-1" pos="right" key="gal-line-7f9508a9-b110-11ed-8940-a9d8e160eee5">这样啊，派蒙和旅行者真厉害。</simple_dialog>
+      <simple_dialog chara="kokomi" img="心海-3" pos="right" key="gal-line-7f9508aa-b110-11ed-8940-a9d8e160eee5">过来这边，可以和我说说那些故事吗？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-7f9508ab-b110-11ed-8940-a9d8e160eee5">好啊好啊，嘻嘻，我跟你说哦…</simple_dialog>
+    </scene>
+  </scripts>
+</data>

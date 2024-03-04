@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="313">
+  <scripts>
+    <scene id="1" root="true">
+      <bg img="凝光-场景" chara="ningguang"></bg>
+      <simple_dialog chara="paimon" img="派蒙-笑" pos="left" key="gal-line-8f6cf2b0-2457-11ed-8f7c-fb9e3478c15e">从刚刚起，凝光就一直盯着那个卖饰品的女孩呢。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-8f6cf2b1-2457-11ed-8f7c-fb9e3478c15e">是因为想起了从前吗？</simple_dialog>
+      <simple_dialog chara="ningguang" pos="right" img="凝光1" key="gal-line-8f6cf2b2-2457-11ed-8f7c-fb9e3478c15e">呵呵，你比我想象中要更加敏锐。</simple_dialog>
+      <simple_dialog key="gal-line-8f6cf2b3-2457-11ed-8f7c-fb9e3478c15e" chara="ningguang" pos="right" img="凝光2">没错，她卖力的样子让我想到了过去的自己。</simple_dialog>
+      <simple_dialog chara="ningguang" pos="right" img="凝光3" key="gal-line-f6188470-2457-11ed-8f7c-fb9e3478c15e">时过境迁，如今走过这片海滩，心境早已不同从前。</simple_dialog>
+      <simple_dialog chara="ningguang" pos="right" img="凝光4" key="gal-line-f6188471-2457-11ed-8f7c-fb9e3478c15e">但就像浪潮褪去后留在沙滩上的贝壳一样，那段日子在我心中留下了宝贵的回忆。</simple_dialog>
+      <simple_dialog chara="ningguang" pos="right" img="凝光3" key="gal-line-f6188472-2457-11ed-8f7c-fb9e3478c15e">但愿那孩子也能够通过自己的努力实现梦想。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-f6188473-2457-11ed-8f7c-fb9e3478c15e">一定会的！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

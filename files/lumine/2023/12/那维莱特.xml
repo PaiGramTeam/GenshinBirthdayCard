@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="498">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2023那维莱特-背景"></bg>
+      <simple_dialog key="gal-line-f9fc80a0-9b39-11ee-90a0-9dce8eb61d3b" chara="player" img="aether1" pos="right">来，大家的咖啡。</simple_dialog>
+      <simple_dialog key="gal-line-f9fc80a1-9b39-11ee-90a0-9dce8eb61d3b" chara="Neuvillette" img="那维莱特-1" pos="left">谢谢。</simple_dialog>
+      <simple_dialog key="gal-line-f9fc80a2-9b39-11ee-90a0-9dce8eb61d3b" chara="paimon" img="派蒙-2" pos="center">今天是旅行者请客哦。</simple_dialog>
+      <simple_dialog key="gal-line-f9fc80a3-9b39-11ee-90a0-9dce8eb61d3b" chara="Sigewinne&amp;jiyala" pos="center">好！</simple_dialog>
+      <simple_dialog key="gal-line-f9fc80a4-9b39-11ee-90a0-9dce8eb61d3b" chara="paimon" img="派蒙-4" pos="center">你们在看什么呀？</simple_dialog>
+      <simple_dialog key="gal-line-f9fca7b0-9b39-11ee-90a0-9dce8eb61d3b" chara="Sigewinne" pos="center">是讲须弥占星术的书哦，可以算一算今后的运势。</simple_dialog>
+      <simple_dialog key="gal-line-17f143c0-9b3a-11ee-90a0-9dce8eb61d3b" chara="jiyala" pos="center">对了，上次说要帮那维莱特大人看看，但是突然有人来找，没看成。</simple_dialog>
+      <simple_dialog key="gal-line-17f143c1-9b3a-11ee-90a0-9dce8eb61d3b" chara="Sigewinne" pos="center">现在来看看吧？那维莱特大人的命之座是？</simple_dialog>
+      <simple_dialog key="gal-line-17f143c2-9b3a-11ee-90a0-9dce8eb61d3b" chara="player" img="aether6" pos="right">嗯…</simple_dialog>
+      <simple_dialog key="gal-line-17f143c3-9b3a-11ee-90a0-9dce8eb61d3b" chara="Neuvillette" img="那维莱特-1" pos="left">不妨你们先…</simple_dialog>
+      <simple_dialog key="gal-line-17f143c4-9b3a-11ee-90a0-9dce8eb61d3b" chara="paimon" img="派蒙-好耶" pos="center">对了，希格雯刚刚不是说，带了自己做的奶昔嘛，来尝尝吧？</simple_dialog>
+      <simple_dialog key="gal-line-17f143c5-9b3a-11ee-90a0-9dce8eb61d3b" chara="player" img="aether-00" pos="right">派蒙…</simple_dialog>
+      <simple_dialog key="gal-line-17f143c6-9b3a-11ee-90a0-9dce8eb61d3b" chara="Neuvillette" img="那维莱特-2" pos="left">唔，口感很好，味道也很丰富。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

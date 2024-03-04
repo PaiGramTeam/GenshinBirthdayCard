@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="467">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="雷泽2023-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-424e2620-4e1d-11ee-b2d8-815cf46504ba">哇——那颗星星好亮，真好看！</simple_dialog>
+      <simple_dialog chara="razor" img="雷泽-3" pos="right" key="gal-line-424e2621-4e1d-11ee-b2d8-815cf46504ba">湖里，也有。好看。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-424e2622-4e1d-11ee-b2d8-815cf46504ba">水面上也亮晶晶的。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-424e2623-4e1d-11ee-b2d8-815cf46504ba">星落湖的名字说不定就是这么来的呢。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-424e2624-4e1d-11ee-b2d8-815cf46504ba">也有诗歌说，是星星落到地上，才有了湖泽。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-424e2625-4e1d-11ee-b2d8-815cf46504ba">雷泽更喜欢哪一种说法？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="282">
+  <scripts>
+    <scene id="1" root="true">
+      <bg img="公子-场景"></bg>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-42ba9220-fe68-11ec-8171-7f04a0ec1571">达达利亚在哪里呢？</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon2" pos="right" key="gal-line-42ba9221-fe68-11ec-8171-7f04a0ec1571">找附近的愚人众士兵们问问？等等，湖边那堆雪好奇怪…</simple_dialog>
+      <simple_dialog chara="tartaglia" pos="center" key="gal-line-42ba9222-fe68-11ec-8171-7f04a0ec1571" img="达达利亚-1">你们来了，伙伴。</simple_dialog>
+      <simple_dialog img="aether2" chara="player" pos="left" key="gal-line-e9b7e640-fe68-11ec-8171-7f04a0ec1571">！</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon1" pos="right" key="gal-line-e9b7e641-fe68-11ec-8171-7f04a0ec1571">雪堆说话啦！</simple_dialog>
+      <simple_dialog chara="tartaglia" pos="center" img="达达利亚-2" key="gal-line-e9b7e642-fe68-11ec-8171-7f04a0ec1571">哈哈，吓到你们了？</simple_dialog>
+      <simple_dialog chara="tartaglia" pos="center" img="达达利亚-2" key="gal-line-e9b7e643-fe68-11ec-8171-7f04a0ec1571">大雪之后最适合冰钓，今天一定能钓到大鱼。只要再等一会儿——</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon1" pos="right" key="gal-line-e9b7e644-fe68-11ec-8171-7f04a0ec1571">他又一动不动了…我们来准备那个吧！</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-e9b80d50-fe68-11ec-8171-7f04a0ec1571">好的。</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon2" pos="right" key="gal-line-e9b80d51-fe68-11ec-8171-7f04a0ec1571">螃蟹…蟹黄…小火…啊火要灭了！我扇扇！</simple_dialog>
+      <simple_dialog chara="tartaglia" pos="center" img="达达利亚-2" key="gal-line-e9b80d52-fe68-11ec-8171-7f04a0ec1571">嘘…有动静——来吧！</simple_dialog>
+    </scene>
+  </scripts>
+</data>
