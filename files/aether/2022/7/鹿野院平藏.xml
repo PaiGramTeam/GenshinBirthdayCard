@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="285">
+  <scripts>
+    <scene id="1" root="true">
+      <bg img="平藏-场景"></bg>
+      <simple_dialog chara="heizou" pos="left" img="平藏-1" key="gal-line-63807270-fe6f-11ec-8171-7f04a0ec1571">哎呀呀，这不是我的搭档和小派蒙嘛，下午好。</simple_dialog>
+      <simple_dialog chara="player" pos="right" img="aether1" key="gal-line-63807271-fe6f-11ec-8171-7f04a0ec1571">平藏，生日快乐。</simple_dialog>
+      <simple_dialog chara="heizou" pos="left" img="平藏-1" key="gal-line-63807272-fe6f-11ec-8171-7f04a0ec1571">嘿嘿，真体贴啊，谢谢你们。</simple_dialog>
+      <simple_dialog chara="heizou" pos="left" img="平藏-3" key="gal-line-63807273-fe6f-11ec-8171-7f04a0ec1571">好香的味道，里面装的是什么？让我猜猜…</simple_dialog>
+      <simple_dialog chara="heizou" pos="left" img="平藏-2" key="gal-line-63807274-fe6f-11ec-8171-7f04a0ec1571">是「绯樱天妇罗」吧？</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-63807275-fe6f-11ec-8171-7f04a0ec1571">猜对了。</simple_dialog>
+      <simple_dialog chara="heizou" pos="left" img="平藏-1" key="gal-line-63807276-fe6f-11ec-8171-7f04a0ec1571">不过，烹饪过程似乎不太顺利，你们应该尝试了很多遍。</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon1" pos="right" key="gal-line-63807277-fe6f-11ec-8171-7f04a0ec1571">你怎么知道…</simple_dialog>
+      <simple_dialog chara="heizou" pos="left" img="平藏-3" key="gal-line-63807278-fe6f-11ec-8171-7f04a0ec1571">你圆鼓鼓的小肚皮已经告诉我了哦。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-no" pos="right" key="gal-line-63809980-fe6f-11ec-8171-7f04a0ec1571">欸？</simple_dialog>
+      <simple_dialog chara="heizou" pos="left" img="平藏-2" key="gal-line-63809981-fe6f-11ec-8171-7f04a0ec1571">嘴角也还挂着面衣呢。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-吓" pos="right" key="gal-line-63809982-fe6f-11ec-8171-7f04a0ec1571">欸——</simple_dialog>
+      <simple_dialog chara="heizou" pos="left" img="平藏-1" key="gal-line-63809983-fe6f-11ec-8171-7f04a0ec1571">哈哈，趁它凉掉之前，我们快找个地方坐下来，一起享用吧。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

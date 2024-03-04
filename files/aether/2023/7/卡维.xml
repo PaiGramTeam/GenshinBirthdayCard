@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="444">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="卡维2023-背景"></bg>
+      <simple_dialog key="gal-line-f23fd090-1b0c-11ee-a214-e1250f8ebea2" chara="player" img="aether2" pos="left">这是给我们的吗？</simple_dialog>
+      <simple_dialog chara="kaveh" img="卡维-1" pos="right" key="gal-line-7755acd0-1c7c-11ee-a214-e1250f8ebea2">嗯，画稿的间隙大概构思了一下，如果你们之后想在须弥有个住处，我可以做完整的设计。</simple_dialog>
+      <simple_dialog chara="kaveh" img="卡维-2" pos="right" key="gal-line-7755acd1-1c7c-11ee-a214-e1250f8ebea2">别不说话啊…感觉怎么样？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="left" key="gal-line-7755acd2-1c7c-11ee-a214-e1250f8ebea2">哇——特别好！</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-7755acd3-1c7c-11ee-a214-e1250f8ebea2">是兼具美观和舒适的房子，很喜欢。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-7755acd4-1c7c-11ee-a214-e1250f8ebea2">没错！我已经想象出住在里面的感觉了！</simple_dialog>
+      <simple_dialog chara="kaveh" img="卡维-1" pos="right" key="gal-line-7755acd5-1c7c-11ee-a214-e1250f8ebea2">…这么满意？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="left" key="gal-line-7755acd6-1c7c-11ee-a214-e1250f8ebea2">这还能有哪里不满意呀。</simple_dialog>
+      <simple_dialog chara="kaveh" img="卡维-1" pos="right" key="gal-line-7755acd7-1c7c-11ee-a214-e1250f8ebea2">唔…其实我很少有一次过稿的经历，多少都要改几次。</simple_dialog>
+      <simple_dialog chara="kaveh" img="卡维-2" pos="right" key="gal-line-7755acd8-1c7c-11ee-a214-e1250f8ebea2">你们不会是看在我生日的份上，让我体验一次过稿才故意这么说的吧？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="left" key="gal-line-7755acd9-1c7c-11ee-a214-e1250f8ebea2">怎么可能嘛！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

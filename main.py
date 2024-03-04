@@ -4,7 +4,7 @@ from defs.draw_data import download_images
 
 
 async def main():
-    # await save_raw_jsons()
+    await save_raw_jsons()
     await download_resources()
     await download_images()
 

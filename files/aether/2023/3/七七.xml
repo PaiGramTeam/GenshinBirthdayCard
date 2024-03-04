@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="385">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="七七-场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-81aefed0-b8ee-11ed-a162-7b4ae87f8faf">绝云间的路也太难走啦，上上下下的我都累了。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-81aefed1-b8ee-11ed-a162-7b4ae87f8faf">派蒙飞着也会累呀？休息一下吧，七七？</simple_dialog>
+      <simple_dialog chara="qiqi" img="七七2" pos="center" key="gal-line-81aefed2-b8ee-11ed-a162-7b4ae87f8faf">七七…不会累。七七…</simple_dialog>
+      <simple_dialog key="gal-line-81aefed3-b8ee-11ed-a162-7b4ae87f8faf">（七七翻了翻笔记。）</simple_dialog>
+      <simple_dialog chara="qiqi" img="七七1" pos="center" key="gal-line-81aefed4-b8ee-11ed-a162-7b4ae87f8faf">还有…好多药材没有采…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-81aefed5-b8ee-11ed-a162-7b4ae87f8faf">那我们去旁边休息一下，七七加油啦——</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-81aefed6-b8ee-11ed-a162-7b4ae87f8faf">欸？七七？爬上去太高啦，我们去采别的！</simple_dialog>
+      <simple_dialog chara="qiqi" img="七七1" pos="center" key="gal-line-81aefed7-b8ee-11ed-a162-7b4ae87f8faf">…七七…采药…</simple_dialog>
+      <simple_dialog key="gal-line-81aefed8-b8ee-11ed-a162-7b4ae87f8faf">（她似乎没听到，只是闷头一个劲继续往上爬。）</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="right" key="gal-line-81aefed9-b8ee-11ed-a162-7b4ae87f8faf">完全听不到了呢。之前白术先生似乎说过，如果七七被敕令卡住的话，要从背后抱住她，然后——</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-81aefeda-b8ee-11ed-a162-7b4ae87f8faf">然后？啊，我想起来了！可是，这怎么说的出口…很难为情——</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-81aefedb-b8ee-11ed-a162-7b4ae87f8faf">啊七七小心，要摔下来了！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-81aefedc-b8ee-11ed-a162-7b4ae87f8faf">解除敕令要紧，加油派蒙！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-8" pos="left" key="gal-line-81aefedd-b8ee-11ed-a162-7b4ae87f8faf">嗯…那个…等等…</simple_dialog>
+      <simple_dialog key="gal-line-81aefede-b8ee-11ed-a162-7b4ae87f8faf">（派蒙追上去，一把抱住了七七。）</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-81aefedf-b8ee-11ed-a162-7b4ae87f8faf">我…最·喜·欢·你·了！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="317">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="雷泽-场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-1" pos="left" key="gal-line-a2440590-2d94-11ed-9f6a-757c41739f0f">这边这边！看我的…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-a2440591-2d94-11ed-9f6a-757c41739f0f">呜哇真的冲过来了，救命啊！</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="right" key="gal-line-a2440592-2d94-11ed-9f6a-757c41739f0f">派蒙在帮倒忙…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-6" pos="left" key="gal-line-a2440593-2d94-11ed-9f6a-757c41739f0f">可恶，旅行者不也是嘛，野猪都被你吓跑了！</simple_dialog>
+      <simple_dialog chara="razor" img="雷泽-1" pos="center" key="gal-line-a2440594-2d94-11ed-9f6a-757c41739f0f">狩猎，不能急。我教你。</simple_dialog>
+      <simple_dialog chara="razor" img="雷泽-2" pos="center" key="gal-line-a2440595-2d94-11ed-9f6a-757c41739f0f">身体，压低。</simple_dialog>
+      <simple_dialog chara="razor" img="雷泽-2" pos="center" key="gal-line-a2440596-2d94-11ed-9f6a-757c41739f0f">呼吸，轻轻的。脚步，慢慢的。</simple_dialog>
+      <simple_dialog chara="razor" img="雷泽-3" pos="center" key="gal-line-a2440597-2d94-11ed-9f6a-757c41739f0f">然后…</simple_dialog>
+    </scene>
+  </scripts>
+</data>

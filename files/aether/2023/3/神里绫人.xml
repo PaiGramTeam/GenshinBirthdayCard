@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="396">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="绫人生日背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-85c07eb0-ca21-11ed-a848-af3d7f5fa987">哇——是七圣召唤卡牌！</simple_dialog>
+      <simple_dialog chara="ayato" img="绫人-1" pos="right" key="gal-line-85c07eb1-ca21-11ed-a848-af3d7f5fa987">旅行者，要打两局吗？如果你赢了，我就把这套卡牌赠与你。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-85c07eb2-ca21-11ed-a848-af3d7f5fa987">欸，明明是绫人过生日，反而是要送我们东西吗？</simple_dialog>
+      <simple_dialog chara="ayato" img="绫人-1" pos="right" key="gal-line-85c07eb3-ca21-11ed-a848-af3d7f5fa987">不必在意，难得暂离公务，只是做些放松的事情。</simple_dialog>
+      <simple_dialog chara="ayato" img="绫人-2" pos="right" key="gal-line-85c07eb4-ca21-11ed-a848-af3d7f5fa987">再说…结果还不一定呢，不是吗？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-85c07eb5-ca21-11ed-a848-af3d7f5fa987">呃…旅行者，你一定可以的吧？</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-85c07eb6-ca21-11ed-a848-af3d7f5fa987">派蒙难得对食物以外的东西这么热衷…嗯，出牌吧~</simple_dialog>
+    </scene>
+  </scripts>
+</data>

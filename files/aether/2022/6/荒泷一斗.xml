@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="199">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="一斗插图-背景"></bg>
+      <simple_dialog chara="itto" img="一斗-1" pos="left" key="gal-line-90b7d920-dfc2-11ec-a89f-19c3f00c4cac">哟！我的挚友啊，欢迎来到「荒泷天下独尊一斗的生日豪歌会」！</simple_dialog>
+      <simple_dialog chara="itto" img="一斗-2" pos="left" key="gal-line-90b7d921-dfc2-11ec-a89f-19c3f00c4cac">你们是今天到场的第七位和第八位客人！</simple_dialog>
+      <simple_dialog img="paimon1" chara="paimon" pos="right" key="gal-line-90b7d922-dfc2-11ec-a89f-19c3f00c4cac">居、居然有这么多人！还有谁来了呀？</simple_dialog>
+      <simple_dialog img="一斗-2" chara="itto" pos="left" key="gal-line-90b7d923-dfc2-11ec-a89f-19c3f00c4cac">既然你诚心诚意地发问了，本大爷就也诚心诚意地告诉你！听好了…</simple_dialog>
+      <simple_dialog chara="itto" img="一斗-1" pos="left" key="gal-line-90b7d924-dfc2-11ec-a89f-19c3f00c4cac">一共八位，除了我们三个之外，还有鬼婆婆、阿晃、阿守、元太、阿忍…</simple_dialog>
+      <simple_dialog img="一斗-2" chara="itto" pos="left" key="gal-line-90b7d925-dfc2-11ec-a89f-19c3f00c4cac">对了，还有阿丑！</simple_dialog>
+      <simple_dialog img="一斗-3" chara="itto" pos="left" key="gal-line-dbf4dd70-dfc2-11ec-a89f-19c3f00c4cac">欸…</simple_dialog>
+      <simple_dialog key="gal-line-90b7d926-dfc2-11ec-a89f-19c3f00c4cac" img="一斗-2" chara="itto" pos="left">这不是有九位嘛，哈哈哈哈！</simple_dialog>
+      <simple_dialog key="gal-line-90b7d927-dfc2-11ec-a89f-19c3f00c4cac" img="paimon1" pos="right" chara="paimon">阿丑也算啊！</simple_dialog>
+      <simple_dialog key="gal-line-90b7d928-dfc2-11ec-a89f-19c3f00c4cac" chara="itto" img="一斗-1" pos="left">那当然！阿丑可是荒泷派的编外成员。</simple_dialog>
+      <simple_dialog key="gal-line-90b7d929-dfc2-11ec-a89f-19c3f00c4cac" chara="itto" img="一斗-2" pos="left">来，你们俩别不好意思，站到这里，把内心的豪情和对本大爷的祝福都唱出来！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

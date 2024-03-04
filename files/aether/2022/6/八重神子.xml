@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="210">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="八重-场景"></bg>
+      <simple_dialog chara="paimon" img="paimon1" pos="left" key="gal-line-d61ce560-e86d-11ec-92c6-b7137b5b8af5">哇——我们一进门，大家的目光全都聚集过来了！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-d61ce561-e86d-11ec-92c6-b7137b5b8af5">毕竟雷电将军和八重宫司同时出现在这里了。</simple_dialog>
+      <simple_dialog chara="yae" img="八重-1" pos="right" key="gal-line-d61ce562-e86d-11ec-92c6-b7137b5b8af5">呵呵，说得好像是什么严肃的会面一样。</simple_dialog>
+      <simple_dialog chara="yae" img="八重-2" pos="right" key="gal-line-d61ce563-e86d-11ec-92c6-b7137b5b8af5">不过，倒确实难得见到影出来闲逛呢。</simple_dialog>
+      <simple_dialog chara="yae" img="八重-1" pos="right" key="gal-line-d61ce564-e86d-11ec-92c6-b7137b5b8af5">那就点一份牛奶团子来庆祝吧。</simple_dialog>
+      <simple_dialog chara="yae" img="八重-2" pos="right" key="gal-line-d61ce565-e86d-11ec-92c6-b7137b5b8af5">嗯…可惜，这家店的菜单上好像没有呢，只能麻烦你们跑一趟啦。</simple_dialog>
+      <simple_dialog chara="yae" img="八重-1" pos="right" key="gal-line-d61ce566-e86d-11ec-92c6-b7137b5b8af5">快去，快去。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙2" pos="left" key="gal-line-d61ce567-e86d-11ec-92c6-b7137b5b8af5">咦？怎么突然…</simple_dialog>
+    </scene>
+  </scripts>
+</data>

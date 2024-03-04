@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="439">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="雷神2023-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-5" pos="left" key="gal-line-9d9da6a0-1320-11ee-b633-1f2555372ded">唔…还是不成功吗…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-9d9dcdb0-1320-11ee-b633-1f2555372ded">这些不全是适合锻造刀剑的矿石，或许我们应该考虑做些别的。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-9d9dcdb1-1320-11ee-b633-1f2555372ded">装饰品怎么样？比如之前那座御…御建…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-9d9dcdb2-1320-11ee-b633-1f2555372ded">「御建鸣神主尊大御所大人像」？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="left" key="gal-line-9d9dcdb3-1320-11ee-b633-1f2555372ded">对对，我说的就是这个！我们可以设计类似的装饰品送给影嘛。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-9d9dcdb4-1320-11ee-b633-1f2555372ded">欸，我是不是眼花了，站在那边的人…是影吗？</simple_dialog>
+      <simple_dialog chara="ei" img="影-1" pos="center" key="gal-line-9d9dcdb5-1320-11ee-b633-1f2555372ded">「哎呀，最近不出去散心吗？我听说趁月色到天目锻冶屋附近转转…或许会有不得了的发现哦？」</simple_dialog>
+      <simple_dialog chara="ei" img="影-1" pos="center" key="gal-line-9d9dcdb6-1320-11ee-b633-1f2555372ded">原来神子当时这么说，是因为你们。</simple_dialog>
+      <simple_dialog chara="ei" img="影-3" pos="center" key="gal-line-9d9dcdb7-1320-11ee-b633-1f2555372ded">无须拘泥于形式和造型，各位的心意就是最好的礼物了。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

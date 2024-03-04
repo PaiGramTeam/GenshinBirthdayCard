@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="378">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="北斗-场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-6af31f20-ab68-11ed-bd7f-a9aaf2a8a11a">大——姐——头——我们在这里！</simple_dialog>
+      <simple_dialog chara="beidou" img="北斗-2" pos="right" key="gal-line-6af31f21-ab68-11ed-bd7f-a9aaf2a8a11a">哟，是旅行者和派蒙来了，云先生也在，好久不见。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-6af31f22-ab68-11ed-bd7f-a9aaf2a8a11a">云堇听说你今日返航，于是和我们一起在万民堂准备了一桌菜，大家小聚一下。</simple_dialog>
+      <simple_dialog chara="beidou" img="北斗-1" pos="right" key="gal-line-6af31f23-ab68-11ed-bd7f-a9aaf2a8a11a">在海上确实格外想念万民堂的口味，大家费心了。来，这个你们先拿着。</simple_dialog>
+      <simple_dialog chara="beidou" img="北斗-2" pos="right" key="gal-line-6af31f24-ab68-11ed-bd7f-a9aaf2a8a11a">别惊讶，壶里其实是果汁，算是这次出航的意外收获吧。</simple_dialog>
+      <simple_dialog chara="beidou" img="北斗-1" pos="right" key="gal-line-6af34630-ab68-11ed-bd7f-a9aaf2a8a11a">我和兄弟们都觉得味道很不错，所以用酒壶带了一份回来给你们试试。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="left" key="gal-line-6af34631-ab68-11ed-bd7f-a9aaf2a8a11a">好耶！大姐头见多识广，味道一定很不错！如果先偷偷尝一口的话，旅行者不会发现吧——</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-6af34632-ab68-11ed-bd7f-a9aaf2a8a11a">欸，旅行者呢？</simple_dialog>
+      <simple_dialog chara="beidou" img="北斗-2" pos="right" key="gal-line-6af34633-ab68-11ed-bd7f-a9aaf2a8a11a">哈哈哈，旅行者好像被拉住了。</simple_dialog>
+      <simple_dialog chara="beidou" img="北斗-2" pos="right" key="gal-line-6af34634-ab68-11ed-bd7f-a9aaf2a8a11a">这次出航收获颇多，给大家准备了不少礼物，千万别客气！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

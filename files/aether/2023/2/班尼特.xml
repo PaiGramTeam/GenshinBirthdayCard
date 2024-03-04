@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="381">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="班尼特插图-场景"></bg>
+      <simple_dialog chara="bannet" img="班尼特-2" pos="left" key="gal-line-c5feee80-b649-11ed-8795-fb82987eade7">快看，是宝藏！我们真的找到了宝藏！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="right" key="gal-line-c5feee81-b649-11ed-8795-fb82987eade7">太好了，「班尼冒险团」本次作战顺利结束！</simple_dialog>
+      <simple_dialog chara="bannet" img="班尼特-1" pos="left" key="gal-line-c5feee82-b649-11ed-8795-fb82987eade7">这一路上真是有惊无险，我差点就被从天上莫名其妙掉下来的巨石砸中了。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-5" pos="right" key="gal-line-c5feee83-b649-11ed-8795-fb82987eade7">还有半路突然窜出来的野林猪追着我跑…</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="left" key="gal-line-c5feee84-b649-11ed-8795-fb82987eade7">这真的叫顺利吗…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="right" key="gal-line-c5feee85-b649-11ed-8795-fb82987eade7">不要在意那些细节嘛！班尼特，快打开宝箱看看吧~</simple_dialog>
+      <simple_dialog chara="bannet" img="班尼特-3" pos="left" key="gal-line-c5feee86-b649-11ed-8795-fb82987eade7">好，好的！</simple_dialog>
+      <simple_dialog chara="bannet" img="班尼特-3" pos="left" key="gal-line-c5feee87-b649-11ed-8795-fb82987eade7">…咦？总感觉手心滑滑的。</simple_dialog>
+      <simple_dialog chara="bannet" img="班尼特-1" pos="left" key="gal-line-c5feee88-b649-11ed-8795-fb82987eade7">可能是我太紧张，出了很多汗吧，哈哈…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-c5feee89-b649-11ed-8795-fb82987eade7">小心！是史莱姆——</simple_dialog>
+    </scene>
+  </scripts>
+</data>

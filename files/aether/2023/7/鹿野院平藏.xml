@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="455">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="平藏2023-背景"></bg>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-cdb593a0-279a-11ee-890f-c73b8b2aff00">今天这趟外出发现了不少有用的线索。</simple_dialog>
+      <simple_dialog chara="heizou" img="平藏-1" pos="right" key="gal-line-cdb593a1-279a-11ee-890f-c73b8b2aff00">哎呀呀，和你搭档果然是正确的选择！不过小派蒙怎么看起来无精打采的。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="right" key="gal-line-cdb593a2-279a-11ee-890f-c73b8b2aff00">哼哼，还不是因为你昨天说的那个「清籁调查怪谈」…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-cdb593a3-279a-11ee-890f-c73b8b2aff00">派蒙听完做噩梦了，没睡好呢。</simple_dialog>
+      <simple_dialog chara="heizou" img="平藏-2" pos="right" key="gal-line-cdb593a4-279a-11ee-890f-c73b8b2aff00">原来是这样啊。</simple_dialog>
+      <simple_dialog chara="heizou" img="平藏-2" pos="right" key="gal-line-cdb593a5-279a-11ee-890f-c73b8b2aff00">在我还是新人时，曾经也被案子吓到过，后来倒是找到了缓解方法。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-cdb593a6-279a-11ee-890f-c73b8b2aff00">是、是什么方法？</simple_dialog>
+      <simple_dialog chara="heizou" img="平藏-3" pos="right" key="gal-line-cdb593a7-279a-11ee-890f-c73b8b2aff00">那就是——一整天只吃油炸食物！</simple_dialog>
+      <simple_dialog chara="heizou" img="平藏-3" pos="right" key="gal-line-cdb593a8-279a-11ee-890f-c73b8b2aff00">你们这是什么表情，真的有效哦。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-cdb593a9-279a-11ee-890f-c73b8b2aff00">欸——欸？真的吗？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-5" pos="left" key="gal-line-cdb593aa-279a-11ee-890f-c73b8b2aff00">现在也快到吃饭时间了，旅行者，不如我们试试吧…</simple_dialog>
+    </scene>
+  </scripts>
+</data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="207">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="温迪-背景"></bg>
+      <simple_dialog chara="paimon" img="paimon2" pos="left" key="gal-line-a59de370-e7ce-11ec-9c68-2ba7948d3f0d">快看，是卖唱的！</simple_dialog>
+      <simple_dialog chara="venti" img="温迪-2" pos="right" key="gal-line-a59de371-e7ce-11ec-9c68-2ba7948d3f0d">嘿，我刚刚还想着你们什么时候会来呢。</simple_dialog>
+      <simple_dialog chara="player" img="aether1" pos="left" key="gal-line-a59de372-e7ce-11ec-9c68-2ba7948d3f0d">温迪，今天是你的生日。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-a59de373-e7ce-11ec-9c68-2ba7948d3f0d">有什么生日愿望，或是想要做的事情吗？</simple_dialog>
+      <simple_dialog chara="venti" img="温迪-1" pos="right" key="gal-line-a59de374-e7ce-11ec-9c68-2ba7948d3f0d">嗯…那就陪我一起聊聊天，散散步，要是能再去喝一杯就好了。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙2" pos="left" key="gal-line-a59de375-e7ce-11ec-9c68-2ba7948d3f0d">都是些好平常的事情…我还以为神明的生日愿望会更有「噼咔」的感觉呢…</simple_dialog>
+      <simple_dialog chara="venti" img="温迪-1" pos="right" key="gal-line-a59de376-e7ce-11ec-9c68-2ba7948d3f0d">欸嘿，那种「噼咔」的感觉，不是来自于做了什么事情，而是来自于陪伴在身边的人。</simple_dialog>
+      <simple_dialog chara="venti" img="温迪-2" pos="right" key="gal-line-a59de377-e7ce-11ec-9c68-2ba7948d3f0d">对吧，旅行者？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

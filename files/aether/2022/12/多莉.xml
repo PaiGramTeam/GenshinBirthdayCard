@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="360">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="多莉-场景"></bg>
+      <simple_dialog chara="dori" img="多莉-2" pos="left" key="gal-line-996b0c10-7d18-11ed-a392-935c2884e4c4">赚呀赚呀赚摩拉，亮晶晶的摩拉少不了，看一看呀数一数，只要有摩拉就没烦恼~</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="left" key="gal-line-996b0c11-7d18-11ed-a392-935c2884e4c4">哎呀，这不是大名鼎鼎的旅行者，还有…旁边的小吉祥物嘛！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-6" pos="right" key="gal-line-996b0c12-7d18-11ed-a392-935c2884e4c4">喂！</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="left" key="gal-line-996b0c13-7d18-11ed-a392-935c2884e4c4">等等，你们手上拿的莫非就是…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-996b0c14-7d18-11ed-a392-935c2884e4c4">摩拉肉。</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="left" key="gal-line-996b0c15-7d18-11ed-a392-935c2884e4c4">送给我的吗？干得不错，快让我尝尝——</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-3" pos="left" key="gal-line-996b0c16-7d18-11ed-a392-935c2884e4c4">嗯！味道真棒！只不过摩拉肉里没有摩拉呢。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="right" key="gal-line-996b0c17-7d18-11ed-a392-935c2884e4c4">渔人吐司里没有渔人，黄金蟹里面也没有黄金呀！</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="left" key="gal-line-996b0c18-7d18-11ed-a392-935c2884e4c4">也对，如果用摩拉做原料，再把它卖掉去赚摩拉，不就得不偿失了嘛。</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="left" key="gal-line-996b3320-7d18-11ed-a392-935c2884e4c4">但如果把一份普普通通的商品用「摩拉」包装一下，就可以获得百倍利润…</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="left" key="gal-line-996b3321-7d18-11ed-a392-935c2884e4c4">比如在盘子底部印上摩拉的符号，再做一些宣传：「每天用它吃饭，就能招财进宝，日进斗金。」</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-2" pos="left" key="gal-line-996b3322-7d18-11ed-a392-935c2884e4c4">嘿嘿，发现新商机！</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="left" key="gal-line-996b3323-7d18-11ed-a392-935c2884e4c4">怎么样，旅行者，心动了吧？</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="left" key="gal-line-996b3324-7d18-11ed-a392-935c2884e4c4">你是第一个顾客，可以给你打八折优惠哦！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

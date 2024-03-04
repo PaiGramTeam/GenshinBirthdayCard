@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="430">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="菲谢尔-背景"></bg>
+      <simple_dialog chara="auz" img="奥兹-2" pos="center" key="gal-line-b0682a80-fb9c-11ed-8755-0d5fe3715c38">今日待完成的事项不少，感谢两位前来帮助小姐准备邀请函。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-b0682a81-fb9c-11ed-8755-0d5fe3715c38">不用客气！嘿嘿，那我们现在开始吧。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-b0682a82-fb9c-11ed-8755-0d5fe3715c38">「在此命定之日，诚邀各位于夜…夜幕垂落之时，在本皇女选定之地，赐与诸位共品之幸…」</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="left" key="gal-line-b0682a83-fb9c-11ed-8755-0d5fe3715c38">「随后循着星辰的轨迹，见证远方命运的预兆…」</simple_dialog>
+      <simple_dialog chara="Fishel" img="菲谢尔-5" pos="center" key="gal-line-b0682a84-fb9c-11ed-8755-0d5fe3715c38">此即幽夜净土之圣诏！本皇女最信任的扈从啊，你的贡献将被永远铭记。</simple_dialog>
+      <simple_dialog chara="auz" img="菲谢尔-4" pos="center" key="gal-line-b0682a85-fb9c-11ed-8755-0d5fe3715c38">啊，这句话是小姐在感谢你，不用写进邀请函。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-b0682a86-fb9c-11ed-8755-0d5fe3715c38">所以邀请函里究竟说了些什么呀？</simple_dialog>
+      <simple_dialog chara="auz" img="菲谢尔-4" pos="center" key="gal-line-b0682a87-fb9c-11ed-8755-0d5fe3715c38">小姐的意思是，请大家傍晚来猎鹿人餐馆小聚，然后去蒙德城郊外散步。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-b0682a88-fb9c-11ed-8755-0d5fe3715c38">唔…只看文字完全不明白呢…</simple_dialog>
+      <simple_dialog chara="auz" img="奥兹-2" pos="center" key="gal-line-b0682a89-fb9c-11ed-8755-0d5fe3715c38">咳，将信送到客人手里时，要拜托两位帮忙解释一番了。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

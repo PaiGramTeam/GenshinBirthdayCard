@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="489">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2023-砂糖-背景"></bg>
+      <simple_dialog chara="shatang" img="砂糖-2" pos="right" key="gal-line-aa635c70-8a96-11ee-a2db-fb796dd3bb6d">好完整的头骨，圆圆的真可爱~</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙1" pos="center" key="gal-line-aa635c71-8a96-11ee-a2db-fb796dd3bb6d">对了，砂糖~这些是我们在旅途中收集的各种骨头，送给你哦！</simple_dialog>
+      <simple_dialog chara="player" img="aether1" pos="left" key="gal-line-aa635c72-8a96-11ee-a2db-fb796dd3bb6d">生日快乐，砂糖。</simple_dialog>
+      <simple_dialog chara="shatang" img="砂糖-2" pos="right" key="gal-line-aa635c73-8a96-11ee-a2db-fb796dd3bb6d">哇，都是从未见过的生物，真是太神奇了！可以的话，能给我介绍一下它们的来历嘛？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="center" key="gal-line-aa635c74-8a96-11ee-a2db-fb796dd3bb6d">没问题，可是挖了一早上沙子，有点饿了…饿得晕晕的，脑袋也转不动…</simple_dialog>
+      <simple_dialog chara="shatang" img="砂糖-1" pos="right" key="gal-line-aa635c75-8a96-11ee-a2db-fb796dd3bb6d">啊，我有准备露营的食材，派蒙快先休息，先喝点水，都怪我只顾着寻找材料。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="center" key="gal-line-aa635c76-8a96-11ee-a2db-fb796dd3bb6d">没…没关系啦，挖沙子也很有意思！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

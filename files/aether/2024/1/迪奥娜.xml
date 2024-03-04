@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="510">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2024迪奥娜"></bg>
+      <simple_dialog chara="diona" img="迪奥娜-1" pos="right" key="gal-line-d41ac300-b449-11ee-9f96-0df9147f10ff">等你们好久了，说好的「那个」带来了没？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-笑" pos="center" key="gal-line-d41aea10-b449-11ee-9f96-0df9147f10ff">嗯嗯，带来了~为了拿到它可费了我们一番功夫。</simple_dialog>
+      <simple_dialog chara="diona" img="迪奥娜-2" pos="right" key="gal-line-d41aea11-b449-11ee-9f96-0df9147f10ff">辛苦啦，接下来就交给我吧！哼哼，蒙德酒业的末日就在今天！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="center" key="gal-line-d41aea12-b449-11ee-9f96-0df9147f10ff">哼哼，「酒业杀手」，出击！</simple_dialog>
+      <simple_dialog chara="-2" key="gal-line-d41aea13-b449-11ee-9f96-0df9147f10ff">迪奥娜接过「那个」，又选取了一些材料开始调制饮品。</simple_dialog>
+      <simple_dialog chara="player" img="aether5" pos="left" key="gal-line-d41aea14-b449-11ee-9f96-0df9147f10ff">话虽如此，我们也没有尝试过品尝这种液体…</simple_dialog>
+      <simple_dialog chara="player" img="aether5" pos="left" key="gal-line-d41aea15-b449-11ee-9f96-0df9147f10ff">万一出乎意料地好喝——</simple_dialog>
+      <simple_dialog chara="diona" img="迪奥娜-2" pos="right" key="gal-line-d41aea16-b449-11ee-9f96-0df9147f10ff">绝无可能，这诡异的颜色，腐败的气味，一定没错——旅行者先来试试吧！</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="left" key="gal-line-d41aea17-b449-11ee-9f96-0df9147f10ff">？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

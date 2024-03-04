@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="473">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="辛焱2023-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="center" key="gal-line-513f1a20-69ae-11ee-9815-7764ef6d5f01">辛焱！好久不见呀。</simple_dialog>
+      <simple_dialog chara="xinyan" img="辛焱-2" pos="left" key="gal-line-513f1a21-69ae-11ee-9815-7764ef6d5f01">是啊，听说你们去枫丹了，怎么样？</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-513f1a22-69ae-11ee-9815-7764ef6d5f01">唔…我们坐下慢慢说吧。</simple_dialog>
+      <simple_dialog key="gal-line-513f1a23-69ae-11ee-9815-7764ef6d5f01">（三人喝着茶，旅行者和派蒙给辛焱说了一些在枫丹的见闻。）</simple_dialog>
+      <simple_dialog chara="xinyan" img="辛焱-2" pos="left" key="gal-line-513f4130-69ae-11ee-9815-7764ef6d5f01">哇——能在歌剧院演出，应该是很厉害的人吧。</simple_dialog>
+      <simple_dialog chara="xinyan" img="辛焱-1" pos="left" key="gal-line-513f4131-69ae-11ee-9815-7764ef6d5f01">有空我也想去枫丹演出，也能找找灵感。怎么样，要不要一起？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="right" key="gal-line-513f4132-69ae-11ee-9815-7764ef6d5f01">哇哦，合作舞台吗？</simple_dialog>
+      <simple_dialog chara="xinyan" img="辛焱-1" pos="left" key="gal-line-513f4133-69ae-11ee-9815-7764ef6d5f01">对，我可以帮你们准备我亲手做的乐器哦。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-好耶" pos="right" key="gal-line-513f4134-69ae-11ee-9815-7764ef6d5f01">好期待呀！</simple_dialog>
+      <simple_dialog chara="xinyan" img="辛焱-2" pos="left" key="gal-line-513f4135-69ae-11ee-9815-7764ef6d5f01">正好听听我新写的曲子。来，动起来吧，摇滚时间到！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

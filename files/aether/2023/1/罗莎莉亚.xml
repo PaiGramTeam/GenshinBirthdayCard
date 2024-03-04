@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="374">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="罗莎莉亚-场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-af2a1260-9719-11ed-bc07-f74b97f9c6d4">城里的酒馆都找了一遍，难道她出城工作去了？我们再找找！希望罗莎莉亚喜欢烤肉卷…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-af2a1261-9719-11ed-bc07-f74b97f9c6d4">那边城墙上是不是她？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-af2a1262-9719-11ed-bc07-f74b97f9c6d4">——嗨！罗莎莉亚！</simple_dialog>
+      <simple_dialog chara="rosaria" img="罗莎莉亚-1" pos="right" key="gal-line-af2a1263-9719-11ed-bc07-f74b97f9c6d4">哦？是你们啊，早安。</simple_dialog>
+      <simple_dialog chara="rosaria" img="罗莎莉亚-2" pos="right" key="gal-line-af2a1264-9719-11ed-bc07-f74b97f9c6d4">今天的工作时间结束了，需要帮助的话明天再说吧。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-笑" pos="left" key="gal-line-af2a1265-9719-11ed-bc07-f74b97f9c6d4">不是的啦，听说今天是你的生日，我们是来给你送礼物的！</simple_dialog>
+      <simple_dialog chara="player" img="aether1" pos="left" key="gal-line-af2a1266-9719-11ed-bc07-f74b97f9c6d4">生日快乐。</simple_dialog>
+      <simple_dialog chara="rosaria" img="罗莎莉亚-1" pos="right" key="gal-line-af2a1267-9719-11ed-bc07-f74b97f9c6d4">嗯？独特的烤肉香气…谢谢，你们有心了。</simple_dialog>
+      <simple_dialog chara="rosaria" img="罗莎莉亚-1" pos="right" key="gal-line-af2a1268-9719-11ed-bc07-f74b97f9c6d4">我正要去喝杯早餐酒，没什么事的话一起来吧？</simple_dialog>
+      <simple_dialog chara="rosaria" img="罗莎莉亚-1" pos="right" key="gal-line-af2a1269-9719-11ed-bc07-f74b97f9c6d4">蒲公英酒配烤肉，真是不错的早餐…想喝点什么？我请客。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

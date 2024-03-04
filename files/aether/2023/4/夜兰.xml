@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="406">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="夜兰2023"></bg>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-b394ad50-de87-11ed-891d-b3a6fb8cad81">就是这里了吧，岩上茶室招待员说的位置。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-b394ad51-de87-11ed-891d-b3a6fb8cad81">这么晚了约在这里相见，还让我们带上留影机，好神秘…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-1" pos="left" key="gal-line-b394ad52-de87-11ed-891d-b3a6fb8cad81">知道了，是不是为我们准备了什么惊喜？</simple_dialog>
+      <simple_dialog chara="yelan" img="夜兰-1" pos="right" key="gal-line-b394ad53-de87-11ed-891d-b3a6fb8cad81">——来的正好。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-b394ad54-de87-11ed-891d-b3a6fb8cad81">哇，是夜兰！</simple_dialog>
+      <simple_dialog chara="yelan" img="夜兰-1" pos="right" key="gal-line-b394ad55-de87-11ed-891d-b3a6fb8cad81">嘘，别把「惊喜」吓跑了。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-b394ad56-de87-11ed-891d-b3a6fb8cad81">留影机和备用胶卷就位，保证不遗漏任何细节！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="left" key="gal-line-b394ad57-de87-11ed-891d-b3a6fb8cad81">庆功宴食材——香辛果就位！</simple_dialog>
+      <simple_dialog chara="yelan" img="夜兰-2" pos="right" key="gal-line-b394ad58-de87-11ed-891d-b3a6fb8cad81">那么现在就等好戏开场了。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

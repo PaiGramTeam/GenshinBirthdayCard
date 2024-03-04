@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="493">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2023妮露-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙1" pos="center" key="gal-line-7a6627a0-902c-11ee-9fed-af96342aa368">妮露——祖拜尔先生让我们把这些信交给你。</simple_dialog>
+      <simple_dialog chara="player" img="aether4" pos="left" key="gal-line-7a6627a1-902c-11ee-9fed-af96342aa368">听说今天信箱又被塞满了呢。</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-1" pos="right" key="gal-line-7a6627a2-902c-11ee-9fed-af96342aa368">啊，谢谢你们！观众时常会将对演出的感想写进信里，唔，突然有点紧张…</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-2" pos="right" key="gal-line-7a6627a3-902c-11ee-9fed-af96342aa368">旅行者、派蒙，如果有时间的话，可以陪我一起看看吗？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="center" key="gal-line-7a6627a4-902c-11ee-9fed-af96342aa368">当然没问题！</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-1" pos="right" key="gal-line-7a6627a5-902c-11ee-9fed-af96342aa368">「妮露小姐就像夜色中绽放的月莲一样皎洁」…「我是从奥摩斯港专程赶来看演出的，真是不虚此行！」…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="center" key="gal-line-7a6627a6-902c-11ee-9fed-af96342aa368">看来这次的演出也非常成功呢！嘿嘿。</simple_dialog>
+      <simple_dialog chara="nilu" img="妮露-1" pos="right" key="gal-line-7a6627a7-902c-11ee-9fed-af96342aa368">「生日快乐！演出结束后，兰巴德酒馆见~有你喜欢的甜食哦！」…咦，这封信的落款是…</simple_dialog>
+      <simple_dialog chara="player" img="aether4" pos="left" key="gal-line-7a6627a8-902c-11ee-9fed-af96342aa368">咳咳——</simple_dialog>
+    </scene>
+  </scripts>
+</data>

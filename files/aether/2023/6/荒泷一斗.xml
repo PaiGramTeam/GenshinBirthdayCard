@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="432">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="一斗2023-背景"></bg>
+      <simple_dialog chara="player" img="aether1" pos="left" key="gal-line-ab831c00-feb7-11ed-b59e-377cf59f3265">一斗生日快乐！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-ab831c01-feb7-11ed-b59e-377cf59f3265">生日快乐！</simple_dialog>
+      <simple_dialog chara="itto" img="一斗-2" pos="right" key="gal-line-ab831c02-feb7-11ed-b59e-377cf59f3265">哈哈哈哈哈哈本大爷的生日果然难以被忽略！我可是为挚友准备了「美味到古今无双」的料理！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-ab831c03-feb7-11ed-b59e-377cf59f3265">派蒙你觉得怎么样？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-ab831c04-feb7-11ed-b59e-377cf59f3265">这个颜色……总感觉有点不靠谱。</simple_dialog>
+      <simple_dialog chara="itto" img="一斗-1" pos="right" key="gal-line-ab831c05-feb7-11ed-b59e-377cf59f3265">喂喂喂，飞行矮堇瓜你这是什么意思？这可是「荒泷美食大师一斗」定制的生日特别版「热血强者之道」！传承荒泷派老大的强者意志！</simple_dialog>
+      <simple_dialog chara="onibaaya" pos="center" key="gal-line-ab831c06-feb7-11ed-b59e-377cf59f3265">一斗啊，乌冬面还要吗？</simple_dialog>
+      <simple_dialog chara="itto" img="一斗-2" pos="right" key="gal-line-ab831c07-feb7-11ed-b59e-377cf59f3265">啊啊啊，请再来一碗！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="514">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2024林尼背景"></bg>
+      <simple_dialog chara="Lyney" img="林尼立绘1" pos="right" key="gal-line-073c4f60-c025-11ee-b556-2175da0be65e">旅行者你们来啦。</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon3" pos="center" key="gal-line-073c4f61-c025-11ee-b556-2175da0be65e">好久没来德波大饭店了，一想到这里的美食，脚步都加快了！</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-073c4f62-c025-11ee-b556-2175da0be65e">派蒙是用飞的吧？对了，这是给你们的礼物，生日快乐，林尼，琳妮特。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="center" key="gal-line-073c4f63-c025-11ee-b556-2175da0be65e">生日快乐，这个给琳妮特，这个给林尼。我们挑了好久呢，希望你们喜欢。</simple_dialog>
+      <simple_dialog chara="Lynette" img="琳妮特立绘1" pos="right" key="gal-line-073c4f64-c025-11ee-b556-2175da0be65e">谢谢，我很喜欢。</simple_dialog>
+      <simple_dialog chara="Lyney" img="林尼立绘2" pos="right" key="gal-line-073c4f65-c025-11ee-b556-2175da0be65e">二位费心啦，作为魔术师，就为你们表演一场专属魔术吧！</simple_dialog>
+      <simple_dialog chara="Lyney" img="林尼立绘2" pos="right" key="gal-line-073c4f66-c025-11ee-b556-2175da0be65e">不要眨眼哦~</simple_dialog>
+    </scene>
+  </scripts>
+</data>

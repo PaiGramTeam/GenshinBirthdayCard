@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="448">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="胡桃2023-背景"></bg>
+      <simple_dialog chara="hutao" img="胡桃-1" pos="left" key="gal-line-77b7dfe0-21f4-11ee-91fd-311054a36442">太阳当空照，大咪二咪早！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="right" key="gal-line-77b7dfe1-21f4-11ee-91fd-311054a36442">胡桃胡桃~~</simple_dialog>
+      <simple_dialog chara="player" img="aether1" pos="right" key="gal-line-77b7dfe2-21f4-11ee-91fd-311054a36442">生日快乐胡桃！</simple_dialog>
+      <simple_dialog chara="hutao" img="胡桃-1" pos="left" key="gal-line-77b7dfe3-21f4-11ee-91fd-311054a36442">谢谢你们！今天发现一只可爱的小宠物，看它这光亮的毛发、俏皮的模样，一起给它想个响亮的名字吧！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-77b7dfe4-21f4-11ee-91fd-311054a36442">你说的宠物不会是……</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="right" key="gal-line-77b7dfe5-21f4-11ee-91fd-311054a36442">这个圆滚滚的……</simple_dialog>
+      <simple_dialog chara="hutao" img="胡桃-2" pos="left" key="gal-line-77b7dfe6-21f4-11ee-91fd-311054a36442">没错！就叫它「胖胖」吧！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

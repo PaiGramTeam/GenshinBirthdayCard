@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="519">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2024心海背景"></bg>
+      <simple_dialog chara="kokomi" img="心海-1" pos="right" key="gal-line-34fc7a60-d065-11ee-bd1c-6f31e8ab22cd">沧海明月，大海总能给我带来不同的心境。</simple_dialog>
+      <simple_dialog chara="kokomi" img="心海-1" pos="right" key="gal-line-34fc7a61-d065-11ee-bd1c-6f31e8ab22cd">感谢你陪我散步这么久。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-34fc7a62-d065-11ee-bd1c-6f31e8ab22cd">生日这天偷偷懒也无妨，不必时时消耗精力。 </simple_dialog>
+      <simple_dialog chara="kokomi" img="心海-1" pos="right" key="gal-line-34fc7a63-d065-11ee-bd1c-6f31e8ab22cd">既宝贵又值得珍藏的时光呢。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="center" key="gal-line-34fc7a64-d065-11ee-bd1c-6f31e8ab22cd">我们也准备了生日礼物哦！快闭上眼睛！</simple_dialog>
+      <simple_dialog chara="kokomi" img="心海-1" pos="right" key="gal-line-34fc7a65-d065-11ee-bd1c-6f31e8ab22cd">是什么这么神秘？</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-34fc7a66-d065-11ee-bd1c-6f31e8ab22cd">专门为你定制的贝壳发卡，是别的材料，不会有小螃蟹丢了家的~</simple_dialog>
+    </scene>
+  </scripts>
+</data>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="331">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="辛焱-场景"></bg>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-1d501ef0-4b8f-11ed-a02e-e50ee00eb40d">之前听朋友说过，琉璃百合的汁液能够使休眠的古琴回春。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-1d501ef1-4b8f-11ed-a02e-e50ee00eb40d">把它涂在辛焱的琴上，会不会让琴奏出的声音更加特别呢？</simple_dialog>
+      <simple_dialog chara="xinyan" pos="right" img="辛焱-2" key="gal-line-1d501ef2-4b8f-11ed-a02e-e50ee00eb40d">哈哈，好有意思的说法！</simple_dialog>
+      <simple_dialog chara="xinyan" pos="right" img="辛焱-1" key="gal-line-1d501ef3-4b8f-11ed-a02e-e50ee00eb40d">那如果涂上绝云椒椒的汁液，说不定会让演奏更加火热呢！</simple_dialog>
+      <simple_dialog chara="xinyan" pos="right" img="辛焱-2" key="gal-line-1d501ef4-4b8f-11ed-a02e-e50ee00eb40d">我们都试试看吧。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

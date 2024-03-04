@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="516">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2024北斗背景"></bg>
+      <simple_dialog key="gal-line-ae5865b0-c631-11ee-a0eb-73be74cfec8a" chara="Chongzuo" pos="center">…说时迟那时快，只见北斗姐提着剑冲向海怪，霎那间，山一样高的家伙就断成两截，沉到海底喂鱼去咯！</simple_dialog>
+      <simple_dialog key="gal-line-ae5865b1-c631-11ee-a0eb-73be74cfec8a" chara="paimon" img="派蒙-3" pos="center">哇，然后呢然后呢！？</simple_dialog>
+      <simple_dialog key="gal-line-ae5865b2-c631-11ee-a0eb-73be74cfec8a" chara="Chongzuo" pos="center">多亏了北斗姐，那次战斗我们连皮都没蹭到——可惜有一部分货物被打湿，少赚了不少摩拉。</simple_dialog>
+      <simple_dialog key="gal-line-ae5865b3-c631-11ee-a0eb-73be74cfec8a" chara="player" img="aether2" pos="left">人没事就好，摩拉还可以再赚。</simple_dialog>
+      <simple_dialog key="gal-line-ae5865b4-c631-11ee-a0eb-73be74cfec8a" chara="paimon" img="派蒙-10" pos="center">出海可真危险，我们这次也会遇到那么大的海怪吗？</simple_dialog>
+      <simple_dialog chara="beidou" img="北斗-1" pos="right" key="gal-line-57f766c0-c632-11ee-a0eb-73be74cfec8a">想遇到海怪可不是容易的事。何况这次出海只是去近海的岛上提货，可能性就更低了。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="center" key="gal-line-57f766c1-c632-11ee-a0eb-73be74cfec8a">这样啊，可惜……啊不对，真让人安心~但是，如果之前那只海怪的亲朋来寻仇…</simple_dialog>
+      <simple_dialog chara="beidou" img="北斗-1" pos="right" key="gal-line-57f766c2-c632-11ee-a0eb-73be74cfec8a">那就要问问我手里的剑同不同意了。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

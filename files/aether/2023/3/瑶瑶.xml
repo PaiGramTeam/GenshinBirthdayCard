@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="386">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="瑶瑶-场景"></bg>
+      <simple_dialog chara="qiqi" img="七七2" pos="left" key="gal-line-d2758620-b990-11ed-bfd3-b3e6563b738e">竹笋，给你。</simple_dialog>
+      <simple_dialog chara="yaoyao" img="瑶瑶-2" pos="right" key="gal-line-d275ad30-b990-11ed-bfd3-b3e6563b738e">谢谢你！七七，你还记得我吗？</simple_dialog>
+      <simple_dialog chara="qiqi" img="七七2" pos="left" key="gal-line-d275ad31-b990-11ed-bfd3-b3e6563b738e">记得，你是…唔…小团雀。可爱。</simple_dialog>
+      <simple_dialog chara="yaoyao" img="瑶瑶-1" pos="right" key="gal-line-d275ad32-b990-11ed-bfd3-b3e6563b738e">哈哈，我是瑶瑶，是七七的好朋友哦！</simple_dialog>
+      <simple_dialog chara="qiqi" img="七七1" pos="left" key="gal-line-d275ad33-b990-11ed-bfd3-b3e6563b738e">七七的…好朋友…</simple_dialog>
+      <simple_dialog chara="yaoyao" img="瑶瑶-2" pos="right" key="gal-line-d275ad34-b990-11ed-bfd3-b3e6563b738e">没错，瑶瑶一直都是七七的朋友。</simple_dialog>
+      <simple_dialog chara="qiqi" img="七七2" pos="left" key="gal-line-d275ad35-b990-11ed-bfd3-b3e6563b738e">瑶瑶一个人，很危险。有野林猪。</simple_dialog>
+      <simple_dialog chara="yaoyao" img="瑶瑶-1" pos="right" key="gal-line-d275ad36-b990-11ed-bfd3-b3e6563b738e">没关系，瑶瑶是和其他朋友一起来的，他们很可靠哦！</simple_dialog>
+      <simple_dialog chara="qiqi" img="七七1" pos="left" key="gal-line-d275ad37-b990-11ed-bfd3-b3e6563b738e">其他朋友？</simple_dialog>
+      <simple_dialog chara="yaoyao" img="瑶瑶-2" pos="right" key="gal-line-d275ad38-b990-11ed-bfd3-b3e6563b738e">就在那边——</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-8" pos="left" key="gal-line-d275ad39-b990-11ed-bfd3-b3e6563b738e">旅行者！加油！用力啊啊啊！</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="right" key="gal-line-d275ad3a-b990-11ed-bfd3-b3e6563b738e">派蒙！好痛！快松手啊啊啊！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

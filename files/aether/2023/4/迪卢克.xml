@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="409">
+  <scripts>
+    <scene id="1" root="true">
+      <bg img="迪卢克场景"></bg>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-9c7ecc80-e4e6-11ed-ac11-5943b2183f61">我们来啦！</simple_dialog>
+      <simple_dialog chara="diluc" img="迪卢克-02" pos="right" key="gal-line-9c7ecc81-e4e6-11ed-ac11-5943b2183f61">晚上好，两位。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-9c7ecc82-e4e6-11ed-ac11-5943b2183f61">我们带了超——多新食材哦！可以调各种各样的饮品了，嘿嘿。</simple_dialog>
+      <simple_dialog chara="diluc" img="迪卢克-03" pos="right" key="gal-line-9c7ecc83-e4e6-11ed-ac11-5943b2183f61">基础的调制方法，你们应该很熟悉了。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-9c7ecc84-e4e6-11ed-ac11-5943b2183f61">没错，大家的评价都很不错哦。</simple_dialog>
+      <simple_dialog chara="diluc" img="迪卢克-01" pos="right" key="gal-line-9c7ecc85-e4e6-11ed-ac11-5943b2183f61">那自由发挥就好，需要的话，我可以提供一些建议。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-9c7ecc86-e4e6-11ed-ac11-5943b2183f61">先做一杯以墩墩桃汁为基底的果酿吧。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-9c7ecc87-e4e6-11ed-ac11-5943b2183f61">好耶！要不要再加点枣椰的果肉呢？赤念果…没吃过，但也可以试试吧？</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-9c7ecc88-e4e6-11ed-ac11-5943b2183f61">派蒙，别太贪心了，一个一个来吧。</simple_dialog>
+      <simple_dialog chara="diluc" img="迪卢克-02" pos="right" key="gal-line-9c7ecc89-e4e6-11ed-ac11-5943b2183f61">上次的「苍古落日」口味很不错，期待你这次的成果，我会好好品尝的。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

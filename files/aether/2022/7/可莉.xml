@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="283">
+  <scripts>
+    <scene id="1" root="true">
+      <bg img="可莉-场景"></bg>
+      <simple_dialog chara="paimon" pos="left" img="paimon3" key="gal-line-c5c0ad10-fe6a-11ec-8171-7f04a0ec1571">草莓、奶油、糖果…完成啦！</simple_dialog>
+      <simple_dialog chara="klee" pos="right" img="可莉-2" key="gal-line-c5c0ad11-fe6a-11ec-8171-7f04a0ec1571">好耶，是蹦蹦蛋糕！</simple_dialog>
+      <simple_dialog img="paimon3" chara="paimon" pos="left" key="gal-line-c5c0d420-fe6a-11ec-8171-7f04a0ec1571">我们快去把大家喊过来吧！</simple_dialog>
+      <simple_dialog chara="klee" pos="right" img="可莉-1" key="gal-line-c5c0d421-fe6a-11ec-8171-7f04a0ec1571">嗯，走喽！</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-c5c0d422-fe6a-11ec-8171-7f04a0ec1571">啊，等等！你们两个，先擦干净…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-c5c0d423-fe6a-11ec-8171-7f04a0ec1571">……</simple_dialog>
+      <simple_dialog chara="player" img="aether-00" pos="left" key="gal-line-c5c0d424-fe6a-11ec-8171-7f04a0ec1571">手…</simple_dialog>
+    </scene>
+  </scripts>
+</data>

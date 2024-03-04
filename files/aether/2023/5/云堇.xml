@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="416">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="云堇"></bg>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-1c4d9b50-f62e-11ed-926d-ebde6bf19956">这样可以吗？</simple_dialog>
+      <simple_dialog chara="YunJin" img="云堇-02" pos="left" key="gal-line-1c4d9b51-f62e-11ed-926d-ebde6bf19956">手臂再举高些…没错！不愧是旅行者，身段相当标致。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-1c4d9b52-f62e-11ed-926d-ebde6bf19956">那我呢那我呢？云堇，也看看我！</simple_dialog>
+      <simple_dialog chara="YunJin" img="云堇-02" pos="left" key="gal-line-1c4d9b53-f62e-11ed-926d-ebde6bf19956">派蒙也很帅气哦。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-1c4d9b54-f62e-11ed-926d-ebde6bf19956">要保持这个姿势，还是有些吃力…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-1c4d9b55-f62e-11ed-926d-ebde6bf19956">舞剑的时候，因为担心动作不够标准，身体也会变得僵硬。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-1c4d9b56-f62e-11ed-926d-ebde6bf19956">但云堇在台上总是能做到形神兼备，真的好厉害。</simple_dialog>
+      <simple_dialog chara="YunJin" img="云堇-02" pos="left" key="gal-line-1c4d9b57-f62e-11ed-926d-ebde6bf19956">别心急，台上的功夫可不是一朝一夕就能练成的，作为新人，你已经做得很棒了。</simple_dialog>
+      <simple_dialog chara="YunJin" img="云堇-01" pos="left" key="gal-line-1c4d9b58-f62e-11ed-926d-ebde6bf19956">这次多亏有你们帮忙。对了，等到演出结束后，一起去品茶吧。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

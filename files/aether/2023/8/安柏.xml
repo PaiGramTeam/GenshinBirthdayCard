@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="459">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="安柏2023-背景"></bg>
+      <simple_dialog chara="amber" img="安柏-2" pos="right" key="gal-line-2b922200-3668-11ee-8086-15d9a7601c35">旅行者，有没有觉得这里很熟悉？</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-2b922201-3668-11ee-8086-15d9a7601c35">是飞行执照考试的地方。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="left" key="gal-line-2b922202-3668-11ee-8086-15d9a7601c35">哇，你记忆力真好！</simple_dialog>
+      <simple_dialog chara="amber" img="安柏-1" pos="right" key="gal-line-2b922203-3668-11ee-8086-15d9a7601c35">不知不觉就走到这了。在那之后，你又去了很多地方旅行，应该变得更厉害了吧。怎么样，要不要比一比？</simple_dialog>
+      <simple_dialog chara="amber" img="安柏-2" pos="right" key="gal-line-2b922204-3668-11ee-8086-15d9a7601c35">我虽然大部分时间都在蒙德，但也一直没有懈怠过哦。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-2b922205-3668-11ee-8086-15d9a7601c35">要比飞行吗？</simple_dialog>
+      <simple_dialog chara="amber" img="安柏-1" pos="right" key="gal-line-2b922206-3668-11ee-8086-15d9a7601c35">我都没问题，复杂一点也可以。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-2b922207-3668-11ee-8086-15d9a7601c35">唔…路上采集5个日落果？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="left" key="gal-line-2b922208-3668-11ee-8086-15d9a7601c35">再击落3只风史莱姆？</simple_dialog>
+      <simple_dialog chara="amber" img="安柏-2" pos="right" key="gal-line-2b922209-3668-11ee-8086-15d9a7601c35">好，就这么定了！派蒙，你猜谁会赢？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

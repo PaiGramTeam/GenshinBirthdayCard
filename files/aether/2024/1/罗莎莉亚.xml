@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="512">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2024罗莎莉亚"></bg>
+      <simple_dialog chara="rosaria" img="罗莎莉亚-1" pos="right" key="gal-line-427d4e00-b9ed-11ee-af94-8d06858e70b9">倒卖假酒的是你么？</simple_dialog>
+      <simple_dialog key="gal-line-427d4e01-b9ed-11ee-af94-8d06858e70b9" chara="Xiaofan" pos="center">我卖的是正宗蒙德蒲公英酒，你看，蒲公英还在里面…</simple_dialog>
+      <simple_dialog key="gal-line-427d4e02-b9ed-11ee-af94-8d06858e70b9" chara="rosaria" img="罗莎莉亚-1" pos="right">看来，你需要一些帮助。</simple_dialog>
+      <simple_dialog key="gal-line-427d4e03-b9ed-11ee-af94-8d06858e70b9" chara="player" img="aether2" pos="left">需要我们帮你回忆这些酒里加了什么，是么？</simple_dialog>
+      <simple_dialog key="gal-line-427d4e04-b9ed-11ee-af94-8d06858e70b9" chara="paimon" img="派蒙-6" pos="center">哼哼，我们的帮助，可是另外的价钱，你考虑清楚！</simple_dialog>
+      <simple_dialog key="gal-line-427d4e05-b9ed-11ee-af94-8d06858e70b9" chara="Xiaofan" pos="center">欸？等等，我说我说，加了一点外面果酒湖的湖水——只是为了降低酒的烈度，绝对不是假酒啊！</simple_dialog>
+      <simple_dialog key="gal-line-427d4e06-b9ed-11ee-af94-8d06858e70b9" chara="rosaria" img="罗莎莉亚-1" pos="right">哼，白费口舌…把他和酒一起带回去审问就好。速战速决，快到下班时间了。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

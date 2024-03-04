@@ -19,3 +19,4 @@ async def download_images():
         temp_path.mkdir(parents=True, exist_ok=True)
         await download(draw.take_picture, temp_path / f"{draw.role_name}.{draw.ext}")
         await download(draw.unread_picture, temp_path / f"{draw.role_name}_unread.{draw.unread_ext}")
+        await download(draw.gal_xml, temp_path / f"{draw.role_name}.xml")

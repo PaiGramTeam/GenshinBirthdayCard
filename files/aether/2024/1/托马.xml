@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="508">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2024托马"></bg>
+      <simple_dialog chara="paimon" img="paimon3" pos="center" key="gal-line-05e2e420-ae01-11ee-933b-2b3310593488">托马生日快乐！为什么叫我们到这里呀？</simple_dialog>
+      <simple_dialog chara="thoma" img="托马-1" pos="right" key="gal-line-05e2e421-ae01-11ee-933b-2b3310593488">有时候自己一个人的时候就坐到这里，看着茫茫的大海，不自觉会想起故乡的事情。</simple_dialog>
+      <simple_dialog chara="player" img="aether6" pos="left" key="gal-line-05e2e422-ae01-11ee-933b-2b3310593488">旧事，故人……</simple_dialog>
+      <simple_dialog chara="thoma" img="托马-2" pos="right" key="gal-line-05e2e423-ae01-11ee-933b-2b3310593488">如果有人能理解我的心情，大概就只有你们了吧。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="center" key="gal-line-05e30b30-ae01-11ee-933b-2b3310593488">哎呀，哪里来的小猫咪！</simple_dialog>
+      <simple_dialog chara="thoma" img="托马-2" pos="right" key="gal-line-05e30b31-ae01-11ee-933b-2b3310593488">小咪，今天已经吃过小零食啦，不可以贪吃哦。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="center" key="gal-line-05e30b32-ae01-11ee-933b-2b3310593488">它们一定是知道你今天过生日，约好了一起陪你庆生呢！</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-05e30b33-ae01-11ee-933b-2b3310593488">小猫咪们也希望你开心哦。</simple_dialog>
+      <simple_dialog chara="thoma" img="托马-1" pos="right" key="gal-line-05e30b34-ae01-11ee-933b-2b3310593488">我很开心，谢谢你们。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

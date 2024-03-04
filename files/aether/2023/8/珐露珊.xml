@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="462">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="珐露珊2023-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="right" key="gal-line-3e199a70-3cd5-11ee-8d5f-d330bb0326be">呼~珐露珊，我们找了你好久，怎么跑到这里啦。</simple_dialog>
+      <simple_dialog chara="faruzan" img="珐露珊-1" pos="left" key="gal-line-3e199a71-3cd5-11ee-8d5f-d330bb0326be">遗迹龙兽的研究有了新的想法，确认一下细节。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-好耶" pos="right" key="gal-line-3e199a72-3cd5-11ee-8d5f-d330bb0326be">过生日也这么忙碌，我们给你做了好吃的！</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-3e199a73-3cd5-11ee-8d5f-d330bb0326be">除了北地烟熏鸡外也尝试做了一下古法秘制椰炭饼，之前你说这是一百年前须弥传统的做法，不知道有没有还原一点……</simple_dialog>
+      <simple_dialog chara="faruzan" img="珐露珊-2" pos="left" key="gal-line-3e199a74-3cd5-11ee-8d5f-d330bb0326be">一百年后有人为我庆生，感觉还不错嘛！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

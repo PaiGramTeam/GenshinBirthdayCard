@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="460">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="米卡2023-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="center" key="gal-line-ca14cab0-3747-11ee-8086-15d9a7601c35">米卡！等一下——</simple_dialog>
+      <simple_dialog chara="mika" img="米卡-2" pos="right" key="gal-line-ca14cab1-3747-11ee-8086-15d9a7601c35">啊！是旅行者和派蒙…你们好…请问，有什么事吗？</simple_dialog>
+      <simple_dialog chara="player" img="aether1" pos="left" key="gal-line-ca14cab2-3747-11ee-8086-15d9a7601c35">这么着急，是要去哪里嘛？</simple_dialog>
+      <simple_dialog chara="mika" img="米卡-1" pos="right" key="gal-line-ca14cab3-3747-11ee-8086-15d9a7601c35">没有没有，刚完成了工作，想要快点回到远征队去…有什么需要我做的吗？请都交给我吧！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="left" key="gal-line-ca14cab4-3747-11ee-8086-15d9a7601c35">欸？不是的啦！我们听说你今天在这里，特地来找你，有个东西想送给你。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-ca14cab5-3747-11ee-8086-15d9a7601c35">这里记录了我们旅行途中遇到的一些探险心得，希望对你的工作有帮助，生日快乐米卡！</simple_dialog>
+      <simple_dialog chara="mika" img="米卡-1" pos="right" key="gal-line-ca14cab6-3747-11ee-8086-15d9a7601c35">超级强者的笔记，这实在是太珍贵了，谢谢你们！</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-口水" pos="left" key="gal-line-ca14cab7-3747-11ee-8086-15d9a7601c35">生日快乐~等你们远征结束，一起去吃好吃的~</simple_dialog>
+    </scene>
+  </scripts>
+</data>

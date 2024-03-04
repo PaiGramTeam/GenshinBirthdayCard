@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="206">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="丽莎-背景"></bg>
+      <simple_dialog chara="lisa" pos="left" img="丽莎-1" key="gal-line-727cab10-e6fd-11ec-b055-1177d587ffc4">是小可爱呀，午安。好久不见你们了呢。</simple_dialog>
+      <simple_dialog chara="player" img="aether1" pos="right" key="gal-line-727cab11-e6fd-11ec-b055-1177d587ffc4">生日快乐！</simple_dialog>
+      <simple_dialog chara="lisa" pos="left" img="丽莎-1" key="gal-line-727cd220-e6fd-11ec-b055-1177d587ffc4">呵呵，谢谢你们的礼物。</simple_dialog>
+      <simple_dialog chara="lisa" pos="left" img="丽莎-2" key="gal-line-727cd221-e6fd-11ec-b055-1177d587ffc4">现在时间还早，不如坐下来喝杯茶，陪姐姐聊聊天吧？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

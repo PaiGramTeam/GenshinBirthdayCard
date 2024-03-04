@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="468">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="阿贝多2023-背景"></bg>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-15748b90-515a-11ee-b2d8-815cf46504ba">背景颜色的处理好像有些奇怪。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="left" key="gal-line-15748b91-515a-11ee-b2d8-815cf46504ba">看起来确实比较暗…要不然试试这样？</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-15748b92-515a-11ee-b2d8-815cf46504ba">唔…好吧。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-6" pos="left" key="gal-line-15748b93-515a-11ee-b2d8-815cf46504ba">什么嘛！不要小看「画画专家」派蒙哦。</simple_dialog>
+      <simple_dialog chara="albedo" img="阿贝多-1" pos="right" key="gal-line-15748b94-515a-11ee-b2d8-815cf46504ba">无须太过忧虑，绘画的意义在于记录特别的瞬间，按你们的直觉来即可。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-5" pos="left" key="gal-line-15748b95-515a-11ee-b2d8-815cf46504ba">呜…完成时间会比预想中要久，阿贝多会不会觉得很无聊？</simple_dialog>
+      <simple_dialog chara="albedo" img="阿贝多-3" pos="right" key="gal-line-15748b96-515a-11ee-b2d8-815cf46504ba">无妨，我也在随手记录一些东西。</simple_dialog>
+      <simple_dialog chara="albedo" img="阿贝多-3" pos="right" key="gal-line-15748b97-515a-11ee-b2d8-815cf46504ba">等画作完成的时候，我们一起看看吧。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

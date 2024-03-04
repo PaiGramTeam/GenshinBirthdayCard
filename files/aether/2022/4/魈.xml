@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="189">
+  <scripts>
+    <scene id="01" title="魈" root="true">
+      <bg img="魈插图-背景"></bg>
+      <simple_dialog chara="xiao" img="魈-03" pos="center" key="gal-line-c9031c10-baf9-11ec-b652-773fdb0d7887">你们来了。</simple_dialog>
+      <simple_dialog chara="xiao" img="魈-02" pos="center" key="gal-line-c9031c12-baf9-11ec-b652-773fdb0d7887">……</simple_dialog>
+      <simple_dialog chara="xiao" img="魈-03" pos="center" key="gal-line-fa426100-baf9-11ec-b652-773fdb0d7887">这曲调，让我想起一些往事。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

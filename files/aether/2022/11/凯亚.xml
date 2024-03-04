@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="347">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="凯亚-场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-7" pos="left" key="gal-line-0340c310-6fd0-11ed-8e7f-e70939ed7ab4">最后一击！——</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-0340ea20-6fd0-11ed-8e7f-e70939ed7ab4">派蒙今天干劲满满呢。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-6" pos="left" key="gal-line-0340ea21-6fd0-11ed-8e7f-e70939ed7ab4">呼，没想到竟然聚集了这么多盗宝团，难道那个传说是真的？</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-0340ea22-6fd0-11ed-8e7f-e70939ed7ab4">那个——传说？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="left" key="gal-line-0340ea23-6fd0-11ed-8e7f-e70939ed7ab4">就是那个，那个，传说！</simple_dialog>
+      <simple_dialog chara="kaiya" img="凯亚-1" pos="center" key="gal-line-0340ea24-6fd0-11ed-8e7f-e70939ed7ab4">某酒庄今年收获的葡萄，在午夜，用极其精确的方式萃取其精华，就能获得颠覆蒙德的力量——</simple_dialog>
+      <simple_dialog chara="kaiya" img="凯亚-2" pos="center" key="gal-line-0340ea25-6fd0-11ed-8e7f-e70939ed7ab4">这个传说？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-0340ea26-6fd0-11ed-8e7f-e70939ed7ab4">为什么你会知道，等等…果然是你，传播谣言的坏人！</simple_dialog>
+      <simple_dialog chara="kaiya" img="凯亚-1" pos="center" key="gal-line-0340ea27-6fd0-11ed-8e7f-e70939ed7ab4">怎么是谣言呢，今年收获的葡萄多汁甘甜，比往年的葡萄甜度高了不止一点，酿出来的酒稍晚点可就买不到咯，说是颠覆蒙德也不为过吧。</simple_dialog>
+      <simple_dialog img="凯亚-2" chara="kaiya" pos="center" key="gal-line-0340ea28-6fd0-11ed-8e7f-e70939ed7ab4">好了，该去找某酒庄收佣金了。帮他们找回了重要的货物，收取多少谢礼才合适呢？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

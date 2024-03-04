@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="501">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2023多莉-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙1" pos="center" key="gal-line-0e882290-9eeb-11ee-adb3-6bad3f9827f8">这么晚才结束，多莉过生日的时候也很辛苦呢。</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="left" key="gal-line-0e8849a0-9eeb-11ee-adb3-6bad3f9827f8">累了的话就早点休息吧。</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="right" key="gal-line-0e8849a1-9eeb-11ee-adb3-6bad3f9827f8">这可是拓展业务的好机会，怎么会累呢。</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-3" pos="right" key="gal-line-0e8849a2-9eeb-11ee-adb3-6bad3f9827f8">这些合同，都是刚才谈下来的哦。</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-0e8849a3-9eeb-11ee-adb3-6bad3f9827f8">这么多吗，好厉害。</simple_dialog>
+      <simple_dialog chara="paimon" img="paimon3" pos="center" key="gal-line-0e8849a4-9eeb-11ee-adb3-6bad3f9827f8">哇——好像已经见到堆成山的摩拉了。</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-1" pos="right" key="gal-line-0e8849a5-9eeb-11ee-adb3-6bad3f9827f8">要不是旅行者你们去了枫丹，近期的宴会一定也会邀请你们的。</simple_dialog>
+      <simple_dialog chara="dori" img="多莉-2" pos="right" key="gal-line-0e8849a6-9eeb-11ee-adb3-6bad3f9827f8">大名鼎鼎的旅行者，一定能吸引更多人来，我就可以谈下更多生意，嘿嘿~</simple_dialog>
+    </scene>
+  </scripts>
+</data>

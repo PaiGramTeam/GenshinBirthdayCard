@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="411">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="柯莱场景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="left" key="gal-line-9dc6a6b0-ebf5-11ed-b9d9-cfce0d8150b4">这里这里——柯莱，生日快乐！</simple_dialog>
+      <simple_dialog chara="collei" img="柯莱-2" pos="right" key="gal-line-9dc6cdc0-ebf5-11ed-b9d9-cfce0d8150b4">啊，是旅行者和派蒙！谢谢你们特意来看我。</simple_dialog>
+      <simple_dialog chara="player" img="aether1" pos="left" key="gal-line-9dc6cdc1-ebf5-11ed-b9d9-cfce0d8150b4">生日快乐，听提纳里说你想找些新书，所以我们挑了一些带过来。</simple_dialog>
+      <simple_dialog chara="collei" img="柯莱-1" pos="right" key="gal-line-9dc6cdc2-ebf5-11ed-b9d9-cfce0d8150b4">看上去都很有意思呢，《出发吧！嘟嘟可》、《少女薇拉的忧郁》…欸？兽米香香食谱…</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-9dc6cdc3-ebf5-11ed-b9d9-cfce0d8150b4">欸？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-9dc6cdc4-ebf5-11ed-b9d9-cfce0d8150b4">那个…是我和旅行者说想吃这道菜…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-9dc6cdc5-ebf5-11ed-b9d9-cfce0d8150b4">好像不小心把食谱放进书堆里了，嘿嘿…</simple_dialog>
+      <simple_dialog chara="collei" img="柯莱-2" pos="right" key="gal-line-9dc6cdc6-ebf5-11ed-b9d9-cfce0d8150b4">派蒙想吃的话，等会留下一起吃饭吧，我来准备。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-口水" pos="left" key="gal-line-9dc6cdc7-ebf5-11ed-b9d9-cfce0d8150b4">好耶！兽米香香——我们也来帮忙！</simple_dialog>
+    </scene>
+  </scripts>
+</data>

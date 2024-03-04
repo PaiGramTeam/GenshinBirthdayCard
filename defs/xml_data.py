@@ -62,8 +62,8 @@ async def download_images(data: List[Union[ResourceCharacter, ResourceBg]]):
 
 async def download_resources():
     draws = await get_draws()
-    draw = draws[0]
-    await download(draw.gal_resource, RES_XML_PATH)
+    draw = draws[-1]
+    await download(draw.gal_resource, RES_XML_PATH, override=True)
     chara_json, bg_json, _ = await xml_to_json()
     await download_images(chara_json)
     await download_images(bg_json)

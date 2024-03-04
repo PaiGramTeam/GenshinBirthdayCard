@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="434">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="丽莎2023-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-笑" pos="left" key="gal-line-c4b45f20-0503-11ee-b8ac-11b32b6d4c0e">丽莎，又见面啦！</simple_dialog>
+      <simple_dialog chara="lisa" img="丽莎-2" pos="right" key="gal-line-c4b45f21-0503-11ee-b8ac-11b32b6d4c0e">出来享受下午茶时间，正好就能遇到你们，真是有缘。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-1" pos="left" key="gal-line-c4b48630-0503-11ee-b8ac-11b32b6d4c0e">嘿嘿，我们正准备来吃点东西，旅行者，我好饿——</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-c4b48631-0503-11ee-b8ac-11b32b6d4c0e">知道啦。</simple_dialog>
+      <simple_dialog key="gal-line-c080b490-05d4-11ee-b8ac-11b32b6d4c0e">（派蒙立刻去拿菜单，回来时差点撞倒了摞在桌边的书。）</simple_dialog>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-c4b48632-0503-11ee-b8ac-11b32b6d4c0e">这些书是……？</simple_dialog>
+      <simple_dialog chara="lisa" img="丽莎-1" pos="right" key="gal-line-c4b48633-0503-11ee-b8ac-11b32b6d4c0e">玛乔丽小姐正好有些书要还回去。怎么样，要体验下蒙德的学术氛围吗，可以帮你们挑一些哦。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="left" key="gal-line-c4b48634-0503-11ee-b8ac-11b32b6d4c0e">（想起了一些在须弥的经历……）</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-5" pos="left" key="gal-line-c080b491-05d4-11ee-b8ac-11b32b6d4c0e">有些书，虽然字都认识，但是连起来就看不懂了。</simple_dialog>
+      <simple_dialog chara="lisa" img="丽莎-2" pos="right" key="gal-line-c4b48635-0503-11ee-b8ac-11b32b6d4c0e">虽然我会尽量避开不必要的工作，但如果是小可爱和小派蒙，可以为你们量身定制「特训」，包教包会哦~</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-9" pos="left" key="gal-line-c4b48636-0503-11ee-b8ac-11b32b6d4c0e">噫——</simple_dialog>
+    </scene>
+  </scripts>
+</data>

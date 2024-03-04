@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="181">
+  <scripts>
+    <scene id="1" title="七七" root="true">
+      <bg img="七七"></bg>
+      <simple_dialog pos="left" chara="paimon" img="派蒙1" key="gal-line-77d3c6e0-94b2-11ec-b7e9-2f9c2a15c9dc">七七，好久不见，还记得我们吗？</simple_dialog>
+      <simple_dialog pos="right" chara="qiqi" img="七七1" key="gal-line-77d3edf0-94b2-11ec-b7e9-2f9c2a15c9dc">记得。是…旅行者和派蒙。</simple_dialog>
+      <simple_dialog pos="left" chara="player" img="aether1" key="gal-line-77d3edf1-94b2-11ec-b7e9-2f9c2a15c9dc">我们给你带了椰奶哦。</simple_dialog>
+      <simple_dialog pos="right" chara="qiqi" img="七七2" key="gal-line-77d3edf2-94b2-11ec-b7e9-2f9c2a15c9dc">啊…凉凉的，喜欢。谢谢你，派蒙。</simple_dialog>
+      <simple_dialog pos="left" chara="paimon" img="派蒙2" key="gal-line-77d3edf3-94b2-11ec-b7e9-2f9c2a15c9dc">我才是派蒙啦！</simple_dialog>
+      <simple_dialog pos="left" chara="paimon" img="派蒙3" key="gal-line-77d3edf4-94b2-11ec-b7e9-2f9c2a15c9dc">不过，七七好像很开心的样子，太好了~</simple_dialog>
+    </scene>
+  </scripts>
+</data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="447">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="九条裟罗2023-背景"></bg>
+      <simple_dialog chara="player" img="aether2" pos="right" key="gal-line-0ca4ecb0-2141-11ee-91fd-311054a36442">嘘，裟罗在训练呢。</simple_dialog>
+      <simple_dialog chara="kujou" img="九条-2" pos="left" key="gal-line-0ca4ecb1-2141-11ee-91fd-311054a36442">没关系，既然来了，随意就好。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-口水" pos="right" key="gal-line-0ca4ecb2-2141-11ee-91fd-311054a36442">今天是裟罗的生日欸，要不要休息一下？一起去吃好吃的吧。</simple_dialog>
+      <simple_dialog chara="kujou" img="九条-1" pos="left" key="gal-line-0ca4ecb3-2141-11ee-91fd-311054a36442">
+        <p>训练是每天都要做的，找理由懈怠的话，有了一次就会有第二次。</p>
+        <p></p>
+      </simple_dialog>
+      <simple_dialog key="gal-line-0ca4ecb4-2141-11ee-91fd-311054a36442">（九条裟罗抬起弓箭，瞄准，松弦，动作一气呵成。）</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-0ca4ecb5-2141-11ee-91fd-311054a36442">正中红心。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="right" key="gal-line-0ca4ecb6-2141-11ee-91fd-311054a36442">哇——不愧是裟罗！</simple_dialog>
+      <simple_dialog chara="kujou" img="九条-1" pos="left" key="gal-line-0ca4ecb7-2141-11ee-91fd-311054a36442">旅行者，要试试吗？</simple_dialog>
+      <simple_dialog chara="player" img="aether3" pos="right" key="gal-line-0ca4ecb8-2141-11ee-91fd-311054a36442">没问题，来吧。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-正常" pos="right" key="gal-line-0ca4ecb9-2141-11ee-91fd-311054a36442">你可要好好表现，让我说出「不愧是旅行者」才行。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

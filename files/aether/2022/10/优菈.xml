@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="338">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="优菈插图（背景）"></bg>
+      <simple_dialog key="gal-line-8f5cfba0-5353-11ed-90ff-a15c18a20e00" chara="eula" pos="left" img="优菈-1">发生了什么，你们怎么这副样子？</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfba1-5353-11ed-90ff-a15c18a20e00" chara="paimon" img="派蒙-5" pos="right">呃…因为酒…</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfba2-5353-11ed-90ff-a15c18a20e00" chara="eula" pos="left" img="优菈-2">酒？</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfba3-5353-11ed-90ff-a15c18a20e00" chara="player" img="aether2" pos="right">据说在低温环境下酿出的酒口感更加独特，我们就在龙脊雪山挑了个湿度和温度都合适的位置，将酒桶埋进雪中。</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfba4-5353-11ed-90ff-a15c18a20e00" chara="player" img="aether-00" pos="right">本想着一个月后的今天，可以将酿好的酒取出来送给你。</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfba5-5353-11ed-90ff-a15c18a20e00" chara="paimon" img="派蒙-6" pos="right">刚刚我们赶到那儿，发现酒桶空空如也，旁边还躺着一堆呼噜呼噜打嗝的丘丘人，真是气死我了！</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfba6-5353-11ed-90ff-a15c18a20e00" chara="paimon" img="派蒙-5" pos="right">旅行者正准备教训它们的时候，不小心踩空掉进了湖里…</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfba7-5353-11ed-90ff-a15c18a20e00" chara="eula" pos="left" img="优菈-1">……</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfba8-5353-11ed-90ff-a15c18a20e00" chara="paimon" img="派蒙-5" pos="right">怎…怎么办，我们搞砸了，要被记仇了…</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfba9-5353-11ed-90ff-a15c18a20e00" chara="eula" pos="left" img="优菈-2">把这碗汤喝了吧。</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfbaa-5353-11ed-90ff-a15c18a20e00" chara="player" img="aether2" pos="right">…你不生气吗？</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfbab-5353-11ed-90ff-a15c18a20e00" chara="eula" pos="left" img="优菈-2">当然生气啊，这个仇我记下了。</simple_dialog>
+      <simple_dialog key="gal-line-8f5cfbac-5353-11ed-90ff-a15c18a20e00" chara="eula" pos="left" img="优菈-3">所以，快点擦干头发再喝口热汤，你如果感冒了，我还怎么报仇啊？</simple_dialog>
+    </scene>
+  </scripts>
+</data>

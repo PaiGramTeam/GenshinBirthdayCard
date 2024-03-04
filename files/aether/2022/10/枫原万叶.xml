@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="339">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="万叶-场景"></bg>
+      <simple_dialog chara="player" img="aether2" pos="left" key="gal-line-ba499780-569e-11ed-a37a-63627553b7eb">没想到走到一半突然下雨了呢。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-5" pos="left" key="gal-line-ba499781-569e-11ed-a37a-63627553b7eb">不好意思呀，万叶。本来我和旅行者觉得今晚景色不错，正好邀你一起出来走走。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-5" pos="left" key="gal-line-ba499782-569e-11ed-a37a-63627553b7eb">结果大家现在都被困在草棚里，呜…</simple_dialog>
+      <simple_dialog chara="kazuha" pos="right" img="万叶-3" key="gal-line-ba499783-569e-11ed-a37a-63627553b7eb">无须在意，旅途中各种际遇都值得回味。</simple_dialog>
+      <simple_dialog chara="kazuha" pos="right" img="万叶-2" key="gal-line-ba499784-569e-11ed-a37a-63627553b7eb">而且我听到了云散开的声音，雨或许马上就会停了。</simple_dialog>
+      <simple_dialog key="gal-line-ba499785-569e-11ed-a37a-63627553b7eb">……</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="left" key="gal-line-ba499786-569e-11ed-a37a-63627553b7eb">让我看看…雨确实小了不少，好像还能看到远处的月亮，万叶真厉害！</simple_dialog>
+      <simple_dialog chara="kazuha" pos="right" img="万叶-2" key="gal-line-ba499787-569e-11ed-a37a-63627553b7eb">抬头见月，侧耳听风…真是一番美景。</simple_dialog>
+      <simple_dialog chara="kazuha" pos="right" img="万叶-3" key="gal-line-ba499788-569e-11ed-a37a-63627553b7eb">旅行者、派蒙，谢谢你们邀请我。</simple_dialog>
+    </scene>
+  </scripts>
+</data>

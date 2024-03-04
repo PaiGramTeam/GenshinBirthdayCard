@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data id="500">
+  <scripts>
+    <scene id="1" title="1" root="true">
+      <bg img="2023莱依拉-背景"></bg>
+      <simple_dialog chara="paimon" img="派蒙-2" pos="center" key="gal-line-68336570-9d74-11ee-ab23-4788e685e885">莱依拉好厉害，赢了好多奖品~</simple_dialog>
+      <simple_dialog chara="laiyila" img="莱依拉-1" pos="right" key="gal-line-68336571-9d74-11ee-ab23-4788e685e885">那些摊主的手法…多多观察的话，总能找到一些规律。</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-10" pos="center" key="gal-line-68336572-9d74-11ee-ab23-4788e685e885">欸，这样吗？明明刚刚看的时候，眼睛都没有眨一下，除了感觉眼睛好累，完全没看出规律来。</simple_dialog>
+      <simple_dialog chara="player" img="aether5" pos="left" key="gal-line-68336573-9d74-11ee-ab23-4788e685e885">有时一眨眼的功夫，摊主就已经调换好了顺序…</simple_dialog>
+      <simple_dialog chara="laiyila" img="莱依拉-3" pos="right" key="gal-line-68336574-9d74-11ee-ab23-4788e685e885">这…很难描述，每位摊主有不一样的手法…</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-4" pos="center" key="gal-line-68336575-9d74-11ee-ab23-4788e685e885">那要不我来变个戏法，你们来猜？</simple_dialog>
+      <simple_dialog chara="paimon" img="派蒙-3" pos="center" key="gal-line-68336576-9d74-11ee-ab23-4788e685e885">
+        <p>看，这里有平平无奇的三个空杯子和一颗糖——</p>
+        <p>别走神，魔术开始！</p>
+      </simple_dialog>
+    </scene>
+  </scripts>
+</data>
