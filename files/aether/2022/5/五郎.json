@@ -1,0 +1,90 @@
+[
+    {
+        "id": "01",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "五郎生日插图-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "left",
+                "key": "gal-line-fe02a450-d587-11ec-844f-7f4d81ddd99e",
+                "content": "你们走快点呀，到了山顶就能坐下来一起吃蛋糕了！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-默认",
+                "pos": "right",
+                "key": "gal-line-fe02a451-d587-11ec-844f-7f4d81ddd99e",
+                "content": "派蒙很有干劲呢，要来场登山比赛吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-1",
+                "pos": "left",
+                "key": "gal-line-fe02a452-d587-11ec-844f-7f4d81ddd99e",
+                "content": "好，比就比，输的人要让对方摸摸尾巴！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "center",
+                "key": "gal-line-fe02a453-d587-11ec-844f-7f4d81ddd99e",
+                "content": "可是派蒙没有尾巴。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "left",
+                "key": "gal-line-fe02a454-d587-11ec-844f-7f4d81ddd99e",
+                "content": "那就…那就摸耳朵！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "left",
+                "key": "gal-line-fe02a455-d587-11ec-844f-7f4d81ddd99e",
+                "content": "哼哼，派蒙是不会输的~那句话怎么说来着…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "left",
+                "key": "gal-line-fe02a456-d587-11ec-844f-7f4d81ddd99e",
+                "content": "「飞，比跑快吧？」",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-抱手",
+                "pos": "right",
+                "key": "gal-line-fe02a457-d587-11ec-844f-7f4d81ddd99e",
+                "content": "气势不错嘛！那就一起向着顶峰全力前进吧！",
+                "ext": ""
+            }
+        ]
+    }
+]

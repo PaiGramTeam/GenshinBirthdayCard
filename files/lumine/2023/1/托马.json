@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "托马-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "thoma",
+                "img": "托马-2",
+                "pos": "left",
+                "key": "gal-line-b6fa7260-8d9a-11ed-8da9-3d5ec19d0c05",
+                "content": "把这些饭团也拿着吧，给小动物们带些吃的。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "center",
+                "key": "gal-line-b6fa7261-8d9a-11ed-8da9-3d5ec19d0c05",
+                "content": "好呀，毛衣也快织好了，我们一会儿就出发。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "thoma",
+                "img": "托马-1",
+                "pos": "left",
+                "key": "gal-line-b6fa7262-8d9a-11ed-8da9-3d5ec19d0c05",
+                "content": "哇，上次教学之后，旅行者进步很大嘛！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "thoma",
+                "img": "托马-1",
+                "pos": "left",
+                "key": "gal-line-b6fa7263-8d9a-11ed-8da9-3d5ec19d0c05",
+                "content": "不过，这一件是不是太宽松了？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-b6fa7264-8d9a-11ed-8da9-3d5ec19d0c05",
+                "content": "嗯…好像是欸。要不派蒙试试看？合适的话就送你啦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-6",
+                "pos": "center",
+                "key": "gal-line-b6fa7265-8d9a-11ed-8da9-3d5ec19d0c05",
+                "content": "什么嘛，这明显就不是给人穿的衣服吧！手和脚都露不出来了！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "thoma",
+                "img": "托马-2",
+                "pos": "left",
+                "key": "gal-line-b6fa7266-8d9a-11ed-8da9-3d5ec19d0c05",
+                "content": "哈哈，那就留给太郎丸吧，它一定会喜欢的！",
+                "ext": ""
+            }
+        ]
+    }
+]

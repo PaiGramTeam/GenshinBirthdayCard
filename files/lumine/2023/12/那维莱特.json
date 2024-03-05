@@ -1,0 +1,135 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2023那维莱特-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "right",
+                "key": "gal-line-f9fc80a0-9b39-11ee-90a0-9dce8eb61d3b",
+                "content": "来，大家的咖啡。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Neuvillette",
+                "img": "那维莱特-1",
+                "pos": "left",
+                "key": "gal-line-f9fc80a1-9b39-11ee-90a0-9dce8eb61d3b",
+                "content": "谢谢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "center",
+                "key": "gal-line-f9fc80a2-9b39-11ee-90a0-9dce8eb61d3b",
+                "content": "今天是旅行者请客哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Sigewinne&jiyala",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-f9fc80a3-9b39-11ee-90a0-9dce8eb61d3b",
+                "content": "好！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "center",
+                "key": "gal-line-f9fc80a4-9b39-11ee-90a0-9dce8eb61d3b",
+                "content": "你们在看什么呀？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Sigewinne",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-f9fca7b0-9b39-11ee-90a0-9dce8eb61d3b",
+                "content": "是讲须弥占星术的书哦，可以算一算今后的运势。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "jiyala",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-17f143c0-9b3a-11ee-90a0-9dce8eb61d3b",
+                "content": "对了，上次说要帮那维莱特大人看看，但是突然有人来找，没看成。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Sigewinne",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-17f143c1-9b3a-11ee-90a0-9dce8eb61d3b",
+                "content": "现在来看看吧？那维莱特大人的命之座是？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether6",
+                "pos": "right",
+                "key": "gal-line-17f143c2-9b3a-11ee-90a0-9dce8eb61d3b",
+                "content": "嗯…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Neuvillette",
+                "img": "那维莱特-1",
+                "pos": "left",
+                "key": "gal-line-17f143c3-9b3a-11ee-90a0-9dce8eb61d3b",
+                "content": "不妨你们先…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-好耶",
+                "pos": "center",
+                "key": "gal-line-17f143c4-9b3a-11ee-90a0-9dce8eb61d3b",
+                "content": "对了，希格雯刚刚不是说，带了自己做的奶昔嘛，来尝尝吧？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "right",
+                "key": "gal-line-17f143c5-9b3a-11ee-90a0-9dce8eb61d3b",
+                "content": "派蒙…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Neuvillette",
+                "img": "那维莱特-2",
+                "pos": "left",
+                "key": "gal-line-17f143c6-9b3a-11ee-90a0-9dce8eb61d3b",
+                "content": "唔，口感很好，味道也很丰富。",
+                "ext": ""
+            }
+        ]
+    }
+]

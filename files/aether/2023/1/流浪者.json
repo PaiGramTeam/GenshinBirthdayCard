@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "流浪者-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-b1046760-8815-11ed-b307-57ae5c9f8e67",
+                "content": "枣椰蜜糖、帕蒂沙兰布丁…这家咖啡馆的甜点看起来就很好吃！突然有些饿了呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "left",
+                "key": "gal-line-b1046761-8815-11ed-b307-57ae5c9f8e67",
+                "content": "派蒙只是看到好吃的走不动路了吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-b1046762-8815-11ed-b307-57ae5c9f8e67",
+                "content": "走了这么久，休息一会也不错…进去坐坐么？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "wanderer",
+                "img": "流浪者-1",
+                "pos": "right",
+                "key": "gal-line-b1046763-8815-11ed-b307-57ae5c9f8e67",
+                "content": "…啧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "wanderer",
+                "img": "流浪者-2",
+                "pos": "right",
+                "key": "gal-line-b1046764-8815-11ed-b307-57ae5c9f8e67",
+                "content": "小东西的爱好还真是俗套。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-6",
+                "pos": "left",
+                "key": "gal-line-b1046765-8815-11ed-b307-57ae5c9f8e67",
+                "content": "啊啊——这个人说话还是这么讨厌！我一定要给你起个难听的绰号！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "wanderer",
+                "img": "流浪者-2",
+                "pos": "right",
+                "key": "gal-line-b1046766-8815-11ed-b307-57ae5c9f8e67",
+                "content": "加油哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-b1046767-8815-11ed-b307-57ae5c9f8e67",
+                "content": "不喜欢甜食的话，要不要试试这里的咖啡？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "wanderer",
+                "img": "流浪者-2",
+                "pos": "right",
+                "key": "gal-line-b1046768-8815-11ed-b307-57ae5c9f8e67",
+                "content": "……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "wanderer",
+                "img": "流浪者-1",
+                "pos": "right",
+                "key": "gal-line-b1046769-8815-11ed-b307-57ae5c9f8e67",
+                "content": "无所谓，不用给我加糖。",
+                "ext": ""
+            }
+        ]
+    }
+]

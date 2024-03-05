@@ -1,0 +1,117 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "left",
+                "key": "gal-line-47128430-e59f-11ed-ba1a-aba227628698",
+                "content": "好饱！枣椰蜜糖真好吃啊，嘿嘿。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "candace",
+                "img": "坎蒂丝-1",
+                "pos": "right",
+                "key": "gal-line-47128431-e59f-11ed-ba1a-aba227628698",
+                "content": "是啊，旅行者的手艺很棒。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "candace",
+                "img": "坎蒂丝-2",
+                "pos": "right",
+                "key": "gal-line-47128432-e59f-11ed-ba1a-aba227628698",
+                "content": "对了，请收下这个。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-47128433-e59f-11ed-ba1a-aba227628698",
+                "content": "哇！好漂亮！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-47128434-e59f-11ed-ba1a-aba227628698",
+                "content": "真的可以吗…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "candace",
+                "img": "坎蒂丝-1",
+                "pos": "right",
+                "key": "gal-line-47128435-e59f-11ed-ba1a-aba227628698",
+                "content": "哈哈，没关系。我平时没什么机会戴这些小饰品，倒不如当成礼物送给朋友。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-47128436-e59f-11ed-ba1a-aba227628698",
+                "content": "谢谢你，坎蒂丝。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "candace",
+                "img": "坎蒂丝-2",
+                "pos": "right",
+                "key": "gal-line-47128437-e59f-11ed-ba1a-aba227628698",
+                "content": "不用客气。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "candace",
+                "img": "坎蒂丝-1",
+                "pos": "right",
+                "key": "gal-line-47128438-e59f-11ed-ba1a-aba227628698",
+                "content": "嗯，果然没有看错，它们和你很相称。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-10",
+                "pos": "left",
+                "key": "gal-line-47128439-e59f-11ed-ba1a-aba227628698",
+                "content": "旅行者…快帮帮我，这个项圈好沉…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "candace",
+                "img": "坎蒂丝-1",
+                "pos": "right",
+                "key": "gal-line-4712843a-e59f-11ed-ba1a-aba227628698",
+                "content": "派蒙，那个呀，是手镯。",
+                "ext": ""
+            }
+        ]
+    }
+]

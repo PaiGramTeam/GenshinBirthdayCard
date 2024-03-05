@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "雷泽-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-1",
+                "pos": "left",
+                "key": "gal-line-a2440590-2d94-11ed-9f6a-757c41739f0f",
+                "content": "这边这边！看我的…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-a2440591-2d94-11ed-9f6a-757c41739f0f",
+                "content": "呜哇真的冲过来了，救命啊！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "right",
+                "key": "gal-line-a2440592-2d94-11ed-9f6a-757c41739f0f",
+                "content": "派蒙在帮倒忙…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-6",
+                "pos": "left",
+                "key": "gal-line-a2440593-2d94-11ed-9f6a-757c41739f0f",
+                "content": "可恶，旅行者不也是嘛，野猪都被你吓跑了！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "razor",
+                "img": "雷泽-1",
+                "pos": "center",
+                "key": "gal-line-a2440594-2d94-11ed-9f6a-757c41739f0f",
+                "content": "狩猎，不能急。我教你。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "razor",
+                "img": "雷泽-2",
+                "pos": "center",
+                "key": "gal-line-a2440595-2d94-11ed-9f6a-757c41739f0f",
+                "content": "身体，压低。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "razor",
+                "img": "雷泽-2",
+                "pos": "center",
+                "key": "gal-line-a2440596-2d94-11ed-9f6a-757c41739f0f",
+                "content": "呼吸，轻轻的。脚步，慢慢的。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "razor",
+                "img": "雷泽-3",
+                "pos": "center",
+                "key": "gal-line-a2440597-2d94-11ed-9f6a-757c41739f0f",
+                "content": "然后…",
+                "ext": ""
+            }
+        ]
+    }
+]

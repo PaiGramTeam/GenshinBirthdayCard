@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "ningguang",
+                "img": "凝光-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-笑",
+                "pos": "left",
+                "key": "gal-line-8f6cf2b0-2457-11ed-8f7c-fb9e3478c15e",
+                "content": "从刚刚起，凝光就一直盯着那个卖饰品的女孩呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-8f6cf2b1-2457-11ed-8f7c-fb9e3478c15e",
+                "content": "是因为想起了从前吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ningguang",
+                "img": "凝光1",
+                "pos": "right",
+                "key": "gal-line-8f6cf2b2-2457-11ed-8f7c-fb9e3478c15e",
+                "content": "呵呵，你比我想象中要更加敏锐。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ningguang",
+                "img": "凝光2",
+                "pos": "right",
+                "key": "gal-line-8f6cf2b3-2457-11ed-8f7c-fb9e3478c15e",
+                "content": "没错，她卖力的样子让我想到了过去的自己。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ningguang",
+                "img": "凝光3",
+                "pos": "right",
+                "key": "gal-line-f6188470-2457-11ed-8f7c-fb9e3478c15e",
+                "content": "时过境迁，如今走过这片海滩，心境早已不同从前。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ningguang",
+                "img": "凝光4",
+                "pos": "right",
+                "key": "gal-line-f6188471-2457-11ed-8f7c-fb9e3478c15e",
+                "content": "但就像浪潮褪去后留在沙滩上的贝壳一样，那段日子在我心中留下了宝贵的回忆。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ningguang",
+                "img": "凝光3",
+                "pos": "right",
+                "key": "gal-line-f6188472-2457-11ed-8f7c-fb9e3478c15e",
+                "content": "但愿那孩子也能够通过自己的努力实现梦想。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-f6188473-2457-11ed-8f7c-fb9e3478c15e",
+                "content": "一定会的！",
+                "ext": ""
+            }
+        ]
+    }
+]

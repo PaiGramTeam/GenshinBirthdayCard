@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2023钟离-背景1",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "zhongli",
+                "img": "钟离-1",
+                "pos": "right",
+                "key": "gal-line-f9deec00-a5f9-11ee-b9e5-8d96c9b686d9",
+                "content": "以往采买工作都有其他人负责，不过今日他们似乎在忙别的事情。幸好有二位帮忙，不然还得多跑几趟。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "center",
+                "key": "gal-line-f9deec01-a5f9-11ee-b9e5-8d96c9b686d9",
+                "content": "不用谢不用谢，正好路过~这清单也太长了，下一个下一个~",
+                "ext": ""
+            },
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2023钟离-背景2",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "zhongli",
+                "img": "钟离-1",
+                "pos": "right",
+                "key": "gal-line-f9deec02-a5f9-11ee-b9e5-8d96c9b686d9",
+                "content": "嗯，下一项，水产品…就拜托旅行者了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-f9deec03-a5f9-11ee-b9e5-8d96c9b686d9",
+                "content": "没问题。麻烦老板，需要「纹路清晰、肉质肥美的…中段」，很适合做水煮鱼的…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "zhongli",
+                "img": "钟离-2",
+                "pos": "right",
+                "key": "gal-line-f9deec04-a5f9-11ee-b9e5-8d96c9b686d9",
+                "content": "如此细致的要求，看来是要在十分讲究的场合使用。在我印象中，好像没有什么仪式会用到这种鱼。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "center",
+                "key": "gal-line-f9deec05-a5f9-11ee-b9e5-8d96c9b686d9",
+                "content": "啊，这，堂主的想法天马行空，我们按照清单买就行~还有需要采买的吗？比如蛋糕、彩带什么的？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether5",
+                "pos": "left",
+                "key": "gal-line-f9deec06-a5f9-11ee-b9e5-8d96c9b686d9",
+                "content": "咳咳——（派蒙，保密！）",
+                "ext": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "派蒙插图-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "left",
+                "key": "gal-line-7bece3c0-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "说起来，这已经是和你一起度过的第二个生日了呢！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "left",
+                "key": "gal-line-7bece3c1-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "过去的一年里，我们共同走过了好多地方，比如——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-7bece3c2-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "在神秘的海岛冒险。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-口水",
+                "pos": "left",
+                "key": "gal-line-7bece3c3-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "那时我们在海边烧烤…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-7bece3c4-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "在稻妻结交了很多新朋友。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-好耶",
+                "pos": "left",
+                "key": "gal-line-7bece3c5-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "吃到了好多好吃的…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-7bed0ad0-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "还在层岩巨渊下发现了许多秘密。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "left",
+                "key": "gal-line-7bed0ad1-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "见到了会说话的大蘑菇…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "right",
+                "key": "gal-line-7bed0ad2-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "呃…你是不是又饿了？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-笑",
+                "pos": "left",
+                "key": "gal-line-7bed0ad3-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "嘿嘿，被发现了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-好耶",
+                "pos": "left",
+                "key": "gal-line-7bed0ad4-dfc0-11ec-a89f-19c3f00c4cac",
+                "content": "那么接下来，就有请善良可爱的，我最好的伙伴，带我去吃蛋糕吧！",
+                "ext": ""
+            }
+        ]
+    }
+]

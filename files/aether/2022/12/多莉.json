@@ -1,0 +1,144 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "多莉-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-2",
+                "pos": "left",
+                "key": "gal-line-996b0c10-7d18-11ed-a392-935c2884e4c4",
+                "content": "赚呀赚呀赚摩拉，亮晶晶的摩拉少不了，看一看呀数一数，只要有摩拉就没烦恼~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "left",
+                "key": "gal-line-996b0c11-7d18-11ed-a392-935c2884e4c4",
+                "content": "哎呀，这不是大名鼎鼎的旅行者，还有…旁边的小吉祥物嘛！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-6",
+                "pos": "right",
+                "key": "gal-line-996b0c12-7d18-11ed-a392-935c2884e4c4",
+                "content": "喂！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "left",
+                "key": "gal-line-996b0c13-7d18-11ed-a392-935c2884e4c4",
+                "content": "等等，你们手上拿的莫非就是…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-996b0c14-7d18-11ed-a392-935c2884e4c4",
+                "content": "摩拉肉。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "left",
+                "key": "gal-line-996b0c15-7d18-11ed-a392-935c2884e4c4",
+                "content": "送给我的吗？干得不错，快让我尝尝——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-3",
+                "pos": "left",
+                "key": "gal-line-996b0c16-7d18-11ed-a392-935c2884e4c4",
+                "content": "嗯！味道真棒！只不过摩拉肉里没有摩拉呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "right",
+                "key": "gal-line-996b0c17-7d18-11ed-a392-935c2884e4c4",
+                "content": "渔人吐司里没有渔人，黄金蟹里面也没有黄金呀！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "left",
+                "key": "gal-line-996b0c18-7d18-11ed-a392-935c2884e4c4",
+                "content": "也对，如果用摩拉做原料，再把它卖掉去赚摩拉，不就得不偿失了嘛。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "left",
+                "key": "gal-line-996b3320-7d18-11ed-a392-935c2884e4c4",
+                "content": "但如果把一份普普通通的商品用「摩拉」包装一下，就可以获得百倍利润…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "left",
+                "key": "gal-line-996b3321-7d18-11ed-a392-935c2884e4c4",
+                "content": "比如在盘子底部印上摩拉的符号，再做一些宣传：「每天用它吃饭，就能招财进宝，日进斗金。」",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-2",
+                "pos": "left",
+                "key": "gal-line-996b3322-7d18-11ed-a392-935c2884e4c4",
+                "content": "嘿嘿，发现新商机！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "left",
+                "key": "gal-line-996b3323-7d18-11ed-a392-935c2884e4c4",
+                "content": "怎么样，旅行者，心动了吧？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "left",
+                "key": "gal-line-996b3324-7d18-11ed-a392-935c2884e4c4",
+                "content": "你是第一个顾客，可以给你打八折优惠哦！",
+                "ext": ""
+            }
+        ]
+    }
+]

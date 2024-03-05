@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "莫娜2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "right",
+                "key": "gal-line-71d280a0-4646-11ee-a6e1-1141f8087ada",
+                "content": "莫娜早上好，给你带了好吃的哦！刚出炉的面包~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "left",
+                "key": "gal-line-71d280a1-4646-11ee-a6e1-1141f8087ada",
+                "content": "早啊莫娜。咦，怎么黑眼圈这么重——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "mona",
+                "img": "莫娜-1",
+                "pos": "center",
+                "key": "gal-line-71d280a2-4646-11ee-a6e1-1141f8087ada",
+                "content": "你们来啦！快到截稿日，我昨天赶稿到半夜，不小心睡着了…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "mona",
+                "img": "莫娜-2",
+                "pos": "center",
+                "key": "gal-line-71d280a3-4646-11ee-a6e1-1141f8087ada",
+                "content": "幸好大部分稿件都写完了——正好有点饿，谢谢你们带的早饭…呼，继续写稿！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "right",
+                "key": "gal-line-71d280a4-4646-11ee-a6e1-1141f8087ada",
+                "content": "等等，中午说好一起去菲谢尔家聚餐你没有忘记吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-口水",
+                "pos": "right",
+                "key": "gal-line-71d280a5-4646-11ee-a6e1-1141f8087ada",
+                "content": "听说菲谢尔昨天研究菜谱到很晚，不知道准备了什么大餐，我好期待的！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "mona",
+                "img": "莫娜-2",
+                "pos": "center",
+                "key": "gal-line-71d280a6-4646-11ee-a6e1-1141f8087ada",
+                "content": "没有忘啦，我的稿子还需要最后占卜一次就完成了！先进来喝杯茶吧，很快就好。",
+                "ext": ""
+            }
+        ]
+    }
+]

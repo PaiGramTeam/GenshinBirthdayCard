@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "云堇",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-1c4d9b50-f62e-11ed-926d-ebde6bf19956",
+                "content": "这样可以吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "YunJin",
+                "img": "云堇-02",
+                "pos": "left",
+                "key": "gal-line-1c4d9b51-f62e-11ed-926d-ebde6bf19956",
+                "content": "手臂再举高些…没错！不愧是旅行者，身段相当标致。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-1c4d9b52-f62e-11ed-926d-ebde6bf19956",
+                "content": "那我呢那我呢？云堇，也看看我！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "YunJin",
+                "img": "云堇-02",
+                "pos": "left",
+                "key": "gal-line-1c4d9b53-f62e-11ed-926d-ebde6bf19956",
+                "content": "派蒙也很帅气哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-1c4d9b54-f62e-11ed-926d-ebde6bf19956",
+                "content": "要保持这个姿势，还是有些吃力…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-1c4d9b55-f62e-11ed-926d-ebde6bf19956",
+                "content": "舞剑的时候，因为担心动作不够标准，身体也会变得僵硬。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-1c4d9b56-f62e-11ed-926d-ebde6bf19956",
+                "content": "但云堇在台上总是能做到形神兼备，真的好厉害。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "YunJin",
+                "img": "云堇-02",
+                "pos": "left",
+                "key": "gal-line-1c4d9b57-f62e-11ed-926d-ebde6bf19956",
+                "content": "别心急，台上的功夫可不是一朝一夕就能练成的，作为新人，你已经做得很棒了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "YunJin",
+                "img": "云堇-01",
+                "pos": "left",
+                "key": "gal-line-1c4d9b58-f62e-11ed-926d-ebde6bf19956",
+                "content": "这次多亏有你们帮忙。对了，等到演出结束后，一起去品茶吧。",
+                "ext": ""
+            }
+        ]
+    }
+]

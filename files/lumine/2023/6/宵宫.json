@@ -1,0 +1,117 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "宵宫2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "center",
+                "key": "gal-line-b15348e0-0e97-11ee-92b3-df0402b961f4",
+                "content": "旅行者，快过来——嘘！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-笑",
+                "pos": "center",
+                "key": "gal-line-b15348e1-0e97-11ee-92b3-df0402b961f4",
+                "content": "对对，就是这里！再往下蹲一点，这样宵宫应该就看不出来了吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-b15348e2-0e97-11ee-92b3-df0402b961f4",
+                "content": "（……）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yomiya",
+                "img": "宵宫-1",
+                "pos": "left",
+                "key": "gal-line-b15348e3-0e97-11ee-92b3-df0402b961f4",
+                "content": "哈哈，宵宫姐姐今天准备了糖果哦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yomiya",
+                "img": "宵宫-1",
+                "pos": "left",
+                "key": "gal-line-b15348e4-0e97-11ee-92b3-df0402b961f4",
+                "content": "别着急别着急，来这边排好队，每个人都有~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kids",
+                "img": "",
+                "pos": "right",
+                "key": "gal-line-b15348e5-0e97-11ee-92b3-df0402b961f4",
+                "content": "谢谢宵宫姐姐！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-b15348e6-0e97-11ee-92b3-df0402b961f4",
+                "content": "谢谢宵宫姐姐！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yomiya",
+                "img": "宵宫-2",
+                "pos": "left",
+                "key": "gal-line-b15348e7-0e97-11ee-92b3-df0402b961f4",
+                "content": "不用谢——欸？！原来是你们！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-笑",
+                "pos": "right",
+                "key": "gal-line-b1536ff0-0e97-11ee-92b3-df0402b961f4",
+                "content": "嘿嘿，你终于发现了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yomiya",
+                "img": "宵宫-2",
+                "pos": "left",
+                "key": "gal-line-b1536ff1-0e97-11ee-92b3-df0402b961f4",
+                "content": "哎呀，我还以为是附近的小孩子戴上面具恶作剧呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yomiya",
+                "img": "宵宫-2",
+                "pos": "left",
+                "key": "gal-line-b1536ff2-0e97-11ee-92b3-df0402b961f4",
+                "content": "既然来了，就和大家一起玩吧！旅行者，你有什么想法吗？",
+                "ext": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "胡桃2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "hutao",
+                "img": "胡桃-1",
+                "pos": "left",
+                "key": "gal-line-77b7dfe0-21f4-11ee-91fd-311054a36442",
+                "content": "太阳当空照，大咪二咪早！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "right",
+                "key": "gal-line-77b7dfe1-21f4-11ee-91fd-311054a36442",
+                "content": "胡桃胡桃~~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "right",
+                "key": "gal-line-77b7dfe2-21f4-11ee-91fd-311054a36442",
+                "content": "生日快乐胡桃！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "hutao",
+                "img": "胡桃-1",
+                "pos": "left",
+                "key": "gal-line-77b7dfe3-21f4-11ee-91fd-311054a36442",
+                "content": "谢谢你们！今天发现一只可爱的小宠物，看它这光亮的毛发、俏皮的模样，一起给它想个响亮的名字吧！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-77b7dfe4-21f4-11ee-91fd-311054a36442",
+                "content": "你说的宠物不会是……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "right",
+                "key": "gal-line-77b7dfe5-21f4-11ee-91fd-311054a36442",
+                "content": "这个圆滚滚的……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "hutao",
+                "img": "胡桃-2",
+                "pos": "left",
+                "key": "gal-line-77b7dfe6-21f4-11ee-91fd-311054a36442",
+                "content": "没错！就叫它「胖胖」吧！",
+                "ext": ""
+            }
+        ]
+    }
+]

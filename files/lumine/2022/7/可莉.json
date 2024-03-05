@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "可莉-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "left",
+                "key": "gal-line-c5c0ad10-fe6a-11ec-8171-7f04a0ec1571",
+                "content": "草莓、奶油、糖果…完成啦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "klee",
+                "img": "可莉-2",
+                "pos": "right",
+                "key": "gal-line-c5c0ad11-fe6a-11ec-8171-7f04a0ec1571",
+                "content": "好耶，是蹦蹦蛋糕！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "left",
+                "key": "gal-line-c5c0d420-fe6a-11ec-8171-7f04a0ec1571",
+                "content": "我们快去把大家喊过来吧！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "klee",
+                "img": "可莉-1",
+                "pos": "right",
+                "key": "gal-line-c5c0d421-fe6a-11ec-8171-7f04a0ec1571",
+                "content": "嗯，走喽！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-c5c0d422-fe6a-11ec-8171-7f04a0ec1571",
+                "content": "啊，等等！你们两个，先擦干净…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-c5c0d423-fe6a-11ec-8171-7f04a0ec1571",
+                "content": "……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "left",
+                "key": "gal-line-c5c0d424-fe6a-11ec-8171-7f04a0ec1571",
+                "content": "手…",
+                "ext": ""
+            }
+        ]
+    }
+]

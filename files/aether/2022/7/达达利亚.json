@@ -1,0 +1,117 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "公子-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-42ba9220-fe68-11ec-8171-7f04a0ec1571",
+                "content": "达达利亚在哪里呢？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon2",
+                "pos": "right",
+                "key": "gal-line-42ba9221-fe68-11ec-8171-7f04a0ec1571",
+                "content": "找附近的愚人众士兵们问问？等等，湖边那堆雪好奇怪…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tartaglia",
+                "img": "达达利亚-1",
+                "pos": "center",
+                "key": "gal-line-42ba9222-fe68-11ec-8171-7f04a0ec1571",
+                "content": "你们来了，伙伴。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-e9b7e640-fe68-11ec-8171-7f04a0ec1571",
+                "content": "！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "right",
+                "key": "gal-line-e9b7e641-fe68-11ec-8171-7f04a0ec1571",
+                "content": "雪堆说话啦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tartaglia",
+                "img": "达达利亚-2",
+                "pos": "center",
+                "key": "gal-line-e9b7e642-fe68-11ec-8171-7f04a0ec1571",
+                "content": "哈哈，吓到你们了？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tartaglia",
+                "img": "达达利亚-2",
+                "pos": "center",
+                "key": "gal-line-e9b7e643-fe68-11ec-8171-7f04a0ec1571",
+                "content": "大雪之后最适合冰钓，今天一定能钓到大鱼。只要再等一会儿——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "right",
+                "key": "gal-line-e9b7e644-fe68-11ec-8171-7f04a0ec1571",
+                "content": "他又一动不动了…我们来准备那个吧！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-e9b80d50-fe68-11ec-8171-7f04a0ec1571",
+                "content": "好的。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon2",
+                "pos": "right",
+                "key": "gal-line-e9b80d51-fe68-11ec-8171-7f04a0ec1571",
+                "content": "螃蟹…蟹黄…小火…啊火要灭了！我扇扇！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tartaglia",
+                "img": "达达利亚-2",
+                "pos": "center",
+                "key": "gal-line-e9b80d52-fe68-11ec-8171-7f04a0ec1571",
+                "content": "嘘…有动静——来吧！",
+                "ext": ""
+            }
+        ]
+    }
+]

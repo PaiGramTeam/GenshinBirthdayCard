@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "砂糖-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-1",
+                "pos": "left",
+                "key": "gal-line-796aa590-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "原来这就是用超甜…超级甜甜花熬制的糖果？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "left",
+                "key": "gal-line-796aa591-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "那我就开动啦——谢谢你，砂糖！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shatang",
+                "img": "砂糖-2",
+                "pos": "right",
+                "key": "gal-line-796aa592-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "不…不用客气！应该是我要说谢谢才对。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shatang",
+                "img": "砂糖-2",
+                "pos": "right",
+                "key": "gal-line-796aa593-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "有了这些墩墩桃和香辛果，我可以开始新的研究了…谢谢你们从这么远的地方带给我。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "left",
+                "key": "gal-line-796aa594-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "嘿嘿，砂糖喜欢就好。唔——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "left",
+                "key": "gal-line-796aa595-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "好辣！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "left",
+                "key": "gal-line-796aa596-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "说起来，之前把食材递给砂糖时好像有香辛果掉了出来，难道说…？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shatang",
+                "img": "砂糖-1",
+                "pos": "right",
+                "key": "gal-line-796aa597-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "欸…欸？可能是我刚才太兴奋了…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-796aa598-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "没想到能创造出全新口味的糖果，也是很特别的发现呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-笑",
+                "pos": "left",
+                "key": "gal-line-796aa599-6c71-11ed-8487-2d6b4339fdb2",
+                "content": "第一次吃到香辛果做的糖，感觉很有意思！嘶…",
+                "ext": ""
+            }
+        ]
+    }
+]

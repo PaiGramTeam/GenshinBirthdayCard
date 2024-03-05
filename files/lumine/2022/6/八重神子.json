@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "八重-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "left",
+                "key": "gal-line-d61ce560-e86d-11ec-92c6-b7137b5b8af5",
+                "content": "哇——我们一进门，大家的目光全都聚集过来了！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-d61ce561-e86d-11ec-92c6-b7137b5b8af5",
+                "content": "毕竟雷电将军和八重宫司同时出现在这里了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yae",
+                "img": "八重-1",
+                "pos": "right",
+                "key": "gal-line-d61ce562-e86d-11ec-92c6-b7137b5b8af5",
+                "content": "呵呵，说得好像是什么严肃的会面一样。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yae",
+                "img": "八重-2",
+                "pos": "right",
+                "key": "gal-line-d61ce563-e86d-11ec-92c6-b7137b5b8af5",
+                "content": "不过，倒确实难得见到影出来闲逛呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yae",
+                "img": "八重-1",
+                "pos": "right",
+                "key": "gal-line-d61ce564-e86d-11ec-92c6-b7137b5b8af5",
+                "content": "那就点一份牛奶团子来庆祝吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yae",
+                "img": "八重-2",
+                "pos": "right",
+                "key": "gal-line-d61ce565-e86d-11ec-92c6-b7137b5b8af5",
+                "content": "嗯…可惜，这家店的菜单上好像没有呢，只能麻烦你们跑一趟啦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yae",
+                "img": "八重-1",
+                "pos": "right",
+                "key": "gal-line-d61ce566-e86d-11ec-92c6-b7137b5b8af5",
+                "content": "快去，快去。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙2",
+                "pos": "left",
+                "key": "gal-line-d61ce567-e86d-11ec-92c6-b7137b5b8af5",
+                "content": "咦？怎么突然…",
+                "ext": ""
+            }
+        ]
+    }
+]

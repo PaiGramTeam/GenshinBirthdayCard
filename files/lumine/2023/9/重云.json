@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "重云2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-e9cd71f0-4ba0-11ee-b2d8-815cf46504ba",
+                "content": "呼，这块琥珀终于要被砸开了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "chongyun",
+                "img": "重云-1",
+                "pos": "right",
+                "key": "gal-line-e9cd9900-4ba0-11ee-b2d8-815cf46504ba",
+                "content": "以防其中有妖邪作祟，旅行者小心些…唔！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "forest boar",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-e9cd9901-4ba0-11ee-b2d8-815cf46504ba",
+                "content": "（？）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-e9cd9902-4ba0-11ee-b2d8-815cf46504ba",
+                "content": "？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "chongyun",
+                "img": "重云-1",
+                "pos": "right",
+                "key": "gal-line-e9cd9903-4ba0-11ee-b2d8-815cf46504ba",
+                "content": "原来只是被困于此间的林猪…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "center",
+                "key": "gal-line-e9cd9904-4ba0-11ee-b2d8-815cf46504ba",
+                "content": "旅行者——重云——来这里——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-口水",
+                "pos": "center",
+                "key": "gal-line-e9cd9905-4ba0-11ee-b2d8-815cf46504ba",
+                "content": "锵锵！派蒙觉得这个琥珀里肯定有宝藏。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "chongyun",
+                "img": "重云-1",
+                "pos": "right",
+                "key": "gal-line-e9cd9906-4ba0-11ee-b2d8-815cf46504ba",
+                "content": "根据琥珀裂缝间露出的颜色判断，里面似乎是…不妙！",
+                "ext": ""
+            }
+        ]
+    }
+]

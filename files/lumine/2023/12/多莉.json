@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2023多莉-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙1",
+                "pos": "center",
+                "key": "gal-line-0e882290-9eeb-11ee-adb3-6bad3f9827f8",
+                "content": "这么晚才结束，多莉过生日的时候也很辛苦呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-0e8849a0-9eeb-11ee-adb3-6bad3f9827f8",
+                "content": "累了的话就早点休息吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "right",
+                "key": "gal-line-0e8849a1-9eeb-11ee-adb3-6bad3f9827f8",
+                "content": "这可是拓展业务的好机会，怎么会累呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-3",
+                "pos": "right",
+                "key": "gal-line-0e8849a2-9eeb-11ee-adb3-6bad3f9827f8",
+                "content": "这些合同，都是刚才谈下来的哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-0e8849a3-9eeb-11ee-adb3-6bad3f9827f8",
+                "content": "这么多吗，好厉害。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "center",
+                "key": "gal-line-0e8849a4-9eeb-11ee-adb3-6bad3f9827f8",
+                "content": "哇——好像已经见到堆成山的摩拉了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-1",
+                "pos": "right",
+                "key": "gal-line-0e8849a5-9eeb-11ee-adb3-6bad3f9827f8",
+                "content": "要不是旅行者你们去了枫丹，近期的宴会一定也会邀请你们的。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "dori",
+                "img": "多莉-2",
+                "pos": "right",
+                "key": "gal-line-0e8849a6-9eeb-11ee-adb3-6bad3f9827f8",
+                "content": "大名鼎鼎的旅行者，一定能吸引更多人来，我就可以谈下更多生意，嘿嘿~",
+                "ext": ""
+            }
+        ]
+    }
+]

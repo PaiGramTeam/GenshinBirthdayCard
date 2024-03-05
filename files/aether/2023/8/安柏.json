@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "安柏2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "amber",
+                "img": "安柏-2",
+                "pos": "right",
+                "key": "gal-line-2b922200-3668-11ee-8086-15d9a7601c35",
+                "content": "旅行者，有没有觉得这里很熟悉？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-2b922201-3668-11ee-8086-15d9a7601c35",
+                "content": "是飞行执照考试的地方。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "left",
+                "key": "gal-line-2b922202-3668-11ee-8086-15d9a7601c35",
+                "content": "哇，你记忆力真好！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "amber",
+                "img": "安柏-1",
+                "pos": "right",
+                "key": "gal-line-2b922203-3668-11ee-8086-15d9a7601c35",
+                "content": "不知不觉就走到这了。在那之后，你又去了很多地方旅行，应该变得更厉害了吧。怎么样，要不要比一比？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "amber",
+                "img": "安柏-2",
+                "pos": "right",
+                "key": "gal-line-2b922204-3668-11ee-8086-15d9a7601c35",
+                "content": "我虽然大部分时间都在蒙德，但也一直没有懈怠过哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-2b922205-3668-11ee-8086-15d9a7601c35",
+                "content": "要比飞行吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "amber",
+                "img": "安柏-1",
+                "pos": "right",
+                "key": "gal-line-2b922206-3668-11ee-8086-15d9a7601c35",
+                "content": "我都没问题，复杂一点也可以。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-2b922207-3668-11ee-8086-15d9a7601c35",
+                "content": "唔…路上采集5个日落果？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "left",
+                "key": "gal-line-2b922208-3668-11ee-8086-15d9a7601c35",
+                "content": "再击落3只风史莱姆？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "amber",
+                "img": "安柏-2",
+                "pos": "right",
+                "key": "gal-line-2b922209-3668-11ee-8086-15d9a7601c35",
+                "content": "好，就这么定了！派蒙，你猜谁会赢？",
+                "ext": ""
+            }
+        ]
+    }
+]

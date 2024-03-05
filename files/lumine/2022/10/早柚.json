@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "早柚-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-5c1387d0-4ebe-11ed-91a5-3d2f6719fc87",
+                "content": "嗨，早柚！我们终于找到你了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "sayu",
+                "img": "早柚-2",
+                "pos": "right",
+                "key": "gal-line-5c1387d1-4ebe-11ed-91a5-3d2f6719fc87",
+                "content": "嘘…早柚现在在偷…啊不，在休息，不可以被巫女姐姐发现啦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-5c1387d2-4ebe-11ed-91a5-3d2f6719fc87",
+                "content": "那我小声一些…早柚，生日快乐！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-5c1387d3-4ebe-11ed-91a5-3d2f6719fc87",
+                "content": "我们还准备了饭团，一起趁热吃吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "sayu",
+                "img": "早柚-1",
+                "pos": "right",
+                "key": "gal-line-5c1387d4-4ebe-11ed-91a5-3d2f6719fc87",
+                "content": "饭团能提供很多能量，吃完又可以安心睡觉了…谢谢你们为我准备这些…呼——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-5c1387d5-4ebe-11ed-91a5-3d2f6719fc87",
+                "content": "哎呀！怎么有东西掉下来…不好，巫女姐姐往这边看过来了！",
+                "ext": ""
+            }
+        ]
+    }
+]

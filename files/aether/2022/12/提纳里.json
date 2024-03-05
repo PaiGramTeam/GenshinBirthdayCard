@@ -1,0 +1,117 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "提纳里-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tighnari",
+                "img": "提纳里-44",
+                "pos": "left",
+                "key": "gal-line-af17cb60-7d19-11ed-a392-935c2884e4c4",
+                "content": "你们的好意我心领了，但你实在不该自己处理不认识的蘑菇，尤其还有个爱偷吃的小家伙在。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "right",
+                "key": "gal-line-af17cb61-7d19-11ed-a392-935c2884e4c4",
+                "content": "…对不起。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-口水",
+                "pos": "center",
+                "key": "gal-line-af17f270-7d19-11ed-a392-935c2884e4c4",
+                "content": "认识…识…史莱姆乐园…跳舞！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tighnari",
+                "img": "提纳里-22",
+                "pos": "left",
+                "key": "gal-line-af17f271-7d19-11ed-a392-935c2884e4c4",
+                "content": "完全神志不清了。我去煎药，旅行者，你先把火生起来。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-5",
+                "pos": "center",
+                "key": "gal-line-af17f272-7d19-11ed-a392-935c2884e4c4",
+                "content": "呜哇——旅行者，不要离开我！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "left",
+                "key": "gal-line-af17f273-7d19-11ed-a392-935c2884e4c4",
+                "content": "嗯？这是什么？软软的，毛茸茸的…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-af17f274-7d19-11ed-a392-935c2884e4c4",
+                "content": "派蒙，不可…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-af17f275-7d19-11ed-a392-935c2884e4c4",
+                "content": "尾巴！是派蒙的尾巴吗，好暖和！派蒙长出了尾巴，嘿嘿嘿…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tighnari",
+                "img": "提纳里-33",
+                "pos": "left",
+                "key": "gal-line-af17f276-7d19-11ed-a392-935c2884e4c4",
+                "content": "……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "right",
+                "key": "gal-line-af17f277-7d19-11ed-a392-935c2884e4c4",
+                "content": "…对不起！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tighnari",
+                "img": "提纳里-11",
+                "pos": "left",
+                "key": "gal-line-af17f278-7d19-11ed-a392-935c2884e4c4",
+                "content": "哎。这么有精神，看来没什么大问题。",
+                "ext": ""
+            }
+        ]
+    }
+]

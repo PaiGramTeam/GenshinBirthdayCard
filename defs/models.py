@@ -90,3 +90,20 @@ class PageRole(BaseModel):
     day_str: str
     src: str
     src_unread: str
+
+
+class SceneItem(BaseModel, frozen=False):
+    type: str
+    chara: Optional[str] = ""
+    img: Optional[str] = ""
+    pos: Optional[str] = ""
+    key: Optional[str] = ""
+    content: Optional[str] = ""
+    ext: Optional[str] = ""
+
+
+class Scene(BaseModel):
+    id: str
+    type: str
+    title: Optional[str] = ""
+    items: List[SceneItem]

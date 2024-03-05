@@ -1,0 +1,126 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "行秋-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xingqiu",
+                "img": "行秋-1",
+                "pos": "left",
+                "key": "gal-line-efcfd2c0-4096-11ed-b63b-17376f27a169",
+                "content": "「他挺剑疾刺，接着…接着…」",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xingqiu",
+                "img": "行秋-1",
+                "pos": "left",
+                "key": "gal-line-efcff9d0-4096-11ed-b63b-17376f27a169",
+                "content": "唔…这里该接什么动作好呢？想把打戏写得生动灵巧可真难。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "right",
+                "key": "gal-line-efcff9d1-4096-11ed-b63b-17376f27a169",
+                "content": "这种时候，当然是从亲身实践中找灵感啦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "right",
+                "key": "gal-line-efcff9d2-4096-11ed-b63b-17376f27a169",
+                "content": "看，那边有几个鬼鬼祟祟的家伙，我们去教训教训他们！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xingqiu",
+                "img": "行秋-3",
+                "pos": "left",
+                "key": "gal-line-efcff9d3-4096-11ed-b63b-17376f27a169",
+                "content": "好主意。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-efcff9d4-4096-11ed-b63b-17376f27a169",
+                "content": "……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "npc",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-efcff9d5-4096-11ed-b63b-17376f27a169",
+                "content": "是…是你！少侠饶命，我们今天没干坏事啊——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "right",
+                "key": "gal-line-efcff9d6-4096-11ed-b63b-17376f27a169",
+                "content": "遛得好快！看来我派蒙的名号连盗宝团都知道啦，哼哼~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-6",
+                "pos": "right",
+                "key": "gal-line-efcff9d7-4096-11ed-b63b-17376f27a169",
+                "content": "只可惜现成的素材就这么跑掉了…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xingqiu",
+                "img": "行秋-1",
+                "pos": "left",
+                "key": "gal-line-efcff9d8-4096-11ed-b63b-17376f27a169",
+                "content": "哈，原来是我的「老相识们」。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xingqiu",
+                "img": "行秋-2",
+                "pos": "left",
+                "key": "gal-line-efcff9d9-4096-11ed-b63b-17376f27a169",
+                "content": "有了，「他挺剑疾刺，那贼人招架不住，连退数步…」",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "right",
+                "key": "gal-line-efcff9da-4096-11ed-b63b-17376f27a169",
+                "content": "欸？行秋进入「噼咔」状态了！笔呢，笔呢，赶紧帮他记下来…",
+                "ext": ""
+            }
+        ]
+    }
+]

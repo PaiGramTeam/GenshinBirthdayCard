@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "胡桃插图（背景）",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙2",
+                "pos": "left",
+                "key": "gal-line-11ca7410-fe67-11ec-8171-7f04a0ec1571",
+                "content": "胡桃到底跑去哪儿了呀…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙1",
+                "pos": "left",
+                "key": "gal-line-11ca7411-fe67-11ec-8171-7f04a0ec1571",
+                "content": "这么晚了，街上一个人都没有，她该不会还在无妄坡闲逛吧？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-11ca7412-fe67-11ec-8171-7f04a0ec1571",
+                "content": "我们去找她。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "left",
+                "key": "gal-line-11ca7413-fe67-11ec-8171-7f04a0ec1571",
+                "content": "要…要去那个阴森森的地方吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "left",
+                "key": "gal-line-11ca7414-fe67-11ec-8171-7f04a0ec1571",
+                "content": "你…你要保护我哦！万一有什么「奇怪的东西」突然窜出来…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "hutao",
+                "img": "胡桃-2",
+                "pos": "center",
+                "key": "gal-line-11ca9b20-fe67-11ec-8171-7f04a0ec1571",
+                "content": "嗨！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-吓",
+                "pos": "left",
+                "key": "gal-line-11ca9b21-fe67-11ec-8171-7f04a0ec1571",
+                "content": "哇啊啊啊啊！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "hutao",
+                "img": "胡桃-1",
+                "pos": "center",
+                "key": "gal-line-11ca9b22-fe67-11ec-8171-7f04a0ec1571",
+                "content": "\n        ",
+                "ext": ""
+            }
+        ]
+    }
+]

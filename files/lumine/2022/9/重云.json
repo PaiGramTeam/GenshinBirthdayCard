@@ -1,0 +1,117 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "重云-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "chongyun",
+                "img": "重云-1",
+                "pos": "left",
+                "key": "gal-line-67d81410-2d93-11ed-9f6a-757c41739f0f",
+                "content": "此行路途遥远，需做好万全准备…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "right",
+                "key": "gal-line-67d81411-2d93-11ed-9f6a-757c41739f0f",
+                "content": "重云，我们来啦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "right",
+                "key": "gal-line-67d81412-2d93-11ed-9f6a-757c41739f0f",
+                "content": "天气这么热，我们特地为你准备了这个——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "right",
+                "key": "gal-line-67d81413-2d93-11ed-9f6a-757c41739f0f",
+                "content": "锵锵~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-67d81414-2d93-11ed-9f6a-757c41739f0f",
+                "content": "锵锵~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "right",
+                "key": "gal-line-67d81415-2d93-11ed-9f6a-757c41739f0f",
+                "content": "旅行者派蒙特制冰棍超级版！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-1",
+                "pos": "right",
+                "key": "gal-line-67d81416-2d93-11ed-9f6a-757c41739f0f",
+                "content": "配方采纳了香菱的建议，口感肯定一级棒！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "chongyun",
+                "img": "重云-1",
+                "pos": "left",
+                "key": "gal-line-67d81417-2d93-11ed-9f6a-757c41739f0f",
+                "content": "香菱？怪不得冰棍中会有那个…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "right",
+                "key": "gal-line-67d81418-2d93-11ed-9f6a-757c41739f0f",
+                "content": "嗯？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "chongyun",
+                "img": "重云-2",
+                "pos": "left",
+                "key": "gal-line-67d81419-2d93-11ed-9f6a-757c41739f0f",
+                "content": "没什么！多谢二位。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "chongyun",
+                "img": "重云-1",
+                "pos": "left",
+                "key": "gal-line-67d8141a-2d93-11ed-9f6a-757c41739f0f",
+                "content": "事不宜迟，我们快出发吧。",
+                "ext": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "迪奥娜-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "left",
+                "key": "gal-line-5319b490-965a-11ed-8310-472990ef591b",
+                "content": "吃我一记普通攻击——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "diona",
+                "img": "迪奥娜-3",
+                "pos": "right",
+                "key": "gal-line-5319b491-965a-11ed-8310-472990ef591b",
+                "content": "……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "left",
+                "key": "gal-line-5319b492-965a-11ed-8310-472990ef591b",
+                "content": "嘿嘿，我的卡牌充能也满了，看来胜负已定了呢~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "diona",
+                "img": "迪奥娜-1",
+                "pos": "right",
+                "key": "gal-line-5319b493-965a-11ed-8310-472990ef591b",
+                "content": "哼，不一定哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-5319b494-965a-11ed-8310-472990ef591b",
+                "content": "看我的，元素爆…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "left",
+                "key": "gal-line-5319b495-965a-11ed-8310-472990ef591b",
+                "content": "等等，骰子不够了？！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "diona",
+                "img": "迪奥娜-1",
+                "pos": "right",
+                "key": "gal-line-5319b496-965a-11ed-8310-472990ef591b",
+                "content": "结束了吗？那接下来就是我的回合了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-5319b497-965a-11ed-8310-472990ef591b",
+                "content": "欸？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-5319b498-965a-11ed-8310-472990ef591b",
+                "content": "等等，什么时候多了这么多召唤物…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "diona",
+                "img": "迪奥娜-1",
+                "pos": "right",
+                "key": "gal-line-5319b499-965a-11ed-8310-472990ef591b",
+                "content": "最后一击！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-5",
+                "pos": "left",
+                "key": "gal-line-5319b49a-965a-11ed-8310-472990ef591b",
+                "content": "呜哇，我的牌，我的牌都被击败了！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "diona",
+                "img": "迪奥娜-2",
+                "pos": "right",
+                "key": "gal-line-5319b49b-965a-11ed-8310-472990ef591b",
+                "content": "哼哼~胜负已定。这就是「贪杯」的下场。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-5",
+                "pos": "left",
+                "key": "gal-line-5319b49c-965a-11ed-8310-472990ef591b",
+                "content": "明明就剩最后两点，为什么，为什么…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-5319b49d-965a-11ed-8310-472990ef591b",
+                "content": "派蒙，不擅长算术呢。",
+                "ext": ""
+            }
+        ]
+    }
+]

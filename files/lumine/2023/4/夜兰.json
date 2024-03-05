@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "夜兰2023",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-b394ad50-de87-11ed-891d-b3a6fb8cad81",
+                "content": "就是这里了吧，岩上茶室招待员说的位置。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-b394ad51-de87-11ed-891d-b3a6fb8cad81",
+                "content": "这么晚了约在这里相见，还让我们带上留影机，好神秘…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-1",
+                "pos": "left",
+                "key": "gal-line-b394ad52-de87-11ed-891d-b3a6fb8cad81",
+                "content": "知道了，是不是为我们准备了什么惊喜？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yelan",
+                "img": "夜兰-1",
+                "pos": "right",
+                "key": "gal-line-b394ad53-de87-11ed-891d-b3a6fb8cad81",
+                "content": "——来的正好。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "left",
+                "key": "gal-line-b394ad54-de87-11ed-891d-b3a6fb8cad81",
+                "content": "哇，是夜兰！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yelan",
+                "img": "夜兰-1",
+                "pos": "right",
+                "key": "gal-line-b394ad55-de87-11ed-891d-b3a6fb8cad81",
+                "content": "嘘，别把「惊喜」吓跑了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-b394ad56-de87-11ed-891d-b3a6fb8cad81",
+                "content": "留影机和备用胶卷就位，保证不遗漏任何细节！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "left",
+                "key": "gal-line-b394ad57-de87-11ed-891d-b3a6fb8cad81",
+                "content": "庆功宴食材——香辛果就位！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yelan",
+                "img": "夜兰-2",
+                "pos": "right",
+                "key": "gal-line-b394ad58-de87-11ed-891d-b3a6fb8cad81",
+                "content": "那么现在就等好戏开场了。",
+                "ext": ""
+            }
+        ]
+    }
+]

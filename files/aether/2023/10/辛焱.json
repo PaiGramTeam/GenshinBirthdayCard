@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "辛焱2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "center",
+                "key": "gal-line-513f1a20-69ae-11ee-9815-7764ef6d5f01",
+                "content": "辛焱！好久不见呀。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xinyan",
+                "img": "辛焱-2",
+                "pos": "left",
+                "key": "gal-line-513f1a21-69ae-11ee-9815-7764ef6d5f01",
+                "content": "是啊，听说你们去枫丹了，怎么样？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-513f1a22-69ae-11ee-9815-7764ef6d5f01",
+                "content": "唔…我们坐下慢慢说吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-513f1a23-69ae-11ee-9815-7764ef6d5f01",
+                "content": "（三人喝着茶，旅行者和派蒙给辛焱说了一些在枫丹的见闻。）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xinyan",
+                "img": "辛焱-2",
+                "pos": "left",
+                "key": "gal-line-513f4130-69ae-11ee-9815-7764ef6d5f01",
+                "content": "哇——能在歌剧院演出，应该是很厉害的人吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xinyan",
+                "img": "辛焱-1",
+                "pos": "left",
+                "key": "gal-line-513f4131-69ae-11ee-9815-7764ef6d5f01",
+                "content": "有空我也想去枫丹演出，也能找找灵感。怎么样，要不要一起？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "right",
+                "key": "gal-line-513f4132-69ae-11ee-9815-7764ef6d5f01",
+                "content": "哇哦，合作舞台吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xinyan",
+                "img": "辛焱-1",
+                "pos": "left",
+                "key": "gal-line-513f4133-69ae-11ee-9815-7764ef6d5f01",
+                "content": "对，我可以帮你们准备我亲手做的乐器哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-好耶",
+                "pos": "right",
+                "key": "gal-line-513f4134-69ae-11ee-9815-7764ef6d5f01",
+                "content": "好期待呀！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xinyan",
+                "img": "辛焱-2",
+                "pos": "left",
+                "key": "gal-line-513f4135-69ae-11ee-9815-7764ef6d5f01",
+                "content": "正好听听我新写的曲子。来，动起来吧，摇滚时间到！",
+                "ext": ""
+            }
+        ]
+    }
+]

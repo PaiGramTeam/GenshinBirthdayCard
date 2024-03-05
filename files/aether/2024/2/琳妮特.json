@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2024琳妮特背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "center",
+                "key": "gal-line-68d05e80-c0af-11ee-b556-2175da0be65e",
+                "content": "啊吃饱了！真好吃o(^▽^)o",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Lyney",
+                "img": "林尼立绘1",
+                "pos": "right",
+                "key": "gal-line-68d05e81-c0af-11ee-b556-2175da0be65e",
+                "content": "哈——吃饱了…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether5",
+                "pos": "left",
+                "key": "gal-line-68d05e82-c0af-11ee-b556-2175da0be65e",
+                "content": "林尼吃饱了也会犯困呢？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Lynette",
+                "img": "琳妮特立绘1",
+                "pos": "right",
+                "key": "gal-line-68d05e83-c0af-11ee-b556-2175da0be65e",
+                "content": "为了刚刚展示给旅行者和派蒙的专属表演，哥哥昨天都没怎么睡觉，想了很多方案…平时歌剧院的演出前倒是睡得很好。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Lyney",
+                "img": "林尼立绘1",
+                "pos": "right",
+                "key": "gal-line-68d05e84-c0af-11ee-b556-2175da0be65e",
+                "content": "那还不是…重要的程度有区别啦。等等，你怎么知道我没有睡？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Lynette",
+                "img": "琳妮特立绘1",
+                "pos": "right",
+                "key": "gal-line-68d05e85-c0af-11ee-b556-2175da0be65e",
+                "content": "这是秘密，不告诉哥哥。旅行者来这边——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Lynette",
+                "img": "琳妮特立绘2",
+                "pos": "right",
+                "key": "gal-line-68d05e86-c0af-11ee-b556-2175da0be65e",
+                "content": "…",
+                "ext": ""
+            }
+        ]
+    }
+]

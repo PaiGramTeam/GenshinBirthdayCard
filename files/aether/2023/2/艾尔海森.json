@@ -1,0 +1,126 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "艾尔海森生日插图-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "left",
+                "key": "gal-line-4f6037b0-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "啊啊啊啊啊——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "left",
+                "key": "gal-line-4f6037b1-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "嘘——派蒙，别扯头发了，小心秃头哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-5",
+                "pos": "left",
+                "key": "gal-line-4f6037b2-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "为什么这书上的每一个字我都认识，可是它们连在一起我倒读不懂了…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-5",
+                "pos": "left",
+                "key": "gal-line-4f6037b3-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "半个小时过去了，我只读了两行字！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-6",
+                "pos": "left",
+                "key": "gal-line-4f6037b4-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "艾尔海森平时都在看这么晦涩又枯燥的书吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "alhithem",
+                "img": "艾尔海森-1",
+                "pos": "right",
+                "key": "gal-line-4f6037b5-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "我并不觉得它们晦涩，也不觉得它们枯燥。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-5",
+                "pos": "left",
+                "key": "gal-line-4f6037b6-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "什…呜，那是因为你没读过真正轻松有趣的书！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "alhithem",
+                "img": "艾尔海森-1",
+                "pos": "right",
+                "key": "gal-line-4f6037b7-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "你指的是这本《野猪公主》？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "alhithem",
+                "img": "艾尔海森-2",
+                "pos": "right",
+                "key": "gal-line-4f6037b8-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "嗯…的确是一本有趣的书，各种意义上。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-6",
+                "pos": "left",
+                "key": "gal-line-4f6037b9-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "…你刚刚皱眉头了吧，绝对皱眉头了吧！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-4f6037ba-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "不过没关系，我们这回带了这么多书，《沉秋拾剑录》、《菲谢尔皇女夜谭》、《转生成为雷电将军，然后天下无敌》…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-4f6037bb-a871-11ed-b8d8-a18aa6e8c85f",
+                "content": "总有一本，包你满意~",
+                "ext": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "芭芭拉-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether4",
+                "pos": "left",
+                "key": "gal-line-2dfdcd10-f5e0-11ec-b3c8-c5b446302804",
+                "content": "芭芭拉的歌声一直都那么动听。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "barbara",
+                "img": "芭芭拉-2",
+                "pos": "right",
+                "key": "gal-line-2dfdcd11-f5e0-11ec-b3c8-c5b446302804",
+                "content": "谢谢你们来陪我排练。能得到「荣誉骑士」的夸奖，我很开心。 ",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-好耶",
+                "pos": "left",
+                "key": "gal-line-2dfdcd12-f5e0-11ec-b3c8-c5b446302804",
+                "content": "收到了这——么多礼物，看来芭芭拉相当受欢迎呢！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "barbara",
+                "img": "芭芭拉-1",
+                "pos": "right",
+                "key": "gal-line-2dfdcd13-f5e0-11ec-b3c8-c5b446302804",
+                "content": "嗯…所以我也要努力回应大家的期待才行。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "barbara",
+                "img": "芭芭拉-3",
+                "pos": "right",
+                "key": "gal-line-2dfdcd14-f5e0-11ec-b3c8-c5b446302804",
+                "content": "今晚的演出，我一定会好好加油的！",
+                "ext": ""
+            }
+        ]
+    }
+]

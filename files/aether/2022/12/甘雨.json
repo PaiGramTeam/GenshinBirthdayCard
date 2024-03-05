@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "甘雨-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "center",
+                "key": "gal-line-bc1087c0-716c-11ed-a89d-2d35e93bf24e",
+                "content": "我回来了！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "left",
+                "key": "gal-line-bc1087c1-716c-11ed-a89d-2d35e93bf24e",
+                "content": "嘘…派蒙，声音太大了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ganyu",
+                "img": "甘雨-2",
+                "pos": "center",
+                "key": "gal-line-bc1087c2-716c-11ed-a89d-2d35e93bf24e",
+                "content": "啊…旅行者，派蒙，还有凝光…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ganyu",
+                "img": "甘雨-1",
+                "pos": "center",
+                "key": "gal-line-bc1087c3-716c-11ed-a89d-2d35e93bf24e",
+                "content": "抱，抱歉…我刚刚睡着了…你们有事情要谈的话，我就先…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ningguang",
+                "img": "凝光1",
+                "pos": "right",
+                "key": "gal-line-bc1087c4-716c-11ed-a89d-2d35e93bf24e",
+                "content": "无需担心，这两位是专程过来找你的。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ganyu",
+                "img": "甘雨-1",
+                "pos": "center",
+                "key": "gal-line-bc10aed0-716c-11ed-a89d-2d35e93bf24e",
+                "content": "欸…找我？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-笑",
+                "pos": "center",
+                "key": "gal-line-bc10aed1-716c-11ed-a89d-2d35e93bf24e",
+                "content": "好啦好啦，今天就别管工作了！快先尝尝这个素食蛋糕，香菱特制的哦~一出炉我就拿过来了！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-好耶",
+                "pos": "center",
+                "key": "gal-line-bc10aed2-716c-11ed-a89d-2d35e93bf24e",
+                "content": "还有还有——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-bc10aed3-716c-11ed-a89d-2d35e93bf24e",
+                "content": "生日快乐。",
+                "ext": ""
+            }
+        ]
+    }
+]

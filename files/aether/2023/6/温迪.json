@@ -1,0 +1,126 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "温迪2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "left",
+                "key": "gal-line-f27ba090-0b33-11ee-85e2-7dab2df76337",
+                "content": "温迪，生日快乐！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-f27bc7a0-0b33-11ee-85e2-7dab2df76337",
+                "content": "锵锵——我和旅行者一起做了苹果蛋糕！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "venti",
+                "img": "温迪-2",
+                "pos": "right",
+                "key": "gal-line-f27bc7a1-0b33-11ee-85e2-7dab2df76337",
+                "content": "哇哦，谢谢你们。那么，世上最好的吟游诗人，给你们带来特别演出吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "left",
+                "key": "gal-line-f27bc7a2-0b33-11ee-85e2-7dab2df76337",
+                "content": "好耶，温迪你真好！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "venti",
+                "img": "温迪-1",
+                "pos": "right",
+                "key": "gal-line-f27bc7a3-0b33-11ee-85e2-7dab2df76337",
+                "content": "礼尚往来嘛。这次加上了你们的新故事，我早就准备好咯。那么，开始啦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-f27bc7a4-0b33-11ee-85e2-7dab2df76337",
+                "content": "（温迪唱起了他新写的诗歌，派蒙拉开纸质礼炮，彩带在空中散开，又缓缓落下。）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "venti",
+                "img": "温迪-1",
+                "pos": "right",
+                "key": "gal-line-f27bc7a5-0b33-11ee-85e2-7dab2df76337",
+                "content": "哇，还有这样的舞台效果。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-f27bc7a6-0b33-11ee-85e2-7dab2df76337",
+                "content": "嘿嘿，是我准备的哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-f27bc7a7-0b33-11ee-85e2-7dab2df76337",
+                "content": "不过…走之前不会要我一片一片捡起来吧…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "venti",
+                "img": "温迪-1",
+                "pos": "right",
+                "key": "gal-line-f27bc7a8-0b33-11ee-85e2-7dab2df76337",
+                "content": "小事一桩，风一吹就收拾好了嘛。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-f27bc7a9-0b33-11ee-85e2-7dab2df76337",
+                "content": "…原来风神还会把元素力用在这种事情上。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "venti",
+                "img": "温迪-2",
+                "pos": "right",
+                "key": "gal-line-f27bc7aa-0b33-11ee-85e2-7dab2df76337",
+                "content": "欸嘿。",
+                "ext": ""
+            }
+        ]
+    }
+]

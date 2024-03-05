@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "罗莎莉亚-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-af2a1260-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "城里的酒馆都找了一遍，难道她出城工作去了？我们再找找！希望罗莎莉亚喜欢烤肉卷…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-af2a1261-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "那边城墙上是不是她？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-af2a1262-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "——嗨！罗莎莉亚！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "rosaria",
+                "img": "罗莎莉亚-1",
+                "pos": "right",
+                "key": "gal-line-af2a1263-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "哦？是你们啊，早安。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "rosaria",
+                "img": "罗莎莉亚-2",
+                "pos": "right",
+                "key": "gal-line-af2a1264-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "今天的工作时间结束了，需要帮助的话明天再说吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-笑",
+                "pos": "left",
+                "key": "gal-line-af2a1265-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "不是的啦，听说今天是你的生日，我们是来给你送礼物的！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "left",
+                "key": "gal-line-af2a1266-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "生日快乐。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "rosaria",
+                "img": "罗莎莉亚-1",
+                "pos": "right",
+                "key": "gal-line-af2a1267-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "嗯？独特的烤肉香气…谢谢，你们有心了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "rosaria",
+                "img": "罗莎莉亚-1",
+                "pos": "right",
+                "key": "gal-line-af2a1268-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "我正要去喝杯早餐酒，没什么事的话一起来吧？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "rosaria",
+                "img": "罗莎莉亚-1",
+                "pos": "right",
+                "key": "gal-line-af2a1269-9719-11ed-bc07-f74b97f9c6d4",
+                "content": "蒲公英酒配烤肉，真是不错的早餐…想喝点什么？我请客。",
+                "ext": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "id": "01",
+        "type": "scene",
+        "title": "魈",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "魈插图-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xiao",
+                "img": "魈-03",
+                "pos": "center",
+                "key": "gal-line-c9031c10-baf9-11ec-b652-773fdb0d7887",
+                "content": "你们来了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xiao",
+                "img": "魈-02",
+                "pos": "center",
+                "key": "gal-line-c9031c12-baf9-11ec-b652-773fdb0d7887",
+                "content": "……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xiao",
+                "img": "魈-03",
+                "pos": "center",
+                "key": "gal-line-fa426100-baf9-11ec-b652-773fdb0d7887",
+                "content": "这曲调，让我想起一些往事。",
+                "ext": ""
+            }
+        ]
+    }
+]

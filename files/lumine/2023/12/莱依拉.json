@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2023莱依拉-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "center",
+                "key": "gal-line-68336570-9d74-11ee-ab23-4788e685e885",
+                "content": "莱依拉好厉害，赢了好多奖品~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "laiyila",
+                "img": "莱依拉-1",
+                "pos": "right",
+                "key": "gal-line-68336571-9d74-11ee-ab23-4788e685e885",
+                "content": "那些摊主的手法…多多观察的话，总能找到一些规律。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-10",
+                "pos": "center",
+                "key": "gal-line-68336572-9d74-11ee-ab23-4788e685e885",
+                "content": "欸，这样吗？明明刚刚看的时候，眼睛都没有眨一下，除了感觉眼睛好累，完全没看出规律来。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether5",
+                "pos": "left",
+                "key": "gal-line-68336573-9d74-11ee-ab23-4788e685e885",
+                "content": "有时一眨眼的功夫，摊主就已经调换好了顺序…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "laiyila",
+                "img": "莱依拉-3",
+                "pos": "right",
+                "key": "gal-line-68336574-9d74-11ee-ab23-4788e685e885",
+                "content": "这…很难描述，每位摊主有不一样的手法…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "center",
+                "key": "gal-line-68336575-9d74-11ee-ab23-4788e685e885",
+                "content": "那要不我来变个戏法，你们来猜？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "center",
+                "key": "gal-line-68336576-9d74-11ee-ab23-4788e685e885",
+                "content": "\n        ",
+                "ext": ""
+            }
+        ]
+    }
+]

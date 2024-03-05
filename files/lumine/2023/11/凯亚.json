@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2023凯亚-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙1",
+                "pos": "center",
+                "key": "gal-line-2205cda0-8e69-11ee-bfbe-31ae3d6bc6c8",
+                "content": "难得凯亚没有邀请我们去酒馆见呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kaiya",
+                "img": "凯亚-2",
+                "pos": "right",
+                "key": "gal-line-2205cda1-8e69-11ee-bfbe-31ae3d6bc6c8",
+                "content": "我也不是每时每刻都在喝酒啊。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "center",
+                "key": "gal-line-2205cda2-8e69-11ee-bfbe-31ae3d6bc6c8",
+                "content": "哇，架子上葡萄好像都熟了耶！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kaiya",
+                "img": "凯亚-1",
+                "pos": "right",
+                "key": "gal-line-2205cda3-8e69-11ee-bfbe-31ae3d6bc6c8",
+                "content": "上次特纳教你的，还记得吗？到时候新酿好的饮品，可以给你们先尝尝。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether5",
+                "pos": "center",
+                "key": "gal-line-2205cda4-8e69-11ee-bfbe-31ae3d6bc6c8",
+                "content": "摘葡萄？当然记得。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-口水",
+                "pos": "center",
+                "key": "gal-line-2205cda5-8e69-11ee-bfbe-31ae3d6bc6c8",
+                "content": "旅行者…那我们？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "-2",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-2205cda6-8e69-11ee-bfbe-31ae3d6bc6c8",
+                "content": "（与派蒙、凯亚一起摘了许多葡萄）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether6",
+                "pos": "center",
+                "key": "gal-line-2205cda7-8e69-11ee-bfbe-31ae3d6bc6c8",
+                "content": "呼…果然是力气活。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "center",
+                "key": "gal-line-2205cda8-8e69-11ee-bfbe-31ae3d6bc6c8",
+                "content": "欸，是嘛？",
+                "ext": ""
+            }
+        ]
+    }
+]

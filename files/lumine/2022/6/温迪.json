@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "温迪-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon2",
+                "pos": "left",
+                "key": "gal-line-a59de370-e7ce-11ec-9c68-2ba7948d3f0d",
+                "content": "快看，是卖唱的！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "venti",
+                "img": "温迪-2",
+                "pos": "right",
+                "key": "gal-line-a59de371-e7ce-11ec-9c68-2ba7948d3f0d",
+                "content": "嘿，我刚刚还想着你们什么时候会来呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "left",
+                "key": "gal-line-a59de372-e7ce-11ec-9c68-2ba7948d3f0d",
+                "content": "温迪，今天是你的生日。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-a59de373-e7ce-11ec-9c68-2ba7948d3f0d",
+                "content": "有什么生日愿望，或是想要做的事情吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "venti",
+                "img": "温迪-1",
+                "pos": "right",
+                "key": "gal-line-a59de374-e7ce-11ec-9c68-2ba7948d3f0d",
+                "content": "嗯…那就陪我一起聊聊天，散散步，要是能再去喝一杯就好了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙2",
+                "pos": "left",
+                "key": "gal-line-a59de375-e7ce-11ec-9c68-2ba7948d3f0d",
+                "content": "都是些好平常的事情…我还以为神明的生日愿望会更有「噼咔」的感觉呢…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "venti",
+                "img": "温迪-1",
+                "pos": "right",
+                "key": "gal-line-a59de376-e7ce-11ec-9c68-2ba7948d3f0d",
+                "content": "欸嘿，那种「噼咔」的感觉，不是来自于做了什么事情，而是来自于陪伴在身边的人。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "venti",
+                "img": "温迪-2",
+                "pos": "right",
+                "key": "gal-line-a59de377-e7ce-11ec-9c68-2ba7948d3f0d",
+                "content": "对吧，旅行者？",
+                "ext": ""
+            }
+        ]
+    }
+]

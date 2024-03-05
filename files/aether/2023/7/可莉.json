@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "可莉2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "left",
+                "key": "gal-line-6eab9f50-2b85-11ee-b428-954463ca58b3",
+                "content": "可莉，我们来啦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-6eab9f51-2b85-11ee-b428-954463ca58b3",
+                "content": "噫——怎么有这么多蹦蹦炸弹？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "klee",
+                "img": "可莉-2",
+                "pos": "right",
+                "key": "gal-line-6eabc660-2b85-11ee-b428-954463ca58b3",
+                "content": "不是哦，这是懒懒蹦蹦。懒懒蹦蹦天天睡觉，不会爆炸的。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-6eabc661-2b85-11ee-b428-954463ca58b3",
+                "content": "哦…还好还好，不然小可莉又要被关禁闭了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-6eabc662-2b85-11ee-b428-954463ca58b3",
+                "content": "所以可莉请我们过来帮忙，是做懒懒蹦蹦吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "klee",
+                "img": "可莉-1",
+                "pos": "right",
+                "key": "gal-line-6eabc663-2b85-11ee-b428-954463ca58b3",
+                "content": "对，可莉希望懒懒蹦蹦可以陪在大家身边，让大家多一个朋友哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "left",
+                "key": "gal-line-6eabc664-2b85-11ee-b428-954463ca58b3",
+                "content": "好耶，谢谢小可莉。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-6eabc665-2b85-11ee-b428-954463ca58b3",
+                "content": "唔…那要不要做个「懒懒派蒙」试试看？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-6",
+                "pos": "left",
+                "key": "gal-line-6eabc666-2b85-11ee-b428-954463ca58b3",
+                "content": "什么嘛！",
+                "ext": ""
+            }
+        ]
+    }
+]

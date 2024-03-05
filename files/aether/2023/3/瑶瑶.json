@@ -1,0 +1,126 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "瑶瑶-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七2",
+                "pos": "left",
+                "key": "gal-line-d2758620-b990-11ed-bfd3-b3e6563b738e",
+                "content": "竹笋，给你。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yaoyao",
+                "img": "瑶瑶-2",
+                "pos": "right",
+                "key": "gal-line-d275ad30-b990-11ed-bfd3-b3e6563b738e",
+                "content": "谢谢你！七七，你还记得我吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七2",
+                "pos": "left",
+                "key": "gal-line-d275ad31-b990-11ed-bfd3-b3e6563b738e",
+                "content": "记得，你是…唔…小团雀。可爱。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yaoyao",
+                "img": "瑶瑶-1",
+                "pos": "right",
+                "key": "gal-line-d275ad32-b990-11ed-bfd3-b3e6563b738e",
+                "content": "哈哈，我是瑶瑶，是七七的好朋友哦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七1",
+                "pos": "left",
+                "key": "gal-line-d275ad33-b990-11ed-bfd3-b3e6563b738e",
+                "content": "七七的…好朋友…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yaoyao",
+                "img": "瑶瑶-2",
+                "pos": "right",
+                "key": "gal-line-d275ad34-b990-11ed-bfd3-b3e6563b738e",
+                "content": "没错，瑶瑶一直都是七七的朋友。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七2",
+                "pos": "left",
+                "key": "gal-line-d275ad35-b990-11ed-bfd3-b3e6563b738e",
+                "content": "瑶瑶一个人，很危险。有野林猪。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yaoyao",
+                "img": "瑶瑶-1",
+                "pos": "right",
+                "key": "gal-line-d275ad36-b990-11ed-bfd3-b3e6563b738e",
+                "content": "没关系，瑶瑶是和其他朋友一起来的，他们很可靠哦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七1",
+                "pos": "left",
+                "key": "gal-line-d275ad37-b990-11ed-bfd3-b3e6563b738e",
+                "content": "其他朋友？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yaoyao",
+                "img": "瑶瑶-2",
+                "pos": "right",
+                "key": "gal-line-d275ad38-b990-11ed-bfd3-b3e6563b738e",
+                "content": "就在那边——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "left",
+                "key": "gal-line-d275ad39-b990-11ed-bfd3-b3e6563b738e",
+                "content": "旅行者！加油！用力啊啊啊！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "right",
+                "key": "gal-line-d275ad3a-b990-11ed-bfd3-b3e6563b738e",
+                "content": "派蒙！好痛！快松手啊啊啊！",
+                "ext": ""
+            }
+        ]
+    }
+]

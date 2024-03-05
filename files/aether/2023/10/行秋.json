@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "行秋2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-10",
+                "pos": "center",
+                "key": "gal-line-57bb5fc0-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "刚刚真是千钧一发，如果不是行秋及时出手，那个孩子就要落水了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xingqiu",
+                "img": "行秋-1",
+                "pos": "left",
+                "key": "gal-line-57bb5fc1-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "派蒙过奖了，遇到需要帮助的人及时相助，此乃侠义之道，只希望他下次别为了捞风筝做出那么危险的事情。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xingqiu",
+                "img": "行秋-3",
+                "pos": "left",
+                "key": "gal-line-57bb5fc2-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "稍微耽误了些时间，难得有空一起去品读新书，我们快点走吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xiangling",
+                "img": "香菱-1",
+                "pos": "right",
+                "key": "gal-line-57bb5fc3-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "——欸？旅行者、派蒙和行秋？这边这边！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xingqiu",
+                "img": "行秋-1",
+                "pos": "left",
+                "key": "gal-line-57bb5fc4-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "（香菱笑容这么灿烂，难不成是有新菜的试吃，不好，快跑——）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-口水",
+                "pos": "center",
+                "key": "gal-line-57bb5fc5-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "…香菱？那是什么，看起来好美味~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xiangling",
+                "img": "香菱-2",
+                "pos": "right",
+                "key": "gal-line-57bb5fc6-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "你们运气可真不错，这是刚送来的兽肉和须弥采购的调味料，我最近研究了一种用兽肉烹饪的新菜，来试试，给你们免费试吃~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "center",
+                "key": "gal-line-57bb5fc7-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "(¯﹃¯)好耶！~旅行者、行秋，吃饱了才有力气看书嘛，走嘛！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xingqiu",
+                "img": "行秋-1",
+                "pos": "left",
+                "key": "gal-line-57bb5fc8-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "这…旅行者你可要帮我，如果新菜里有「刺客」——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "center",
+                "key": "gal-line-57bb5fc9-65a9-11ee-ac33-59d3b5ccc957",
+                "content": "…懂了，包在我身上！正好饿了，走吧~",
+                "ext": ""
+            }
+        ]
+    }
+]

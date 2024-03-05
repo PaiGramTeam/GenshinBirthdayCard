@@ -1,0 +1,54 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "丽莎-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "lisa",
+                "img": "丽莎-1",
+                "pos": "left",
+                "key": "gal-line-727cab10-e6fd-11ec-b055-1177d587ffc4",
+                "content": "是小可爱呀，午安。好久不见你们了呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "right",
+                "key": "gal-line-727cab11-e6fd-11ec-b055-1177d587ffc4",
+                "content": "生日快乐！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "lisa",
+                "img": "丽莎-1",
+                "pos": "left",
+                "key": "gal-line-727cd220-e6fd-11ec-b055-1177d587ffc4",
+                "content": "呵呵，谢谢你们的礼物。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "lisa",
+                "img": "丽莎-2",
+                "pos": "left",
+                "key": "gal-line-727cd221-e6fd-11ec-b055-1177d587ffc4",
+                "content": "现在时间还早，不如坐下来喝杯茶，陪姐姐聊聊天吧？",
+                "ext": ""
+            }
+        ]
+    }
+]

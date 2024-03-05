@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "云堇生日单格-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙3",
+                "pos": "left",
+                "key": "gal-line-b810e820-d803-11ec-a997-23c3942c5183",
+                "content": "云堇，生日快乐！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "YunJin",
+                "img": "云堇-01",
+                "pos": "right",
+                "key": "gal-line-b810e821-d803-11ec-a997-23c3942c5183",
+                "content": "呀，是旅行者和派蒙，谢谢你们。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon2",
+                "pos": "left",
+                "key": "gal-line-b810e822-d803-11ec-a997-23c3942c5183",
+                "content": "我们一直想着要送你一份特别的生日礼物，想了好久好久…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "left",
+                "key": "gal-line-b810e823-d803-11ec-a997-23c3942c5183",
+                "content": "最后试着写了一场「戏」！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-b810e824-d803-11ec-a997-23c3942c5183",
+                "content": "是以你为原型的故事。想现在唱给你听，可以吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "YunJin",
+                "img": "云堇-02",
+                "pos": "right",
+                "key": "gal-line-b810e825-d803-11ec-a997-23c3942c5183",
+                "content": "当然可以，我很期待！",
+                "ext": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "卡维2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-f23fd090-1b0c-11ee-a214-e1250f8ebea2",
+                "content": "这是给我们的吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kaveh",
+                "img": "卡维-1",
+                "pos": "right",
+                "key": "gal-line-7755acd0-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "嗯，画稿的间隙大概构思了一下，如果你们之后想在须弥有个住处，我可以做完整的设计。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kaveh",
+                "img": "卡维-2",
+                "pos": "right",
+                "key": "gal-line-7755acd1-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "别不说话啊…感觉怎么样？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "left",
+                "key": "gal-line-7755acd2-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "哇——特别好！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-7755acd3-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "是兼具美观和舒适的房子，很喜欢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-7755acd4-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "没错！我已经想象出住在里面的感觉了！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kaveh",
+                "img": "卡维-1",
+                "pos": "right",
+                "key": "gal-line-7755acd5-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "…这么满意？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "left",
+                "key": "gal-line-7755acd6-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "这还能有哪里不满意呀。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kaveh",
+                "img": "卡维-1",
+                "pos": "right",
+                "key": "gal-line-7755acd7-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "唔…其实我很少有一次过稿的经历，多少都要改几次。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kaveh",
+                "img": "卡维-2",
+                "pos": "right",
+                "key": "gal-line-7755acd8-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "你们不会是看在我生日的份上，让我体验一次过稿才故意这么说的吧？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "left",
+                "key": "gal-line-7755acd9-1c7c-11ee-a214-e1250f8ebea2",
+                "content": "怎么可能嘛！",
+                "ext": ""
+            }
+        ]
+    }
+]

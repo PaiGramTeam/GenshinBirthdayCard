@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "七七-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-81aefed0-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "绝云间的路也太难走啦，上上下下的我都累了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-81aefed1-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "派蒙飞着也会累呀？休息一下吧，七七？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七2",
+                "pos": "center",
+                "key": "gal-line-81aefed2-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "七七…不会累。七七…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-81aefed3-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "（七七翻了翻笔记。）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七1",
+                "pos": "center",
+                "key": "gal-line-81aefed4-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "还有…好多药材没有采…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-81aefed5-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "那我们去旁边休息一下，七七加油啦——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-81aefed6-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "欸？七七？爬上去太高啦，我们去采别的！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七1",
+                "pos": "center",
+                "key": "gal-line-81aefed7-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "…七七…采药…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-81aefed8-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "（她似乎没听到，只是闷头一个劲继续往上爬。）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether-00",
+                "pos": "right",
+                "key": "gal-line-81aefed9-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "完全听不到了呢。之前白术先生似乎说过，如果七七被敕令卡住的话，要从背后抱住她，然后——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-10",
+                "pos": "left",
+                "key": "gal-line-81aefeda-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "然后？啊，我想起来了！可是，这怎么说的出口…很难为情——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-81aefedb-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "啊七七小心，要摔下来了！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-81aefedc-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "解除敕令要紧，加油派蒙！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "left",
+                "key": "gal-line-81aefedd-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "嗯…那个…等等…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-81aefede-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "（派蒙追上去，一把抱住了七七。）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-10",
+                "pos": "left",
+                "key": "gal-line-81aefedf-b8ee-11ed-a162-7b4ae87f8faf",
+                "content": "我…最·喜·欢·你·了！",
+                "ext": ""
+            }
+        ]
+    }
+]

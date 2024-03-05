@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "九条插图（背景)",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙1",
+                "pos": "left",
+                "key": "gal-line-22e333b0-fe65-11ec-8171-7f04a0ec1571",
+                "content": "裟罗，快看我们给你带了什么礼物！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "left",
+                "key": "gal-line-22e333b1-fe65-11ec-8171-7f04a0ec1571",
+                "content": "锵锵——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙3",
+                "pos": "left",
+                "key": "gal-line-22e333b2-fe65-11ec-8171-7f04a0ec1571",
+                "content": "最新款的御，御…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kujou",
+                "img": "九条-1",
+                "pos": "right",
+                "key": "gal-line-22e333b3-fe65-11ec-8171-7f04a0ec1571",
+                "content": "是「御建鸣神主尊大御所大人像」。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙1",
+                "pos": "left",
+                "key": "gal-line-22e333b4-fe65-11ec-8171-7f04a0ec1571",
+                "content": "对对，我们可是花了好大力气才抢到的！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kujou",
+                "img": "九条-2",
+                "pos": "right",
+                "key": "gal-line-22e333b5-fe65-11ec-8171-7f04a0ec1571",
+                "content": "二位费心了。这次的「御建鸣神主尊大御所大人像」只限现场抢购，可惜我有公务在身，未能到场。没想到竟能…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kujou",
+                "img": "九条-2",
+                "pos": "right",
+                "key": "gal-line-22e333b6-fe65-11ec-8171-7f04a0ec1571",
+                "content": "非常感谢二位。",
+                "ext": ""
+            }
+        ]
+    }
+]

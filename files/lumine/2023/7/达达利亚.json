@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "达达利亚2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "left",
+                "key": "gal-line-57ba5f10-2613-11ee-890f-c73b8b2aff00",
+                "content": "达达利亚！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tartaglia",
+                "img": "达达利亚-1",
+                "pos": "right",
+                "key": "gal-line-57ba5f11-2613-11ee-890f-c73b8b2aff00",
+                "content": "旅行者和派蒙？你们怎么来了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-57ba5f12-2613-11ee-890f-c73b8b2aff00",
+                "content": "我们还想问呢…对了这个给你~本想让北国银行给你捎过去，倒是能直接交到你手上啦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tartaglia",
+                "img": "达达利亚-2",
+                "pos": "right",
+                "key": "gal-line-f44bcbb0-2619-11ee-890f-c73b8b2aff00",
+                "content": "有些工作要做，来璃月待几天。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "tartaglia",
+                "img": "达达利亚-2",
+                "pos": "right",
+                "key": "gal-line-57ba5f13-2613-11ee-890f-c73b8b2aff00",
+                "content": "这是什么，决战的邀请函？终于要和我一决胜负了吗！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-57ba5f14-2613-11ee-890f-c73b8b2aff00",
+                "content": "噫…这个人脑子里只有…不会又是什么打打杀杀的工作吧？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-57ba5f15-2613-11ee-890f-c73b8b2aff00",
+                "content": "咳咳，是礼物啦！听说今天是你的生日，生日快乐~",
+                "ext": ""
+            }
+        ]
+    }
+]

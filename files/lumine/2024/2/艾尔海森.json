@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2024艾尔海森背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙1",
+                "pos": "center",
+                "key": "gal-line-f9fe8d40-c64b-11ee-ae66-455e0895c413",
+                "content": "艾尔海森！好巧呀，你今天休息吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "alhithem",
+                "img": "艾尔海森-1",
+                "pos": "right",
+                "key": "gal-line-f9fe8d41-c64b-11ee-ae66-455e0895c413",
+                "content": "不，只是午休时间出来坐坐，马上就要回去了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "center",
+                "key": "gal-line-f9fe8d42-c64b-11ee-ae66-455e0895c413",
+                "content": "唔…本来想着要聚一聚的。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether5",
+                "pos": "left",
+                "key": "gal-line-f9fe8d43-c64b-11ee-ae66-455e0895c413",
+                "content": "那晚上见？要不要去兰巴德酒馆坐坐？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "alhithem",
+                "img": "艾尔海森-2",
+                "pos": "right",
+                "key": "gal-line-f9fe8d44-c64b-11ee-ae66-455e0895c413",
+                "content": "去喝一杯的话，恐怕还得多一个位置，有人今天出门没带钥匙。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "center",
+                "key": "gal-line-f9fe8d45-c64b-11ee-ae66-455e0895c413",
+                "content": "咦，这样呀。没问题，人多更热闹~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether5",
+                "pos": "left",
+                "key": "gal-line-f9fe8d46-c64b-11ee-ae66-455e0895c413",
+                "content": "派蒙什么时候这么大方了？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙2",
+                "pos": "center",
+                "key": "gal-line-f9fe8d47-c64b-11ee-ae66-455e0895c413",
+                "content": "什么嘛，当然是你请客啦！",
+                "ext": ""
+            }
+        ]
+    }
+]

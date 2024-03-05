@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "九条裟罗2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-0ca4ecb0-2141-11ee-91fd-311054a36442",
+                "content": "嘘，裟罗在训练呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kujou",
+                "img": "九条-2",
+                "pos": "left",
+                "key": "gal-line-0ca4ecb1-2141-11ee-91fd-311054a36442",
+                "content": "没关系，既然来了，随意就好。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-口水",
+                "pos": "right",
+                "key": "gal-line-0ca4ecb2-2141-11ee-91fd-311054a36442",
+                "content": "今天是裟罗的生日欸，要不要休息一下？一起去吃好吃的吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kujou",
+                "img": "九条-1",
+                "pos": "left",
+                "key": "gal-line-0ca4ecb3-2141-11ee-91fd-311054a36442",
+                "content": "\n        ",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-0ca4ecb4-2141-11ee-91fd-311054a36442",
+                "content": "（九条裟罗抬起弓箭，瞄准，松弦，动作一气呵成。）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-0ca4ecb5-2141-11ee-91fd-311054a36442",
+                "content": "正中红心。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "right",
+                "key": "gal-line-0ca4ecb6-2141-11ee-91fd-311054a36442",
+                "content": "哇——不愧是裟罗！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kujou",
+                "img": "九条-1",
+                "pos": "left",
+                "key": "gal-line-0ca4ecb7-2141-11ee-91fd-311054a36442",
+                "content": "旅行者，要试试吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-0ca4ecb8-2141-11ee-91fd-311054a36442",
+                "content": "没问题，来吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "right",
+                "key": "gal-line-0ca4ecb9-2141-11ee-91fd-311054a36442",
+                "content": "你可要好好表现，让我说出「不愧是旅行者」才行。",
+                "ext": ""
+            }
+        ]
+    }
+]

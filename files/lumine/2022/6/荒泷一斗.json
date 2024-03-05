@@ -1,0 +1,117 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "一斗插图-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "itto",
+                "img": "一斗-1",
+                "pos": "left",
+                "key": "gal-line-90b7d920-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "哟！我的挚友啊，欢迎来到「荒泷天下独尊一斗的生日豪歌会」！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "itto",
+                "img": "一斗-2",
+                "pos": "left",
+                "key": "gal-line-90b7d921-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "你们是今天到场的第七位和第八位客人！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "right",
+                "key": "gal-line-90b7d922-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "居、居然有这么多人！还有谁来了呀？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "itto",
+                "img": "一斗-2",
+                "pos": "left",
+                "key": "gal-line-90b7d923-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "既然你诚心诚意地发问了，本大爷就也诚心诚意地告诉你！听好了…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "itto",
+                "img": "一斗-1",
+                "pos": "left",
+                "key": "gal-line-90b7d924-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "一共八位，除了我们三个之外，还有鬼婆婆、阿晃、阿守、元太、阿忍…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "itto",
+                "img": "一斗-2",
+                "pos": "left",
+                "key": "gal-line-90b7d925-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "对了，还有阿丑！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "itto",
+                "img": "一斗-3",
+                "pos": "left",
+                "key": "gal-line-dbf4dd70-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "欸…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "itto",
+                "img": "一斗-2",
+                "pos": "left",
+                "key": "gal-line-90b7d926-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "这不是有九位嘛，哈哈哈哈！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "right",
+                "key": "gal-line-90b7d927-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "阿丑也算啊！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "itto",
+                "img": "一斗-1",
+                "pos": "left",
+                "key": "gal-line-90b7d928-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "那当然！阿丑可是荒泷派的编外成员。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "itto",
+                "img": "一斗-2",
+                "pos": "left",
+                "key": "gal-line-90b7d929-dfc2-11ec-a89f-19c3f00c4cac",
+                "content": "来，你们俩别不好意思，站到这里，把内心的豪情和对本大爷的祝福都唱出来！",
+                "ext": ""
+            }
+        ]
+    }
+]

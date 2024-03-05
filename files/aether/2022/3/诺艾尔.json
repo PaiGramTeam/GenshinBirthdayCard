@@ -1,0 +1,54 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "诺艾尔",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "诺艾尔",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "noelle",
+                "img": "诺艾尔-1",
+                "pos": "center",
+                "key": "gal-line-e3577820-94b3-11ec-a640-f711072e5421",
+                "content": "呼…今天的工作提前完成了，我们出发吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "noelle",
+                "img": "诺艾尔-好奇",
+                "pos": "center",
+                "key": "gal-line-0b9d8720-94b4-11ec-a640-f711072e5421",
+                "content": "咦？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "noelle",
+                "img": "诺艾尔-好奇",
+                "pos": "center",
+                "key": "gal-line-e3577821-94b3-11ec-a640-f711072e5421",
+                "content": "旅行者，你在干什么？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-no",
+                "pos": "right",
+                "key": "gal-line-e3579f30-94b3-11ec-a640-f711072e5421",
+                "content": "哇！等等，现在还不能看！",
+                "ext": ""
+            }
+        ]
+    }
+]

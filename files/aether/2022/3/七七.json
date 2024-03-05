@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "七七",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "七七",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙1",
+                "pos": "left",
+                "key": "gal-line-77d3c6e0-94b2-11ec-b7e9-2f9c2a15c9dc",
+                "content": "七七，好久不见，还记得我们吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七1",
+                "pos": "right",
+                "key": "gal-line-77d3edf0-94b2-11ec-b7e9-2f9c2a15c9dc",
+                "content": "记得。是…旅行者和派蒙。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether1",
+                "pos": "left",
+                "key": "gal-line-77d3edf1-94b2-11ec-b7e9-2f9c2a15c9dc",
+                "content": "我们给你带了椰奶哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "qiqi",
+                "img": "七七2",
+                "pos": "right",
+                "key": "gal-line-77d3edf2-94b2-11ec-b7e9-2f9c2a15c9dc",
+                "content": "啊…凉凉的，喜欢。谢谢你，派蒙。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙2",
+                "pos": "left",
+                "key": "gal-line-77d3edf3-94b2-11ec-b7e9-2f9c2a15c9dc",
+                "content": "我才是派蒙啦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙3",
+                "pos": "left",
+                "key": "gal-line-77d3edf4-94b2-11ec-b7e9-2f9c2a15c9dc",
+                "content": "不过，七七好像很开心的样子，太好了~",
+                "ext": ""
+            }
+        ]
+    }
+]

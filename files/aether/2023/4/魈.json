@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2023魈生日插图-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-7d381f51-dab1-11ed-9250-cd7311aaee7d",
+                "content": "按照菲尔戈黛特老板的意思，应该是这个方向…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-7d381f52-dab1-11ed-9250-cd7311aaee7d",
+                "content": "那边草丛里的人影，是不是魈？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-7d381f53-dab1-11ed-9250-cd7311aaee7d",
+                "content": "没错！不过好像睡着了呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-7d381f54-dab1-11ed-9250-cd7311aaee7d",
+                "content": "难得看到魈这副样子…就让他好好休息一会吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "left",
+                "key": "gal-line-7d381f55-dab1-11ed-9250-cd7311aaee7d",
+                "content": "说起来，今天的安排很充实呢！璃月港那边…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-7d381f56-dab1-11ed-9250-cd7311aaee7d",
+                "content": "嘘——要在魈面前保密哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xiao",
+                "img": "魈-3",
+                "pos": "left",
+                "key": "gal-line-7d381f57-dab1-11ed-9250-cd7311aaee7d",
+                "content": "…… ",
+                "ext": ""
+            }
+        ]
+    }
+]

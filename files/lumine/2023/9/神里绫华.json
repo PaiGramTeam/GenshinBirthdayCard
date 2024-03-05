@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "绫华2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ayaka",
+                "img": "绫华-1",
+                "pos": "center",
+                "key": "gal-line-692c4550-5c42-11ee-9680-c59a9fcd69e8",
+                "content": "这样就做好了，尝尝看吧？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-口水",
+                "pos": "left",
+                "key": "gal-line-692c4551-5c42-11ee-9680-c59a9fcd69e8",
+                "content": "哇，绫华好厉害呀！旅行者，你泡的茶也不错嘛。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-692c4552-5c42-11ee-9680-c59a9fcd69e8",
+                "content": "绫华一起吃吧？你的生日，应该是我们帮你才对。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ayaka",
+                "img": "绫华-2",
+                "pos": "center",
+                "key": "gal-line-692c4553-5c42-11ee-9680-c59a9fcd69e8",
+                "content": "没关系，这样一边聊天一边做点心，对我来说是很难得的休息时间。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ayaka",
+                "img": "绫华-1",
+                "pos": "center",
+                "key": "gal-line-692c4554-5c42-11ee-9680-c59a9fcd69e8",
+                "content": "反而是我要谢谢你愿意陪我，我很开心。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-692c4555-5c42-11ee-9680-c59a9fcd69e8",
+                "content": "（趁旅行者的注意力在绫华身上，派蒙又拿起了一块绯樱饼…）",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "taromaru",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-692c4556-5c42-11ee-9680-c59a9fcd69e8",
+                "content": "汪！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-692c4557-5c42-11ee-9680-c59a9fcd69e8",
+                "content": "派蒙——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-692c4558-5c42-11ee-9680-c59a9fcd69e8",
+                "content": "唔…再吃最后一块！",
+                "ext": ""
+            }
+        ]
+    }
+]

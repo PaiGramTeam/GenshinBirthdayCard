@@ -1,0 +1,54 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "宵宫-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yomiya",
+                "img": "宵宫-1",
+                "pos": "left",
+                "key": "gal-line-37753f00-e7cf-11ec-9c68-2ba7948d3f0d",
+                "content": "晚上好啊，你们来得正好，现在是最适合观赏烟花的时间！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon2",
+                "pos": "right",
+                "key": "gal-line-37753f01-e7cf-11ec-9c68-2ba7948d3f0d",
+                "content": "宵宫——！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "yomiya",
+                "img": "宵宫-2",
+                "pos": "left",
+                "key": "gal-line-37753f02-e7cf-11ec-9c68-2ba7948d3f0d",
+                "content": "嗯？什么什么？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "right",
+                "key": "gal-line-37753f03-e7cf-11ec-9c68-2ba7948d3f0d",
+                "content": "今天是你的生日！我们想对你说——",
+                "ext": ""
+            }
+        ]
+    }
+]

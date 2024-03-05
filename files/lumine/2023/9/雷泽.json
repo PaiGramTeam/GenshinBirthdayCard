@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "雷泽2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "left",
+                "key": "gal-line-424e2620-4e1d-11ee-b2d8-815cf46504ba",
+                "content": "哇——那颗星星好亮，真好看！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "razor",
+                "img": "雷泽-3",
+                "pos": "right",
+                "key": "gal-line-424e2621-4e1d-11ee-b2d8-815cf46504ba",
+                "content": "湖里，也有。好看。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-424e2622-4e1d-11ee-b2d8-815cf46504ba",
+                "content": "水面上也亮晶晶的。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "left",
+                "key": "gal-line-424e2623-4e1d-11ee-b2d8-815cf46504ba",
+                "content": "星落湖的名字说不定就是这么来的呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-424e2624-4e1d-11ee-b2d8-815cf46504ba",
+                "content": "也有诗歌说，是星星落到地上，才有了湖泽。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-424e2625-4e1d-11ee-b2d8-815cf46504ba",
+                "content": "雷泽更喜欢哪一种说法？",
+                "ext": ""
+            }
+        ]
+    }
+]

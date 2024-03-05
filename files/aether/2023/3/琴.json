@@ -1,0 +1,176 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "琴2",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "center",
+                "key": "gal-line-123e8160-be2f-11ed-a5bf-e5079f508162",
+                "content": "琴！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kaiya",
+                "img": "凯亚-2",
+                "pos": "center",
+                "key": "gal-line-123e8161-be2f-11ed-a5bf-e5079f508162",
+                "content": "哦？原来是你们。可惜，琴团长现在不在这里。",
+                "ext": ""
+            },
+            {
+                "type": "event",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": ""
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "type": "scene",
+        "title": "2",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "丽莎-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "center",
+                "key": "gal-line-123e8162-be2f-11ed-a5bf-e5079f508162",
+                "content": "琴！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "lisa",
+                "img": "丽莎-2",
+                "pos": "center",
+                "key": "gal-line-123e8163-be2f-11ed-a5bf-e5079f508162",
+                "content": "是小可爱呀。琴刚刚出去了哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-10",
+                "pos": "center",
+                "key": "gal-line-123e8164-be2f-11ed-a5bf-e5079f508162",
+                "content": "不在办公室，也不在图书馆，那她到底去哪了呢？",
+                "ext": ""
+            },
+            {
+                "type": "event",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": ""
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "type": "scene",
+        "title": "3",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "琴生日插图-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-123e8165-be2f-11ed-a5bf-e5079f508162",
+                "content": "……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "jean",
+                "img": "琴-惊讶",
+                "pos": "left",
+                "key": "gal-line-123e8166-be2f-11ed-a5bf-e5079f508162",
+                "content": "演出前喝这么辣的饮料，嗓子没问题吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "barbara",
+                "img": "芭芭拉-2",
+                "pos": "right",
+                "key": "gal-line-123e8167-be2f-11ed-a5bf-e5079f508162",
+                "content": "没关系，我已经习惯了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "jean",
+                "img": "琴-笑",
+                "pos": "left",
+                "key": "gal-line-123e8168-be2f-11ed-a5bf-e5079f508162",
+                "content": "你呀，不要太勉强自己。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "barbara",
+                "img": "芭芭拉-3",
+                "pos": "right",
+                "key": "gal-line-123e8169-be2f-11ed-a5bf-e5079f508162",
+                "content": "姐姐才是…看你的样子，昨晚又通宵处理工作了吧？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "center",
+                "key": "gal-line-123e816a-be2f-11ed-a5bf-e5079f508162",
+                "content": "快看，她们在那呢！琴——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "center",
+                "key": "gal-line-123e816b-be2f-11ed-a5bf-e5079f508162",
+                "content": "嘘！派蒙，让她们再单独多待一会儿吧。",
+                "ext": ""
+            }
+        ]
+    }
+]

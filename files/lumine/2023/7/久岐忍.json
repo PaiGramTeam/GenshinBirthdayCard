@@ -1,0 +1,135 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "久岐忍2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "center",
+                "key": "gal-line-3c73d420-2b86-11ee-b428-954463ca58b3",
+                "content": "阿忍——欸？好像不在呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "center",
+                "key": "gal-line-3c73d421-2b86-11ee-b428-954463ca58b3",
+                "content": "她说有东西要交给我们，就是桌上这些吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "center",
+                "key": "gal-line-3c73d422-2b86-11ee-b428-954463ca58b3",
+                "content": "可这些看起来…像是考试笔记。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "center",
+                "key": "gal-line-3c73d423-2b86-11ee-b428-954463ca58b3",
+                "content": "该说不愧是阿忍吗…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shinobu",
+                "img": "忍-2",
+                "pos": "left",
+                "key": "gal-line-3c73d424-2b86-11ee-b428-954463ca58b3",
+                "content": "不好意思，我来迟了。刚才帮派那边有些急事，只好临时赶去处理。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shinobu",
+                "img": "忍-1",
+                "pos": "left",
+                "key": "gal-line-3c73d425-2b86-11ee-b428-954463ca58b3",
+                "content": "给，我之前提过的礼物。听说你们最近要踏上新的旅程，希望它能带给你们好运。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "right",
+                "key": "gal-line-3c73d426-2b86-11ee-b428-954463ca58b3",
+                "content": "哇，好漂亮的御守！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shinobu",
+                "img": "忍-1",
+                "pos": "left",
+                "key": "gal-line-3c73d427-2b86-11ee-b428-954463ca58b3",
+                "content": "老大和阿守他们也托我带了句话，希望你们一切顺利。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-3c73d428-2b86-11ee-b428-954463ca58b3",
+                "content": "阿忍，谢谢你。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "right",
+                "key": "gal-line-3c73d429-2b86-11ee-b428-954463ca58b3",
+                "content": "谢谢阿忍！呼，我还以为…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shinobu",
+                "img": "忍-1",
+                "pos": "left",
+                "key": "gal-line-3c73d42a-2b86-11ee-b428-954463ca58b3",
+                "content": "以为我要送的是笔记？呵呵，说起来这本正好和户外探险相关，我在准备相关的考试。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shinobu",
+                "img": "忍-3",
+                "pos": "left",
+                "key": "gal-line-3c73d42b-2b86-11ee-b428-954463ca58b3",
+                "content": "你们是经验丰富的冒险家，感兴趣的话要不要看看都考些什么？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "right",
+                "key": "gal-line-3c73d42c-2b86-11ee-b428-954463ca58b3",
+                "content": "呜——旅行者，加油啊！",
+                "ext": ""
+            }
+        ]
+    }
+]

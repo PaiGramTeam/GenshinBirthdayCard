@@ -4,6 +4,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import List, Dict
 
+import aiofiles
 from dateutil.relativedelta import relativedelta
 from jinja2 import FileSystemLoader, Environment
 
@@ -59,6 +60,18 @@ def get_gender_posts(gender: str, year: List[str]) -> List[PagePost]:
     ]
 
 
+async def get_scene_map(gender: str, year: str, month: str, roles: List[str]) -> Dict[str, List]:
+    file_path = FILE_PATH / gender / year / month
+    scene_map = {}
+    for role in roles:
+        path = file_path / f"{role}.json"
+        if not path.exists():
+            continue
+        async with aiofiles.open(path, "r", encoding="utf-8") as f:
+            scene_map[role] = json.loads(await f.read())
+    return scene_map
+
+
 async def create_month_html(gender: str, year: str, month: str, datas: List[Dict[str, str]]):
     url_path = f"{DOMAIN}/{gender}/{year}/{month}"
     file_path = FILE_PATH / gender / year / month
@@ -74,18 +87,21 @@ async def create_month_html(gender: str, year: str, month: str, datas: List[Dict
                 src_unread=f"{url_path}/{role_name}_unread.{data['unread_ext']}",
             )
         )
+    scene_map = await get_scene_map(gender, year, month, [role.role_name for role in roles])
     post.cover = random.Random().choice([role.src for role in roles])
     related_posts = get_related_posts(gender, year, month)
     html = template.render(
         post=post.dict(),
         roles=[i.dict() for i in roles],
+        scene_map=scene_map,
         related_posts=[i.dict() for i in related_posts],
         published_time=f"{year}-{month}-01T00:00:00+08:00",
-        month=f"{year} 年 {month} 月"
+        month=f"{year} 年 {month} 月",
+        DOMAIN=DOMAIN,
     )
     file_path.mkdir(parents=True, exist_ok=True)
-    with open(file_path / "index.html", "w", encoding="utf-8") as f:
-        f.write(html)
+    async with aiofiles.open(file_path / "index.html", "w", encoding="utf-8") as f:
+        await f.write(html)
 
 
 async def create_year_html(gender: str, year: str):

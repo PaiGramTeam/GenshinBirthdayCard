@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "2024绮良良",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙1",
+                "pos": "center",
+                "key": "gal-line-9b8b9e50-b5e9-11ee-a9f0-99c7d4d9e730",
+                "content": "绮良良，我们来寄快递啦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Kirara",
+                "img": "绮良良-笑",
+                "pos": "right",
+                "key": "gal-line-9b8b9e51-b5e9-11ee-a9f0-99c7d4d9e730",
+                "content": "旅行者、派蒙，上午好！让我看看……收件人是谁呀？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether5",
+                "pos": "left",
+                "key": "gal-line-9b8b9e52-b5e9-11ee-a9f0-99c7d4d9e730",
+                "content": "收件人的活动范围有点广，送起来可能比较麻烦呢……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Kirara",
+                "img": "绮良良-默认",
+                "pos": "right",
+                "key": "gal-line-9b8b9e53-b5e9-11ee-a9f0-99c7d4d9e730",
+                "content": "你放心，没有什么快递是我送不到的！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-9b8b9e54-b5e9-11ee-a9f0-99c7d4d9e730",
+                "content": "收件人远在天边近在眼前！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "Kirara",
+                "img": "绮良良-默认",
+                "pos": "right",
+                "key": "gal-line-9b8b9e55-b5e9-11ee-a9f0-99c7d4d9e730",
+                "content": "欸？在哪里？不会是我吧？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-9b8b9e56-b5e9-11ee-a9f0-99c7d4d9e730",
+                "content": "没错！是给你准备的生日礼物哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "center",
+                "key": "gal-line-9b8b9e57-b5e9-11ee-a9f0-99c7d4d9e730",
+                "content": "快打开看看吧！",
+                "ext": ""
+            }
+        ]
+    }
+]

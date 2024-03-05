@@ -1,0 +1,63 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "辛焱-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-1d501ef0-4b8f-11ed-a02e-e50ee00eb40d",
+                "content": "之前听朋友说过，琉璃百合的汁液能够使休眠的古琴回春。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-1d501ef1-4b8f-11ed-a02e-e50ee00eb40d",
+                "content": "把它涂在辛焱的琴上，会不会让琴奏出的声音更加特别呢？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xinyan",
+                "img": "辛焱-2",
+                "pos": "right",
+                "key": "gal-line-1d501ef2-4b8f-11ed-a02e-e50ee00eb40d",
+                "content": "哈哈，好有意思的说法！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xinyan",
+                "img": "辛焱-1",
+                "pos": "right",
+                "key": "gal-line-1d501ef3-4b8f-11ed-a02e-e50ee00eb40d",
+                "content": "那如果涂上绝云椒椒的汁液，说不定会让演奏更加火热呢！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "xinyan",
+                "img": "辛焱-2",
+                "pos": "right",
+                "key": "gal-line-1d501ef4-4b8f-11ed-a02e-e50ee00eb40d",
+                "content": "我们都试试看吧。",
+                "ext": ""
+            }
+        ]
+    }
+]

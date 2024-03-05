@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "菲米尼2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "right",
+                "key": "gal-line-b5efdd20-5922-11ee-889e-2f87f0a9cf48",
+                "content": "早就想去莱舒的发条工坊看看啦，听说有好多好玩的发条玩具~",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-b5efdd21-5922-11ee-889e-2f87f0a9cf48",
+                "content": "看到什么好玩的就买下来。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-正常",
+                "pos": "right",
+                "key": "gal-line-b5efdd22-5922-11ee-889e-2f87f0a9cf48",
+                "content": "就等你这句话啦！机会难得，菲米尼有什么想买的吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "freminet",
+                "img": "菲米尼-默认",
+                "pos": "center",
+                "key": "gal-line-b5efdd23-5922-11ee-889e-2f87f0a9cf48",
+                "content": "欸，不，不是，我只想走近看看那些橱窗里的发条工艺品，谢谢你们陪我…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "lievre",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-b5efdd24-5922-11ee-889e-2f87f0a9cf48",
+                "content": "菲米尼先生，你来啦，之前的发条企鹅很畅销哦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "freminet",
+                "img": "菲米尼-害羞",
+                "pos": "center",
+                "key": "gal-line-b5efdd25-5922-11ee-889e-2f87f0a9cf48",
+                "content": "啊，好的…那真是太好了…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "freminet",
+                "img": "菲米尼-戴头盔",
+                "pos": "center",
+                "key": "gal-line-b5efdd26-5922-11ee-889e-2f87f0a9cf48",
+                "content": "…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "right",
+                "key": "gal-line-b5efdd27-5922-11ee-889e-2f87f0a9cf48",
+                "content": "喂喂菲米尼，怎么就带上头盔了——老板，我们来看发条玩具啦！听说有会吹喇叭的膨膨兽，在哪里呀？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "lievre",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-b5efdd28-5922-11ee-889e-2f87f0a9cf48",
+                "content": "欢迎欢迎，就在店内橱窗，还有许多新品，喜欢的话给你们折扣！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "freminet",
+                "img": "菲米尼-害羞",
+                "pos": "center",
+                "key": "gal-line-b5efdd29-5922-11ee-889e-2f87f0a9cf48",
+                "content": "谢谢…",
+                "ext": ""
+            }
+        ]
+    }
+]

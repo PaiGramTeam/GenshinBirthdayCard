@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "申鹤",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "申鹤",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-1",
+                "pos": "left",
+                "key": "gal-line-3e6d9ab0-94b3-11ec-a640-f711072e5421",
+                "content": "申鹤，今天是你的生日，旅行者特地为你煮了面哦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shenhe",
+                "img": "申鹤-1",
+                "pos": "right",
+                "key": "gal-line-3e6d9ab1-94b3-11ec-a640-f711072e5421",
+                "content": "这是…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-3e6d9ab2-94b3-11ec-a640-f711072e5421",
+                "content": "听说在璃月部分人家中有生日吃面这种习俗。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shenhe",
+                "img": "申鹤-2",
+                "pos": "right",
+                "key": "gal-line-3e6d9ab3-94b3-11ec-a640-f711072e5421",
+                "content": "嗯…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-3e6d9ab4-94b3-11ec-a640-f711072e5421",
+                "content": "怎么了？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "shenhe",
+                "img": "申鹤-笑",
+                "pos": "right",
+                "key": "gal-line-3e6d9ab5-94b3-11ec-a640-f711072e5421",
+                "content": "没什么。味道很好，谢谢。",
+                "ext": ""
+            }
+        ]
+    }
+]

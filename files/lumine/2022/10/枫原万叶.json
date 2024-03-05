@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "万叶-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-ba499780-569e-11ed-a37a-63627553b7eb",
+                "content": "没想到走到一半突然下雨了呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-5",
+                "pos": "left",
+                "key": "gal-line-ba499781-569e-11ed-a37a-63627553b7eb",
+                "content": "不好意思呀，万叶。本来我和旅行者觉得今晚景色不错，正好邀你一起出来走走。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-5",
+                "pos": "left",
+                "key": "gal-line-ba499782-569e-11ed-a37a-63627553b7eb",
+                "content": "结果大家现在都被困在草棚里，呜…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kazuha",
+                "img": "万叶-3",
+                "pos": "right",
+                "key": "gal-line-ba499783-569e-11ed-a37a-63627553b7eb",
+                "content": "无须在意，旅途中各种际遇都值得回味。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kazuha",
+                "img": "万叶-2",
+                "pos": "right",
+                "key": "gal-line-ba499784-569e-11ed-a37a-63627553b7eb",
+                "content": "而且我听到了云散开的声音，雨或许马上就会停了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "",
+                "img": "",
+                "pos": "",
+                "key": "gal-line-ba499785-569e-11ed-a37a-63627553b7eb",
+                "content": "……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-2",
+                "pos": "left",
+                "key": "gal-line-ba499786-569e-11ed-a37a-63627553b7eb",
+                "content": "让我看看…雨确实小了不少，好像还能看到远处的月亮，万叶真厉害！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kazuha",
+                "img": "万叶-2",
+                "pos": "right",
+                "key": "gal-line-ba499787-569e-11ed-a37a-63627553b7eb",
+                "content": "抬头见月，侧耳听风…真是一番美景。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "kazuha",
+                "img": "万叶-3",
+                "pos": "right",
+                "key": "gal-line-ba499788-569e-11ed-a37a-63627553b7eb",
+                "content": "旅行者、派蒙，谢谢你们邀请我。",
+                "ext": ""
+            }
+        ]
+    }
+]

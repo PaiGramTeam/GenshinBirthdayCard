@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "琴",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "琴",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "left",
+                "key": "gal-line-6325d290-94b4-11ec-a640-f711072e5421",
+                "content": "我听到脚步声了！旅行者和芭芭拉，你们那边好了吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether4",
+                "pos": "right",
+                "key": "gal-line-6325d291-94b4-11ec-a640-f711072e5421",
+                "content": "我们准备好了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon2",
+                "pos": "left",
+                "key": "gal-line-6325d292-94b4-11ec-a640-f711072e5421",
+                "content": "她们来了，三，二，一——",
+                "ext": ""
+            },
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "琴2",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "left",
+                "key": "gal-line-6325f9a0-94b4-11ec-a640-f711072e5421",
+                "content": "锵锵，生日快乐！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "jean",
+                "img": "琴-惊讶",
+                "pos": "center",
+                "key": "gal-line-6325f9a1-94b4-11ec-a640-f711072e5421",
+                "content": "这是…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "jean",
+                "img": "琴-笑",
+                "pos": "center",
+                "key": "gal-line-6325f9a2-94b4-11ec-a640-f711072e5421",
+                "content": "让大家费心了，谢谢。",
+                "ext": ""
+            }
+        ]
+    }
+]

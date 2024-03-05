@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "派蒙2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-302b8aa0-fbac-11ed-a28d-abe8392c45df",
+                "content": "欸，你怎么一副神神秘秘的样子？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-302b8aa1-fbac-11ed-a28d-abe8392c45df",
+                "content": "咳咳——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-302b8aa2-fbac-11ed-a28d-abe8392c45df",
+                "content": "派蒙，你相信命运吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "left",
+                "key": "gal-line-302b8aa3-fbac-11ed-a28d-abe8392c45df",
+                "content": "啊啊啊，现在看起来更奇怪了啦！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-302b8aa4-fbac-11ed-a28d-abe8392c45df",
+                "content": "那天我在须弥城里闲逛，向娜比雅学习了一些占卜知识。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-302b8aa5-fbac-11ed-a28d-abe8392c45df",
+                "content": "怎么样，要听听最近的运势吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-10",
+                "pos": "left",
+                "key": "gal-line-302b8aa6-fbac-11ed-a28d-abe8392c45df",
+                "content": "好吧，那、那你说说看。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "right",
+                "key": "gal-line-302b8aa7-fbac-11ed-a28d-abe8392c45df",
+                "content": "根据咖啡杯底的形状来看…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-302b8aa8-fbac-11ed-a28d-abe8392c45df",
+                "content": "预示着我最好的伙伴，接下来的旅程遇到的都是开心的事，还会拥有很多好吃的哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "right",
+                "key": "gal-line-302b8aa9-fbac-11ed-a28d-abe8392c45df",
+                "content": "派蒙，生日快乐！",
+                "ext": ""
+            }
+        ]
+    }
+]

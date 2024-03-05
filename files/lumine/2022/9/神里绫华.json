@@ -1,0 +1,126 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "绫华-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "center",
+                "key": "gal-line-8d3f4da0-2db5-11ed-9f6a-757c41739f0f",
+                "content": "好久没有和绫华一起出来玩了，今天真开心！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-5",
+                "pos": "center",
+                "key": "gal-line-8d3f4da1-2db5-11ed-9f6a-757c41739f0f",
+                "content": "除了那张可恶的纸签，呜…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-8d3f4da2-2db5-11ed-9f6a-757c41739f0f",
+                "content": "三人一起求的签，偏偏只有派蒙抽中了凶。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-6",
+                "pos": "center",
+                "key": "gal-line-8d3f4da3-2db5-11ed-9f6a-757c41739f0f",
+                "content": "哼，我还没看到你们两个的签文呢！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "center",
+                "key": "gal-line-8d3f4da4-2db5-11ed-9f6a-757c41739f0f",
+                "content": "让我看看…哇，你们怎么都是大吉！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-4",
+                "pos": "center",
+                "key": "gal-line-8d3f4da5-2db5-11ed-9f6a-757c41739f0f",
+                "content": "「所求之事心想则成。」",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "center",
+                "key": "gal-line-8d3f4da6-2db5-11ed-9f6a-757c41739f0f",
+                "content": "好厉害！绫华，快趁着今天多许几个愿望吧！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ayaka",
+                "img": "绫华-2",
+                "pos": "right",
+                "key": "gal-line-8d3f4da7-2db5-11ed-9f6a-757c41739f0f",
+                "content": "欸？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ayaka",
+                "img": "绫华-2",
+                "pos": "right",
+                "key": "gal-line-8d3f4da8-2db5-11ed-9f6a-757c41739f0f",
+                "content": "愿望的话，刚刚已经在心里许过了哦。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether4",
+                "pos": "left",
+                "key": "gal-line-8d3f4da9-2db5-11ed-9f6a-757c41739f0f",
+                "content": "许了什么样的愿望？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ayaka",
+                "img": "绫华-2",
+                "pos": "right",
+                "key": "gal-line-8d3f4daa-2db5-11ed-9f6a-757c41739f0f",
+                "content": "嗯…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "ayaka",
+                "img": "绫华-1",
+                "pos": "right",
+                "key": "gal-line-8d3f4dab-2db5-11ed-9f6a-757c41739f0f",
+                "content": "保密。",
+                "ext": ""
+            }
+        ]
+    }
+]

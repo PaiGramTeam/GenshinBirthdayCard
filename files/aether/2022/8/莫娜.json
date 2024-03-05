@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "莫娜-场景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "mona",
+                "img": "莫娜-2",
+                "pos": "left",
+                "key": "gal-line-3136cb60-278d-11ed-b8a9-d316b3d4c82e",
+                "content": "是你们啊，早上好…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon2",
+                "pos": "right",
+                "key": "gal-line-3136cb61-278d-11ed-b8a9-d316b3d4c82e",
+                "content": "莫娜，生日快乐…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon1",
+                "pos": "right",
+                "key": "gal-line-3136cb62-278d-11ed-b8a9-d316b3d4c82e",
+                "content": "哇，你的黑眼圈好严重！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "mona",
+                "img": "莫娜-1",
+                "pos": "left",
+                "key": "gal-line-3136cb63-278d-11ed-b8a9-d316b3d4c82e",
+                "content": "欸，今天已经是我的生日了？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "mona",
+                "img": "莫娜-2",
+                "pos": "left",
+                "key": "gal-line-3136cb64-278d-11ed-b8a9-d316b3d4c82e",
+                "content": "我昨晚通宵写稿来着，不知不觉天就亮了，家里也没收拾，乱糟糟的，真是不好意思…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "paimon3",
+                "pos": "right",
+                "key": "gal-line-3136cb65-278d-11ed-b8a9-d316b3d4c82e",
+                "content": "好啦好啦，你快去休息，其他的事情就交给我们吧~",
+                "ext": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "芭芭拉2023-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "noelle",
+                "img": "诺艾尔-1",
+                "pos": "center",
+                "key": "gal-line-31b9b860-197f-11ee-8b8a-277e9c5542c5",
+                "content": "甜点、茶具…都摆放好了！辛苦旅行者和派蒙准备了这么多，今天的茶会很丰盛呢。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-1",
+                "pos": "left",
+                "key": "gal-line-31b9b861-197f-11ee-8b8a-277e9c5542c5",
+                "content": "嘿嘿，今天可是「做饭专家派蒙」！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether3",
+                "pos": "left",
+                "key": "gal-line-31b9b862-197f-11ee-8b8a-277e9c5542c5",
+                "content": "我们试着做了些须弥的甜点，不知道合不合大家的口味。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "barbara",
+                "img": "芭芭拉-3",
+                "pos": "right",
+                "key": "gal-line-31b9b863-197f-11ee-8b8a-277e9c5542c5",
+                "content": "我可以试一块椰炭饼吗？唔…微甜的面饼搭配辛辣的酱料，好特别的体验！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-31b9b864-197f-11ee-8b8a-277e9c5542c5",
+                "content": "辛辣的…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-9",
+                "pos": "left",
+                "key": "gal-line-31b9b865-197f-11ee-8b8a-277e9c5542c5",
+                "content": "酱料？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "left",
+                "key": "gal-line-31b9b866-197f-11ee-8b8a-277e9c5542c5",
+                "content": "呜哇…该不会是我昨天手忙脚乱准备的时候，把绝云椒椒和墩墩桃弄混了吧…对不起…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "barbara",
+                "img": "芭芭拉-1",
+                "pos": "right",
+                "key": "gal-line-31b9b867-197f-11ee-8b8a-277e9c5542c5",
+                "content": "怎么会！我很喜欢，派蒙创造了很有趣的搭配呀。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "noelle",
+                "img": "诺艾尔-1",
+                "pos": "center",
+                "key": "gal-line-31b9b868-197f-11ee-8b8a-277e9c5542c5",
+                "content": "是场难忘的茶会呢…各位，要来杯茶吗？",
+                "ext": ""
+            }
+        ]
+    }
+]

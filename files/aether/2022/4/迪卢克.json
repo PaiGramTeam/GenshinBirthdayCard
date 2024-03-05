@@ -1,0 +1,45 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "迪卢克",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "迪卢克插图-背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "jpg"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "diluc",
+                "img": "迪卢克-01",
+                "pos": "center",
+                "key": "gal-line-32745d80-bafa-11ec-b652-773fdb0d7887",
+                "content": "比预想中提前了一些完成，谢谢帮忙。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "diluc",
+                "img": "迪卢克-03",
+                "pos": "center",
+                "key": "gal-line-32745d81-bafa-11ec-b652-773fdb0d7887",
+                "content": "埃泽已经开始筹备今晚的宴会了，我先回去。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "diluc",
+                "img": "迪卢克-02",
+                "pos": "center",
+                "key": "gal-line-32745d82-bafa-11ec-b652-773fdb0d7887",
+                "content": "晚上见。",
+                "ext": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "id": "1",
+        "type": "scene",
+        "title": "1",
+        "items": [
+            {
+                "type": "bg",
+                "chara": "",
+                "img": "五郎背景",
+                "pos": "",
+                "key": "",
+                "content": "",
+                "ext": "png"
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-7",
+                "pos": "left",
+                "key": "gal-line-b2e66170-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "五郎——！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-抱手",
+                "pos": "left",
+                "key": "gal-line-b2e66171-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "你们来了。这个味道…你们涂了什么东西吗？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-8",
+                "pos": "left",
+                "key": "gal-line-b2e66172-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "其实…这是要送给你的植物精油…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-10",
+                "pos": "left",
+                "key": "gal-line-b2e66173-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "呜，没有惊喜感了。五郎的鼻子也太灵啦！下次，下次一定要选择无香型的…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-抱手",
+                "pos": "left",
+                "key": "gal-line-b2e66174-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "哈哈，谢谢你们，有这份心意我就已经很开心了。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-默认",
+                "pos": "left",
+                "key": "gal-line-b2e66175-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "说起来，最近我给《闲事月刊》写回信的时候也遇到了类似的问题。有位读者在信中写道——",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "reader",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-b2e66176-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "\n        ",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "reader",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-b2e66177-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "「上司是位温柔又细心的人，他也每次都假装很吃惊的样子配合着我们。但果然还是想看看他发自内心惊喜的表情啊…这次一定要提前做好保密工作！」",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "reader",
+                "img": "",
+                "pos": "center",
+                "key": "gal-line-b2e66178-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "「他的爱好是登山，大家准备凑钱买一套新的登山套装送给他，但是我们不知道该如何挑选…」",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "player",
+                "img": "aether2",
+                "pos": "left",
+                "key": "gal-line-b2e66179-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "五郎是怎么回复的呢？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-默认",
+                "pos": "left",
+                "key": "gal-line-b2e68880-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "正好我也经常登山，就给他们推荐了我正在用的那套，虽然算不上名贵，但胜在结实耐用。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-微笑",
+                "pos": "left",
+                "key": "gal-line-b2e68881-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "礼物的珍贵在于其中饱含的心意，而不是花费了多少金钱。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-抱手",
+                "pos": "left",
+                "key": "gal-line-b2e68882-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "咳咳…说回正题。晚饭马上准备好了，我们先进去吧。",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-默认",
+                "pos": "left",
+                "key": "gal-line-b2e68883-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "欸？门前放着一个盒子…",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-3",
+                "pos": "left",
+                "key": "gal-line-b2e68884-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "一定是士兵们送给你的生日礼物，快打开看看吧！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-微笑",
+                "pos": "left",
+                "key": "gal-line-b2e68885-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "嗯！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-默认",
+                "pos": "left",
+                "key": "gal-line-b2e68886-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "……",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-抱手",
+                "pos": "left",
+                "key": "gal-line-b2e68887-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "噗哈哈哈，原来是他们！",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "paimon",
+                "img": "派蒙-10",
+                "pos": "left",
+                "key": "gal-line-b2e68888-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "怎么了？笑什么？里面是什么呀？",
+                "ext": ""
+            },
+            {
+                "type": "simple_dialog",
+                "chara": "gorou",
+                "img": "五郎-抱手",
+                "pos": "left",
+                "key": "gal-line-b2e68889-f3bb-11ed-9646-3be1ca60cb02",
+                "content": "是我推荐的那套登山装备。",
+                "ext": ""
+            }
+        ]
+    }
+]
