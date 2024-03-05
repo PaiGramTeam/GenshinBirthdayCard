@@ -87,10 +87,6 @@ class PagePost(BaseModel, frozen=False):
 
 class PageRole(BaseModel):
     role_name: str
-    day: int
+    day_str: str
     src: str
     src_unread: str
-
-    @property
-    def day_str(self) -> str:
-        return f"{self.day} 日"

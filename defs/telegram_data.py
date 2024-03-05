@@ -69,7 +69,7 @@ async def create_month_html(gender: str, year: str, month: str, datas: List[Dict
         roles.append(
             PageRole(
                 role_name=role_name,
-                day=data["day"],
+                day_str=f"{data['day']} 日",
                 src=f"{url_path}/{role_name}.{data['ext']}",
                 src_unread=f"{url_path}/{role_name}_unread.{data['unread_ext']}",
             )
