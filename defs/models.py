@@ -77,3 +77,20 @@ class GalCharacter(BaseModel):
     id: str
     name: str
     key: Optional[str] = ""
+
+
+class PagePost(BaseModel, frozen=False):
+    url: str
+    title: Optional[str] = ""
+    cover: Optional[str] = ""
+
+
+class PageRole(BaseModel):
+    role_name: str
+    day: int
+    src: str
+    src_unread: str
+
+    @property
+    def day_str(self) -> str:
+        return f"{self.day} 日"
