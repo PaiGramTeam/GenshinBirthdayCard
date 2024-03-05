@@ -30,7 +30,7 @@ def get_related_posts(gender: str, year: str, month: str) -> List[PagePost]:
     url_path = f"{DOMAIN}/{gender}"
     return [
         PagePost(
-            url=f"{url_path}/{date.strftime('%Y/%m')}/index.html",
+            url=f"{url_path}/{date.strftime('%Y')}/{int(date.strftime('%m'))}/index.html",
             title=date.strftime("%Y 年 %m 月 - 留影叙佳期 - PaiGramTeam"),
         ) for date in dates
     ]
@@ -42,7 +42,7 @@ def get_year_posts(gender: str, year: str) -> List[PagePost]:
     url_path = f"{DOMAIN}/{gender}"
     return [
         PagePost(
-            url=f"{url_path}/{date.strftime('%Y/%m')}/index.html",
+            url=f"{url_path}/{date.strftime('%Y')}/{int(date.strftime('%m'))}/index.html",
             title=date.strftime("%Y 年 %m 月 - 留影叙佳期 - PaiGramTeam"),
         ) for date in dates
     ]
