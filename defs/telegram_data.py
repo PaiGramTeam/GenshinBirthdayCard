@@ -67,7 +67,7 @@ def get_gender_posts(gender: str, year: List[str]) -> List[PagePost]:
 
 
 def get_files_posts() -> List[PagePost]:
-    name_map = {"aether": "空（男主）", "lumine": "空（女主）"}
+    name_map = {"aether": "空（男主）", "lumine": "荧（女主）"}
     return [
         PagePost(
             url=f"{DOMAIN}/{gender}/",
@@ -147,7 +147,7 @@ async def create_gender_html(gender: str, years: List[str]):
         post=post.dict(),
         related_posts=[i.dict() for i in related_posts],
         published_time=datetime.now().strftime("%Y-%m-%dT%H:%M:%S+08:00"),
-        month="空（男主）"
+        month="空（男主）" if gender == "aether" else "荧（女主）"
     )
     file_path.mkdir(parents=True, exist_ok=True)
     async with aiofiles.open(file_path / "index.html", "w", encoding="utf-8") as f:
