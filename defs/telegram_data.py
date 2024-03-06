@@ -31,9 +31,10 @@ def get_related_posts(gender: str, year: str, month: str) -> List[PagePost]:
     url_path = f"{DOMAIN}/{gender}"
     return [
         PagePost(
-            url=f"{url_path}/{date.strftime('%Y')}/{int(date.strftime('%m'))}/index.html",
+            url=f"{url_path}/{date.strftime('%Y')}/{int(date.strftime('%m'))}/",
             title=date.strftime("%Y 年 %m 月 - 留影叙佳期 - PaiGramTeam"),
         ) for date in dates
+        if (FILE_PATH / gender / date.strftime('%Y') / str(int(date.strftime('%m')))).exists()
     ]
 
 
@@ -43,9 +44,12 @@ def get_year_posts(gender: str, year: str) -> List[PagePost]:
     url_path = f"{DOMAIN}/{gender}"
     return [
         PagePost(
-            url=f"{url_path}/{date.strftime('%Y')}/{int(date.strftime('%m'))}/index.html",
+            url=f"{url_path}/{date.strftime('%Y')}/{int(date.strftime('%m'))}/",
             title=date.strftime("%Y 年 %m 月 - 留影叙佳期 - PaiGramTeam"),
+            short_title=date.strftime("%Y 年 %m 月 - 留影叙佳期"),
+            is_single_page=True,
         ) for date in dates
+        if (FILE_PATH / gender / date.strftime('%Y') / str(int(date.strftime('%m')))).exists()
     ]
 
 
@@ -54,9 +58,23 @@ def get_gender_posts(gender: str, year: List[str]) -> List[PagePost]:
     url_path = f"{DOMAIN}/{gender}"
     return [
         PagePost(
-            url=f"{url_path}/{y}/index.html",
+            url=f"{url_path}/{y}/",
             title=f"{y} 年 - 留影叙佳期 - PaiGramTeam",
+            short_title=f"{y} 年 - 留影叙佳期",
+            is_single_page=True,
         ) for y in year
+    ]
+
+
+def get_files_posts() -> List[PagePost]:
+    name_map = {"aether": "空（男主）", "lumine": "空（女主）"}
+    return [
+        PagePost(
+            url=f"{DOMAIN}/{gender}/",
+            title=f"{name_map[gender]} - 留影叙佳期 - PaiGramTeam",
+            short_title=f"{name_map[gender]} - 留影叙佳期",
+            is_single_page=True,
+        ) for gender in genders
     ]
 
 
@@ -116,8 +134,8 @@ async def create_year_html(gender: str, year: str):
         month=f"{year} 年"
     )
     file_path.mkdir(parents=True, exist_ok=True)
-    with open(file_path / "index.html", "w", encoding="utf-8") as f:
-        f.write(html)
+    async with aiofiles.open(file_path / "index.html", "w", encoding="utf-8") as f:
+        await f.write(html)
 
 
 async def create_gender_html(gender: str, years: List[str]):
@@ -132,8 +150,21 @@ async def create_gender_html(gender: str, years: List[str]):
         month="空（男主）"
     )
     file_path.mkdir(parents=True, exist_ok=True)
-    with open(file_path / "index.html", "w", encoding="utf-8") as f:
-        f.write(html)
+    async with aiofiles.open(file_path / "index.html", "w", encoding="utf-8") as f:
+        await f.write(html)
+
+
+async def create_files_html():
+    post = PagePost(url=f"{DOMAIN}/telegram.html", cover=f"{DOMAIN}/bg.png")
+    related_posts = get_files_posts()
+    html = template.render(
+        post=post.dict(),
+        related_posts=[i.dict() for i in related_posts],
+        published_time=datetime.now().strftime("%Y-%m-%dT%H:%M:%S+08:00"),
+        month="米游社"
+    )
+    async with aiofiles.open(FILE_PATH / "telegram.html", "w", encoding="utf-8") as f:
+        await f.write(html)
 
 
 async def create_month_htmls():
@@ -148,3 +179,4 @@ async def create_month_htmls():
                 await create_month_html(gender, year, month, datas)
             await create_year_html(gender, year)
         await create_gender_html(gender, list(data.keys()))
+    await create_files_html()

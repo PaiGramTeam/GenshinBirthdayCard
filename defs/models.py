@@ -82,7 +82,9 @@ class GalCharacter(BaseModel):
 class PagePost(BaseModel, frozen=False):
     url: str
     title: Optional[str] = ""
+    short_title: Optional[str] = ""
     cover: Optional[str] = ""
+    is_single_page: Optional[bool] = False
 
 
 class PageRole(BaseModel):

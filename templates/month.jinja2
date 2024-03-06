@@ -22,6 +22,7 @@
     <meta property="al:android:app_name" content="Medium"/>
     <meta property="article:published_time" content="{{ published_time }}"/>
     <meta name="telegram:channel" content="@PaiGramTeam" />
+    <meta name="telegram:cover" content="{{ post.cover }}" />
 </head>
 <body>
 <section class="section-backgroundImage">
@@ -67,10 +68,14 @@
     {% endfor %}
     <!-- 上下三个月进行关联 -->
     {% for post_ in related_posts %}
-    <related>
-        <a href="{{ post_.url }}">{{ post_.title }}</a>
-    </related>
-    <br/>
+        {% if post_.is_single_page %}
+            <p>
+                <a href="{{ post_.url }}">{{ post_.short_title }}</a>
+            </p>
+        {% endif %}
+        <related>
+            <a href="{{ post_.url }}">{{ post_.title }}</a>
+        </related>
     {% endfor %}
 </article>
 </body>
