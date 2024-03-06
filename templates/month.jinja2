@@ -22,7 +22,6 @@
     <meta property="al:android:app_name" content="Medium"/>
     <meta property="article:published_time" content="{{ published_time }}"/>
     <meta name="telegram:channel" content="@PaiGramTeam" />
-    <meta name="telegram:cover" content="{{ post.cover }}" />
 </head>
 <body>
 <section class="section-backgroundImage">
@@ -31,6 +30,11 @@
 <section class="section--first">
     If you can see this, your browser is doing something weird with your user agent.
     <a href="{{ post.url }}">View original post</a>
+</section>
+<section class="is-imageBackgrounded">
+  <figure>
+    <img src="{{ post.cover }}"/>
+  </figure>
 </section>
 <article>
     <!-- 2022 年 3 月 留影叙佳期 -->
