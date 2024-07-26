@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-b394ad50-de87-11ed-891d-b3a6fb8cad81",
                 "content": "就是这里了吧，岩上茶室招待员说的位置。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-b394ad51-de87-11ed-891d-b3a6fb8cad81",
                 "content": "这么晚了约在这里相见，还让我们带上留影机，好神秘…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-b394ad52-de87-11ed-891d-b3a6fb8cad81",
                 "content": "知道了，是不是为我们准备了什么惊喜？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/492e473575066835e93cc273c8a751f5_7969830049291747705.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-b394ad53-de87-11ed-891d-b3a6fb8cad81",
                 "content": "——来的正好。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/19/84b686328cec06ee3813b67aa2f1532a_4182656337391341306.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-b394ad54-de87-11ed-891d-b3a6fb8cad81",
                 "content": "哇，是夜兰！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-b394ad55-de87-11ed-891d-b3a6fb8cad81",
                 "content": "嘘，别把「惊喜」吓跑了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/19/84b686328cec06ee3813b67aa2f1532a_4182656337391341306.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-b394ad56-de87-11ed-891d-b3a6fb8cad81",
                 "content": "留影机和备用胶卷就位，保证不遗漏任何细节！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-b394ad57-de87-11ed-891d-b3a6fb8cad81",
                 "content": "庆功宴食材——香辛果就位！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-b394ad58-de87-11ed-891d-b3a6fb8cad81",
                 "content": "那么现在就等好戏开场了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/19/754a2cadfe30d467f72a09c44495b49a_81408195555523445.png"
             }
         ]
     }

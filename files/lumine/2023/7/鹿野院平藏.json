@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-cdb593a0-279a-11ee-890f-c73b8b2aff00",
                 "content": "今天这趟外出发现了不少有用的线索。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-cdb593a1-279a-11ee-890f-c73b8b2aff00",
                 "content": "哎呀呀，和你搭档果然是正确的选择！不过小派蒙怎么看起来无精打采的。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/8925f0ec62de00138feba18ebb6ddb3d_8425601798891906110.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-cdb593a2-279a-11ee-890f-c73b8b2aff00",
                 "content": "哼哼，还不是因为你昨天说的那个「清籁调查怪谈」…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-cdb593a3-279a-11ee-890f-c73b8b2aff00",
                 "content": "派蒙听完做噩梦了，没睡好呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-cdb593a4-279a-11ee-890f-c73b8b2aff00",
                 "content": "原来是这样啊。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/4bb08f175999171e2e5ac5a92c78383d_4443024138746722963.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-cdb593a5-279a-11ee-890f-c73b8b2aff00",
                 "content": "在我还是新人时，曾经也被案子吓到过，后来倒是找到了缓解方法。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/4bb08f175999171e2e5ac5a92c78383d_4443024138746722963.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-cdb593a6-279a-11ee-890f-c73b8b2aff00",
                 "content": "是、是什么方法？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-cdb593a7-279a-11ee-890f-c73b8b2aff00",
                 "content": "那就是——一整天只吃油炸食物！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/83a2158d7afc48f0738d48c3a8a3f3a9_7122304352985246371.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-cdb593a8-279a-11ee-890f-c73b8b2aff00",
                 "content": "你们这是什么表情，真的有效哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/83a2158d7afc48f0738d48c3a8a3f3a9_7122304352985246371.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-cdb593a9-279a-11ee-890f-c73b8b2aff00",
                 "content": "欸——欸？真的吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-cdb593aa-279a-11ee-890f-c73b8b2aff00",
                 "content": "现在也快到吃饭时间了，旅行者，不如我们试试吧…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             }
         ]
     }

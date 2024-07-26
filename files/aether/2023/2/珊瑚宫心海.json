@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-7f9508a0-b110-11ed-8940-a9d8e160eee5",
                 "content": "心海，你说，下一笔该画在哪里？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-7f9508a1-b110-11ed-8940-a9d8e160eee5",
                 "content": "嗯…等下旅行者醒过来会生气吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/20/19e60e1e0c912f08f10553eaee0390d7_4066435849874191745.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-7f9508a2-b110-11ed-8940-a9d8e160eee5",
                 "content": "嘿嘿，旅行者才不会生我的气呢~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-7f9508a3-b110-11ed-8940-a9d8e160eee5",
                 "content": "再说了，是旅行者不对，都说好了要去帮忙布置生日晚会，却还在这里睡懒觉。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-7f9508a4-b110-11ed-8940-a9d8e160eee5",
                 "content": "喂——！旅行者！旅行者——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-7f9508a5-b110-11ed-8940-a9d8e160eee5",
                 "content": "没关系的。我们在这里多待一会儿，刚好可以把《沉秋拾剑录》读完。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/20/19e60e1e0c912f08f10553eaee0390d7_4066435849874191745.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-7f9508a6-b110-11ed-8940-a9d8e160eee5",
                 "content": "心海喜欢《沉秋拾剑录》？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-7f9508a7-b110-11ed-8940-a9d8e160eee5",
                 "content": "嗯。派蒙也喜欢吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/20/91f836ff6e51c13af88ee6f16e2802b2_7419448983912922475.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-7f9508a8-b110-11ed-8940-a9d8e160eee5",
                 "content": "当然了，不过我们在璃月的经历可比《沉秋拾剑录》更刺激哦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-7f9508a9-b110-11ed-8940-a9d8e160eee5",
                 "content": "这样啊，派蒙和旅行者真厉害。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/20/19e60e1e0c912f08f10553eaee0390d7_4066435849874191745.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-7f9508aa-b110-11ed-8940-a9d8e160eee5",
                 "content": "过来这边，可以和我说说那些故事吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/20/ba8e63e275f02e0ee231082801a45558_5780525640931301201.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-7f9508ab-b110-11ed-8940-a9d8e160eee5",
                 "content": "好啊好啊，嘻嘻，我跟你说哦…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             }
         ]
     }

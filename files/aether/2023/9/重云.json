@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-e9cd71f0-4ba0-11ee-b2d8-815cf46504ba",
                 "content": "呼，这块琥珀终于要被砸开了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-e9cd9900-4ba0-11ee-b2d8-815cf46504ba",
                 "content": "以防其中有妖邪作祟，旅行者小心些…唔！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/aafd230ff073d004804ff9a332288bcf_3181367980985369005.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-e9cd9901-4ba0-11ee-b2d8-815cf46504ba",
                 "content": "（？）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-e9cd9902-4ba0-11ee-b2d8-815cf46504ba",
                 "content": "？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-e9cd9903-4ba0-11ee-b2d8-815cf46504ba",
                 "content": "原来只是被困于此间的林猪…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/aafd230ff073d004804ff9a332288bcf_3181367980985369005.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-e9cd9904-4ba0-11ee-b2d8-815cf46504ba",
                 "content": "旅行者——重云——来这里——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-e9cd9905-4ba0-11ee-b2d8-815cf46504ba",
                 "content": "锵锵！派蒙觉得这个琥珀里肯定有宝藏。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-e9cd9906-4ba0-11ee-b2d8-815cf46504ba",
                 "content": "根据琥珀裂缝间露出的颜色判断，里面似乎是…不妙！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/aafd230ff073d004804ff9a332288bcf_3181367980985369005.png"
             }
         ]
     }

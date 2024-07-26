@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-427d4e00-b9ed-11ee-af94-8d06858e70b9",
                 "content": "倒卖假酒的是你么？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/18/b86c305749e7779edd96c9b6eb0174d0_2168407231248110765.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-427d4e01-b9ed-11ee-af94-8d06858e70b9",
                 "content": "我卖的是正宗蒙德蒲公英酒，你看，蒲公英还在里面…",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-427d4e02-b9ed-11ee-af94-8d06858e70b9",
                 "content": "看来，你需要一些帮助。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/18/b86c305749e7779edd96c9b6eb0174d0_2168407231248110765.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-427d4e03-b9ed-11ee-af94-8d06858e70b9",
                 "content": "需要我们帮你回忆这些酒里加了什么，是么？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-427d4e04-b9ed-11ee-af94-8d06858e70b9",
                 "content": "哼哼，我们的帮助，可是另外的价钱，你考虑清楚！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-427d4e05-b9ed-11ee-af94-8d06858e70b9",
                 "content": "欸？等等，我说我说，加了一点外面果酒湖的湖水——只是为了降低酒的烈度，绝对不是假酒啊！",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-427d4e06-b9ed-11ee-af94-8d06858e70b9",
                 "content": "哼，白费口舌…把他和酒一起带回去审问就好。速战速决，快到下班时间了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/18/b86c305749e7779edd96c9b6eb0174d0_2168407231248110765.png"
             }
         ]
     }

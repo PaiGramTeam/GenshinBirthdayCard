@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-57ba5f10-2613-11ee-890f-c73b8b2aff00",
                 "content": "达达利亚！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-57ba5f11-2613-11ee-890f-c73b8b2aff00",
                 "content": "旅行者和派蒙？你们怎么来了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/718c2541732877a9d5f8860ebcf89111_246646676226353895.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-57ba5f12-2613-11ee-890f-c73b8b2aff00",
                 "content": "我们还想问呢…对了这个给你~本想让北国银行给你捎过去，倒是能直接交到你手上啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-f44bcbb0-2619-11ee-890f-c73b8b2aff00",
                 "content": "有些工作要做，来璃月待几天。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/ef644d8af8903d934d7b339aed820481_1656306581450904799.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-57ba5f13-2613-11ee-890f-c73b8b2aff00",
                 "content": "这是什么，决战的邀请函？终于要和我一决胜负了吗！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/ef644d8af8903d934d7b339aed820481_1656306581450904799.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-57ba5f14-2613-11ee-890f-c73b8b2aff00",
                 "content": "噫…这个人脑子里只有…不会又是什么打打杀杀的工作吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-57ba5f15-2613-11ee-890f-c73b8b2aff00",
                 "content": "咳咳，是礼物啦！听说今天是你的生日，生日快乐~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-81aefed0-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "绝云间的路也太难走啦，上上下下的我都累了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-81aefed1-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "派蒙飞着也会累呀？休息一下吧，七七？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-81aefed2-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "七七…不会累。七七…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/303de17320ac9de3820e195c4df5cba8_4714986861272725389.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "",
                 "key": "gal-line-81aefed3-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "（七七翻了翻笔记。）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-81aefed4-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "还有…好多药材没有采…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4e5235e664aedd3c57b524676d781d59_4842619514452902425.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-81aefed5-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "那我们去旁边休息一下，七七加油啦——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-81aefed6-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "欸？七七？爬上去太高啦，我们去采别的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-81aefed7-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "…七七…采药…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4e5235e664aedd3c57b524676d781d59_4842619514452902425.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "",
                 "key": "gal-line-81aefed8-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "（她似乎没听到，只是闷头一个劲继续往上爬。）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-81aefed9-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "完全听不到了呢。之前白术先生似乎说过，如果七七被敕令卡住的话，要从背后抱住她，然后——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-81aefeda-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "然后？啊，我想起来了！可是，这怎么说的出口…很难为情——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-81aefedb-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "啊七七小心，要摔下来了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "right",
                 "key": "gal-line-81aefedc-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "解除敕令要紧，加油派蒙！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -137,7 +151,8 @@
                 "pos": "left",
                 "key": "gal-line-81aefedd-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "嗯…那个…等等…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             },
             {
                 "type": "simple_dialog",
@@ -146,7 +161,8 @@
                 "pos": "",
                 "key": "gal-line-81aefede-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "（派蒙追上去，一把抱住了七七。）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -155,7 +171,8 @@
                 "pos": "left",
                 "key": "gal-line-81aefedf-b8ee-11ed-a162-7b4ae87f8faf",
                 "content": "我…最·喜·欢·你·了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             }
         ]
     }

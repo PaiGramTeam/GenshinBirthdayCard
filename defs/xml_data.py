@@ -27,7 +27,7 @@ T = TypeVar("T")
 
 
 def xml_to_json_model(model_class: Type[T], data: "Element", extra: Dict = None) -> T:
-    data_json = extra if extra else {}
+    data_json = extra or {}
     data_json["type"] = data.nodeName
     for k, v in data.attributes.items():
         data_json[k] = v
@@ -64,7 +64,7 @@ async def get_resources_json() -> Tuple[List[ResourceCharacter], List[ResourceBg
     return chara_json, bg_json, characters_json
 
 
-async def scene_xml_to_json(file_path: Path, bg: Dict[str, ResourceBg]):
+async def scene_xml_to_json(file_path: Path, bg: Dict[str, ResourceBg], chara: Dict[str, ResourceCharacter]):
     tree = parse(str(file_path))
     data = tree.documentElement
     scenes = data.getElementsByTagName("scene")
@@ -77,6 +77,9 @@ async def scene_xml_to_json(file_path: Path, bg: Dict[str, ResourceBg]):
                 if scene_item.type == "bg" and scene_item.img:
                     if bg_ := bg.get(scene_item.img):
                         scene_item.ext = bg_.ext
+                if scene_item.type == "simple_dialog" and scene_item.img:
+                    if ch_ := chara.get(scene_item.img):
+                        scene_item.src = ch_.src_os or ch_.src
                 items.append(scene_item)
         scene_model = xml_to_json_model(Scene, scene, {"items": items})
         scene_data.append(scene_model)
@@ -103,10 +106,9 @@ async def download_resources():
 
 
 async def convert_dialog_xml_json():
-    _, bg, _ = await get_resources_json()
-    bg_map = {}
-    for b in bg:
-        bg_map[b.id] = b
+    chara_json, bg, _ = await get_resources_json()
+    bg_map = {b.id: b for b in bg}
+    chara_map = {c.id: c for c in chara_json}
     for gather in gathers:
         path = FILE_PATH / gather / "birthday.json"
         if not path.exists():
@@ -120,4 +122,4 @@ async def convert_dialog_xml_json():
                     xml_path = FILE_PATH / gather / year / month / f"{role_name}.xml"
                     if not xml_path.exists():
                         continue
-                    await scene_xml_to_json(xml_path, bg_map)
+                    await scene_xml_to_json(xml_path, bg_map, chara_map)

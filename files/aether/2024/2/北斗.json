@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-ae5865b0-c631-11ee-a0eb-73be74cfec8a",
                 "content": "…说时迟那时快，只见北斗姐提着剑冲向海怪，霎那间，山一样高的家伙就断成两截，沉到海底喂鱼去咯！",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-ae5865b1-c631-11ee-a0eb-73be74cfec8a",
                 "content": "哇，然后呢然后呢！？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-ae5865b2-c631-11ee-a0eb-73be74cfec8a",
                 "content": "多亏了北斗姐，那次战斗我们连皮都没蹭到——可惜有一部分货物被打湿，少赚了不少摩拉。",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-ae5865b3-c631-11ee-a0eb-73be74cfec8a",
                 "content": "人没事就好，摩拉还可以再赚。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-ae5865b4-c631-11ee-a0eb-73be74cfec8a",
                 "content": "出海可真危险，我们这次也会遇到那么大的海怪吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-57f766c0-c632-11ee-a0eb-73be74cfec8a",
                 "content": "想遇到海怪可不是容易的事。何况这次出海只是去近海的岛上提货，可能性就更低了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/13/c543d92665328ef4dfff2ed790407ce2_5291819751883592641.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-57f766c1-c632-11ee-a0eb-73be74cfec8a",
                 "content": "这样啊，可惜……啊不对，真让人安心~但是，如果之前那只海怪的亲朋来寻仇…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-57f766c2-c632-11ee-a0eb-73be74cfec8a",
                 "content": "那就要问问我手里的剑同不同意了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/13/c543d92665328ef4dfff2ed790407ce2_5291819751883592641.png"
             }
         ]
     }

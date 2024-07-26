@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-5c1387d0-4ebe-11ed-91a5-3d2f6719fc87",
                 "content": "嗨，早柚！我们终于找到你了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-5c1387d1-4ebe-11ed-91a5-3d2f6719fc87",
                 "content": "嘘…早柚现在在偷…啊不，在休息，不可以被巫女姐姐发现啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/18/b3d3a8a3ae9aa6a3f4ca1456e3d2c740_1355953562162817911.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-5c1387d2-4ebe-11ed-91a5-3d2f6719fc87",
                 "content": "那我小声一些…早柚，生日快乐！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-5c1387d3-4ebe-11ed-91a5-3d2f6719fc87",
                 "content": "我们还准备了饭团，一起趁热吃吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-5c1387d4-4ebe-11ed-91a5-3d2f6719fc87",
                 "content": "饭团能提供很多能量，吃完又可以安心睡觉了…谢谢你们为我准备这些…呼——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/18/ed723712ed7a34b133ce8455bbde1fc5_1954036596241155618.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-5c1387d5-4ebe-11ed-91a5-3d2f6719fc87",
                 "content": "哎呀！怎么有东西掉下来…不好，巫女姐姐往这边看过来了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-50f25d20-be2d-11ed-a5bf-e5079f508162",
                 "content": "原来这就是师父的改良版「机关烹饪神机」。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/1e251b7f6ba0865e5ab6959802b1ba80_56331135875431155.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-50f25d21-be2d-11ed-a5bf-e5079f508162",
                 "content": "今天是看在申鹤的面子上，我们才能把它借出来呢！据说它能够调和不同食材，呈现出最和谐的味道，解决众口难调的难题。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-50f25d22-be2d-11ed-a5bf-e5079f508162",
                 "content": "我们快把各自喜欢的食材加进去吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "bg",
@@ -47,7 +51,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-50f25d23-be2d-11ed-a5bf-e5079f508162",
                 "content": "…等等，这烟的颜色…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-50f25d24-be2d-11ed-a5bf-e5079f508162",
                 "content": "危险，退后！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4b12bbbd9da35cd358757e0d30d4c7d0_6550742716244957345.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "",
                 "key": "gal-line-50f25d25-be2d-11ed-a5bf-e5079f508162",
                 "content": "（嘭——！！！）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-50f25d26-be2d-11ed-a5bf-e5079f508162",
                 "content": "咳咳咳…看来我们几个的口味关系很好，都碰撞出火花了呢！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-50f25d27-be2d-11ed-a5bf-e5079f508162",
                 "content": "派蒙，一点也不好笑。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-50f25d28-be2d-11ed-a5bf-e5079f508162",
                 "content": "唔…好吧，那大家都加了什么进去？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-50f28430-be2d-11ed-a5bf-e5079f508162",
                 "content": "鱼肉。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-50f28431-be2d-11ed-a5bf-e5079f508162",
                 "content": "清心。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/b69c3273b055eb0ae909b0b423ab83fa_7359393045636913712.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "left",
                 "key": "gal-line-50f28432-be2d-11ed-a5bf-e5079f508162",
                 "content": "史莱姆凝液！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -137,7 +151,8 @@
                 "pos": "left",
                 "key": "gal-line-50f28433-be2d-11ed-a5bf-e5079f508162",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -146,7 +161,8 @@
                 "pos": "left",
                 "key": "gal-line-50f28434-be2d-11ed-a5bf-e5079f508162",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4b12bbbd9da35cd358757e0d30d4c7d0_6550742716244957345.png"
             },
             {
                 "type": "simple_dialog",
@@ -155,7 +171,8 @@
                 "pos": "left",
                 "key": "gal-line-50f28435-be2d-11ed-a5bf-e5079f508162",
                 "content": "…为什么这样看着我？不是说喜欢的食材吗…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -164,7 +181,8 @@
                 "pos": "left",
                 "key": "gal-line-50f28436-be2d-11ed-a5bf-e5079f508162",
                 "content": "哇，旅行者，别掐我的脸！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             }
         ]
     }

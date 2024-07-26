@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-f27ba090-0b33-11ee-85e2-7dab2df76337",
                 "content": "温迪，生日快乐！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-f27bc7a0-0b33-11ee-85e2-7dab2df76337",
                 "content": "锵锵——我和旅行者一起做了苹果蛋糕！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-f27bc7a1-0b33-11ee-85e2-7dab2df76337",
                 "content": "哇哦，谢谢你们。那么，世上最好的吟游诗人，给你们带来特别演出吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/d6d4466d1c2a46505c53e5e99597a70a_4717034846302383164.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-f27bc7a2-0b33-11ee-85e2-7dab2df76337",
                 "content": "好耶，温迪你真好！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-f27bc7a3-0b33-11ee-85e2-7dab2df76337",
                 "content": "礼尚往来嘛。这次加上了你们的新故事，我早就准备好咯。那么，开始啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/53fb1af1b23770d2d0b1259f4030eb87_72534573725806341.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "",
                 "key": "gal-line-f27bc7a4-0b33-11ee-85e2-7dab2df76337",
                 "content": "（温迪唱起了他新写的诗歌，派蒙拉开纸质礼炮，彩带在空中散开，又缓缓落下。）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-f27bc7a5-0b33-11ee-85e2-7dab2df76337",
                 "content": "哇，还有这样的舞台效果。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/53fb1af1b23770d2d0b1259f4030eb87_72534573725806341.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-f27bc7a6-0b33-11ee-85e2-7dab2df76337",
                 "content": "嘿嘿，是我准备的哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-f27bc7a7-0b33-11ee-85e2-7dab2df76337",
                 "content": "不过…走之前不会要我一片一片捡起来吧…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-f27bc7a8-0b33-11ee-85e2-7dab2df76337",
                 "content": "小事一桩，风一吹就收拾好了嘛。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/53fb1af1b23770d2d0b1259f4030eb87_72534573725806341.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-f27bc7a9-0b33-11ee-85e2-7dab2df76337",
                 "content": "…原来风神还会把元素力用在这种事情上。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "right",
                 "key": "gal-line-f27bc7aa-0b33-11ee-85e2-7dab2df76337",
                 "content": "欸嘿。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/d6d4466d1c2a46505c53e5e99597a70a_4717034846302383164.png"
             }
         ]
     }

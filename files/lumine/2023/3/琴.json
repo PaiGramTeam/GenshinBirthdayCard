@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-123e8160-be2f-11ed-a5bf-e5079f508162",
                 "content": "琴！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-123e8161-be2f-11ed-a5bf-e5079f508162",
                 "content": "哦？原来是你们。可惜，琴团长现在不在这里。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/29/c92e0ef43dc21740e6371e3f501bce5d_980966568199607521.png"
             },
             {
                 "type": "event",
@@ -38,7 +41,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": ""
+                "ext": "",
+                "src": ""
             }
         ]
     },
@@ -54,7 +58,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -63,7 +68,8 @@
                 "pos": "center",
                 "key": "gal-line-123e8162-be2f-11ed-a5bf-e5079f508162",
                 "content": "琴！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -72,7 +78,8 @@
                 "pos": "center",
                 "key": "gal-line-123e8163-be2f-11ed-a5bf-e5079f508162",
                 "content": "是小可爱呀。琴刚刚出去了哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/08/50d77d633561794bbbce892a2ce79658_6292479716096972293.png"
             },
             {
                 "type": "simple_dialog",
@@ -81,7 +88,8 @@
                 "pos": "center",
                 "key": "gal-line-123e8164-be2f-11ed-a5bf-e5079f508162",
                 "content": "不在办公室，也不在图书馆，那她到底去哪了呢？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "event",
@@ -90,7 +98,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": ""
+                "ext": "",
+                "src": ""
             }
         ]
     },
@@ -106,7 +115,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -115,7 +125,8 @@
                 "pos": "",
                 "key": "gal-line-123e8165-be2f-11ed-a5bf-e5079f508162",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -124,7 +135,8 @@
                 "pos": "left",
                 "key": "gal-line-123e8166-be2f-11ed-a5bf-e5079f508162",
                 "content": "演出前喝这么辣的饮料，嗓子没问题吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/aead803a4a30f1fbdb73120a7891b313_4678498735018096846.png"
             },
             {
                 "type": "simple_dialog",
@@ -133,7 +145,8 @@
                 "pos": "right",
                 "key": "gal-line-123e8167-be2f-11ed-a5bf-e5079f508162",
                 "content": "没关系，我已经习惯了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/27/a2a0736b2ba70a914409dda14fdc67c9_8889338432832760250.png"
             },
             {
                 "type": "simple_dialog",
@@ -142,7 +155,8 @@
                 "pos": "left",
                 "key": "gal-line-123e8168-be2f-11ed-a5bf-e5079f508162",
                 "content": "你呀，不要太勉强自己。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/49a0f407725a7e9d045c8c55c73e280c_4087732415384720057.png"
             },
             {
                 "type": "simple_dialog",
@@ -151,7 +165,8 @@
                 "pos": "right",
                 "key": "gal-line-123e8169-be2f-11ed-a5bf-e5079f508162",
                 "content": "姐姐才是…看你的样子，昨晚又通宵处理工作了吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/27/cbb2d49a2b942288d0ffd0b5b715f715_7249120349025600283.png"
             },
             {
                 "type": "simple_dialog",
@@ -160,7 +175,8 @@
                 "pos": "center",
                 "key": "gal-line-123e816a-be2f-11ed-a5bf-e5079f508162",
                 "content": "快看，她们在那呢！琴——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -169,7 +185,8 @@
                 "pos": "center",
                 "key": "gal-line-123e816b-be2f-11ed-a5bf-e5079f508162",
                 "content": "嘘！派蒙，让她们再单独多待一会儿吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             }
         ]
     }

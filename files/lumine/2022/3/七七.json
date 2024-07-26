@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-77d3c6e0-94b2-11ec-b7e9-2f9c2a15c9dc",
                 "content": "七七，好久不见，还记得我们吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-77d3edf0-94b2-11ec-b7e9-2f9c2a15c9dc",
                 "content": "记得。是…旅行者和派蒙。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4e5235e664aedd3c57b524676d781d59_4842619514452902425.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-77d3edf1-94b2-11ec-b7e9-2f9c2a15c9dc",
                 "content": "我们给你带了椰奶哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-77d3edf2-94b2-11ec-b7e9-2f9c2a15c9dc",
                 "content": "啊…凉凉的，喜欢。谢谢你，派蒙。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/303de17320ac9de3820e195c4df5cba8_4714986861272725389.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-77d3edf3-94b2-11ec-b7e9-2f9c2a15c9dc",
                 "content": "我才是派蒙啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0cf484e531cd9c1c5e3170bdbd06a596_6664302954906689234.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-77d3edf4-94b2-11ec-b7e9-2f9c2a15c9dc",
                 "content": "不过，七七好像很开心的样子，太好了~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4591c54a19eeab4723c2eb0ae11580a3_4678208895075737.png"
             }
         ]
     }

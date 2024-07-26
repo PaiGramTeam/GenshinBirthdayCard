@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-6325d290-94b4-11ec-a640-f711072e5421",
                 "content": "我听到脚步声了！旅行者和芭芭拉，你们那边好了吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/92bfa5ec2cfb6fa9188340cca5f62fb5_5934745197134759120.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-6325d291-94b4-11ec-a640-f711072e5421",
                 "content": "我们准备好了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/d63a3562b9ce6bc13c15245876156d24_3999350693014180260.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-6325d292-94b4-11ec-a640-f711072e5421",
                 "content": "她们来了，三，二，一——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/dbb43ce8436f873a88fc5dbc6ee6b07b_751280844798480107.png"
             },
             {
                 "type": "bg",
@@ -47,7 +51,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-6325f9a0-94b4-11ec-a640-f711072e5421",
                 "content": "锵锵，生日快乐！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-6325f9a1-94b4-11ec-a640-f711072e5421",
                 "content": "这是…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/aead803a4a30f1fbdb73120a7891b313_4678498735018096846.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-6325f9a2-94b4-11ec-a640-f711072e5421",
                 "content": "让大家费心了，谢谢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/49a0f407725a7e9d045c8c55c73e280c_4087732415384720057.png"
             }
         ]
     }

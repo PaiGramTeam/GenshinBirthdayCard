@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-b1046760-8815-11ed-b307-57ae5c9f8e67",
                 "content": "枣椰蜜糖、帕蒂沙兰布丁…这家咖啡馆的甜点看起来就很好吃！突然有些饿了呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-b1046761-8815-11ed-b307-57ae5c9f8e67",
                 "content": "派蒙只是看到好吃的走不动路了吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-b1046762-8815-11ed-b307-57ae5c9f8e67",
                 "content": "走了这么久，休息一会也不错…进去坐坐么？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-b1046763-8815-11ed-b307-57ae5c9f8e67",
                 "content": "…啧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/ca69a9dea949eb6df064478fe5123421_8281808417954351240.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-b1046764-8815-11ed-b307-57ae5c9f8e67",
                 "content": "小东西的爱好还真是俗套。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/b4300beb754b72d5425e2c4db207db19_8293773821992386676.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-b1046765-8815-11ed-b307-57ae5c9f8e67",
                 "content": "啊啊——这个人说话还是这么讨厌！我一定要给你起个难听的绰号！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-b1046766-8815-11ed-b307-57ae5c9f8e67",
                 "content": "加油哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/b4300beb754b72d5425e2c4db207db19_8293773821992386676.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-b1046767-8815-11ed-b307-57ae5c9f8e67",
                 "content": "不喜欢甜食的话，要不要试试这里的咖啡？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-b1046768-8815-11ed-b307-57ae5c9f8e67",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/b4300beb754b72d5425e2c4db207db19_8293773821992386676.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-b1046769-8815-11ed-b307-57ae5c9f8e67",
                 "content": "无所谓，不用给我加糖。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/ca69a9dea949eb6df064478fe5123421_8281808417954351240.png"
             }
         ]
     }

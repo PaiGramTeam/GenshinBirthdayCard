@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-34fc7a60-d065-11ee-bd1c-6f31e8ab22cd",
                 "content": "沧海明月，大海总能给我带来不同的心境。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/20/19e60e1e0c912f08f10553eaee0390d7_4066435849874191745.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-34fc7a61-d065-11ee-bd1c-6f31e8ab22cd",
                 "content": "感谢你陪我散步这么久。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/20/19e60e1e0c912f08f10553eaee0390d7_4066435849874191745.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-34fc7a62-d065-11ee-bd1c-6f31e8ab22cd",
                 "content": "生日这天偷偷懒也无妨，不必时时消耗精力。 ",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-34fc7a63-d065-11ee-bd1c-6f31e8ab22cd",
                 "content": "既宝贵又值得珍藏的时光呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/20/19e60e1e0c912f08f10553eaee0390d7_4066435849874191745.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-34fc7a64-d065-11ee-bd1c-6f31e8ab22cd",
                 "content": "我们也准备了生日礼物哦！快闭上眼睛！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-34fc7a65-d065-11ee-bd1c-6f31e8ab22cd",
                 "content": "是什么这么神秘？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/20/19e60e1e0c912f08f10553eaee0390d7_4066435849874191745.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-34fc7a66-d065-11ee-bd1c-6f31e8ab22cd",
                 "content": "专门为你定制的贝壳发卡，是别的材料，不会有小螃蟹丢了家的~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             }
         ]
     }

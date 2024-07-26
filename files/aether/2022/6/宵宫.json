@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-37753f00-e7cf-11ec-9c68-2ba7948d3f0d",
                 "content": "晚上好啊，你们来得正好，现在是最适合观赏烟花的时间！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/1e8689521f27e6b951e83e4a6b6a6328_7228046566092269112.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-37753f01-e7cf-11ec-9c68-2ba7948d3f0d",
                 "content": "宵宫——！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/dbb43ce8436f873a88fc5dbc6ee6b07b_751280844798480107.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-37753f02-e7cf-11ec-9c68-2ba7948d3f0d",
                 "content": "嗯？什么什么？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/07595aaa6489d6fd4451581e6abbd402_6318828881462458469.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-37753f03-e7cf-11ec-9c68-2ba7948d3f0d",
                 "content": "今天是你的生日！我们想对你说——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             }
         ]
     }

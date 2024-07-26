@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-9b8b9e50-b5e9-11ee-a9f0-99c7d4d9e730",
                 "content": "绮良良，我们来寄快递啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-9b8b9e51-b5e9-11ee-a9f0-99c7d4d9e730",
                 "content": "旅行者、派蒙，上午好！让我看看……收件人是谁呀？",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/18/8b3c6b5623cda546491e70a9b62efcc1_5426184269677838580.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-9b8b9e52-b5e9-11ee-a9f0-99c7d4d9e730",
                 "content": "收件人的活动范围有点广，送起来可能比较麻烦呢……",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/480ed25f898b8a43d9f868806c4b8edc_6156820206384720465.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-9b8b9e53-b5e9-11ee-a9f0-99c7d4d9e730",
                 "content": "你放心，没有什么快递是我送不到的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/18/80e7e3d7747f8be4f21b61ee5c3dc34f_2255888942139185962.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-9b8b9e54-b5e9-11ee-a9f0-99c7d4d9e730",
                 "content": "收件人远在天边近在眼前！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-9b8b9e55-b5e9-11ee-a9f0-99c7d4d9e730",
                 "content": "欸？在哪里？不会是我吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/18/80e7e3d7747f8be4f21b61ee5c3dc34f_2255888942139185962.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-9b8b9e56-b5e9-11ee-a9f0-99c7d4d9e730",
                 "content": "没错！是给你准备的生日礼物哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-9b8b9e57-b5e9-11ee-a9f0-99c7d4d9e730",
                 "content": "快打开看看吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             }
         ]
     }

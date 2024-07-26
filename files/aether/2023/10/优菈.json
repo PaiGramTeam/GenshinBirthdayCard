@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-dbddc1b0-7244-11ee-8805-af4e3dc21181",
                 "content": "咳咳…唔，谢谢大家为我的生日准备了这么多。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/24/f9f38cc00c969461d69129944313f63e_8123629569176072402.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-dbddc1b1-7244-11ee-8805-af4e3dc21181",
                 "content": "希望这支舞能护佑你们接下来的旅程一切顺利。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/24/4196fde19802196c6b564443e2ed0df2_7943766988354436840.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "",
                 "key": "gal-line-dbddc1b2-7244-11ee-8805-af4e3dc21181",
                 "content": "（一曲结束，众人都沉浸在优雅的舞步之中。）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-dbddc1b3-7244-11ee-8805-af4e3dc21181",
                 "content": "优菈刚才的舞步真好看！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/996ab9406d3047f155ec6847b737873b_8097932660739392062.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-dbddc1b4-7244-11ee-8805-af4e3dc21181",
                 "content": "派蒙看起来非常感兴趣呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-dbddc1b5-7244-11ee-8805-af4e3dc21181",
                 "content": "嘿嘿…好吧，被你说中了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-dbddc1b6-7244-11ee-8805-af4e3dc21181",
                 "content": "那来学一段怎么样？手抬起来…对，就是这样。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/24/f6628792866c8a0ee0a9a5fae5f26ca3_9183588443521826510.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-dbddc1b7-7244-11ee-8805-af4e3dc21181",
                 "content": "哎呀，兔兔伯爵好像也很有兴致呢！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/09/30dc66fb03b130d4b2247eb5d5af8709_1445848235176894064.png"
             }
         ]
     }

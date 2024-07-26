@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-aff94480-6d89-11ee-be49-c52ae81161a5",
                 "content": "呼~好累呀，早柚也太擅长隐匿身形了吧，过生日都找不到她。不知道神子指的这个方向对不对呀！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-aff94481-6d89-11ee-be49-c52ae81161a5",
                 "content": "看神子胸有成竹的样子，应该不会有什么问题吧……？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-aff94482-6d89-11ee-be49-c52ae81161a5",
                 "content": "好像就在这附近……找到了！早柚在这里！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-aff94483-6d89-11ee-be49-c52ae81161a5",
                 "content": "早柚要长高……（呓语）",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/18/ed723712ed7a34b133ce8455bbde1fc5_1954036596241155618.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-aff94484-6d89-11ee-be49-c52ae81161a5",
                 "content": "嘘~别吵醒她啦，希望她的生日愿望早日实现。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             }
         ]
     }

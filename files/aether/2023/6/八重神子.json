@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-5dfc9c00-1333-11ee-9221-5b28aea783ff",
                 "content": "怎么办呢…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/9a8f512eb2da088cf469e19f78bc50f9_6318623795593896163.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-5dfc9c01-1333-11ee-9221-5b28aea783ff",
                 "content": "神子！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-5dfc9c02-1333-11ee-9221-5b28aea783ff",
                 "content": "是你们呀？来得刚好！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/085bbaa0858e555724c94afb53618cf4_7301758508572550773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-5dfc9c03-1333-11ee-9221-5b28aea783ff",
                 "content": "发生什么事情了吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-5dfc9c04-1333-11ee-9221-5b28aea783ff",
                 "content": "八重堂最近的轻小说销量普普通通，我作为总编正在发愁呢，愁得油豆腐都吃不下了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/9a8f512eb2da088cf469e19f78bc50f9_6318623795593896163.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-5dfc9c05-1333-11ee-9221-5b28aea783ff",
                 "content": "我们这里有很多故事可以作为小说素材。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-5dfc9c06-1333-11ee-9221-5b28aea783ff",
                 "content": "嗯，你们的经历固然精彩，可是现在的读者要求越来越严格，光是有精彩的故事情节还不够，更需要能让人眼前一亮的新奇设定。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/06/25/899fb4cd1c945ba56f4854b89b566660_7619347198164337066.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-5dfc9c07-1333-11ee-9221-5b28aea783ff",
                 "content": "也就是说…光是勇者战胜巨龙还不够，必须是噼咔噼咔的勇者战胜噼咔噼咔的巨龙？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-5dfc9c08-1333-11ee-9221-5b28aea783ff",
                 "content": "小派蒙真聪明。对了！“金发旅人穿越到异世界，和可爱的神秘生物结缔契约，被赋予超能力后，一边变身为猫猫勇士，一边拯救世界”这个设定如何？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/085bbaa0858e555724c94afb53618cf4_7301758508572550773.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-5dfc9c09-1333-11ee-9221-5b28aea783ff",
                 "content": "我才没办法赋予那种能力呢！不过…我也很好奇旅行者长出猫耳和尾巴会是什么样子…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-5dfc9c0a-1333-11ee-9221-5b28aea783ff",
                 "content": "我不好奇。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-5dfc9c0b-1333-11ee-9221-5b28aea783ff",
                 "content": "正好，我这里有角色扮演活动留下来的道具。下次签售会你们就作为特邀嘉宾出席吧。来，戴上这个，再比个喵的姿势看看吧~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/085bbaa0858e555724c94afb53618cf4_7301758508572550773.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "right",
                 "key": "gal-line-5dfc9c0c-1333-11ee-9221-5b28aea783ff",
                 "content": "不可能——！！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -137,7 +151,8 @@
                 "pos": "left",
                 "key": "gal-line-5dfc9c0d-1333-11ee-9221-5b28aea783ff",
                 "content": "哎呀哎呀…呵呵，怎么跑得比五郎还快呀。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/06/25/899fb4cd1c945ba56f4854b89b566660_7619347198164337066.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-1c4d9b50-f62e-11ed-926d-ebde6bf19956",
                 "content": "这样可以吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-1c4d9b51-f62e-11ed-926d-ebde6bf19956",
                 "content": "手臂再举高些…没错！不愧是旅行者，身段相当标致。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/20/f1408be16a6b72dd4641442ba2dbedf4_2760029701492372137.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-1c4d9b52-f62e-11ed-926d-ebde6bf19956",
                 "content": "那我呢那我呢？云堇，也看看我！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-1c4d9b53-f62e-11ed-926d-ebde6bf19956",
                 "content": "派蒙也很帅气哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/20/f1408be16a6b72dd4641442ba2dbedf4_2760029701492372137.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-1c4d9b54-f62e-11ed-926d-ebde6bf19956",
                 "content": "要保持这个姿势，还是有些吃力…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-1c4d9b55-f62e-11ed-926d-ebde6bf19956",
                 "content": "舞剑的时候，因为担心动作不够标准，身体也会变得僵硬。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-1c4d9b56-f62e-11ed-926d-ebde6bf19956",
                 "content": "但云堇在台上总是能做到形神兼备，真的好厉害。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-1c4d9b57-f62e-11ed-926d-ebde6bf19956",
                 "content": "别心急，台上的功夫可不是一朝一夕就能练成的，作为新人，你已经做得很棒了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/20/f1408be16a6b72dd4641442ba2dbedf4_2760029701492372137.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-1c4d9b58-f62e-11ed-926d-ebde6bf19956",
                 "content": "这次多亏有你们帮忙。对了，等到演出结束后，一起去品茶吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/20/6359c8557dc4120b9f5708e95fc19638_8314684757353806291.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-2b922200-3668-11ee-8086-15d9a7601c35",
                 "content": "旅行者，有没有觉得这里很熟悉？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/09/30dc66fb03b130d4b2247eb5d5af8709_1445848235176894064.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-2b922201-3668-11ee-8086-15d9a7601c35",
                 "content": "是飞行执照考试的地方。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-2b922202-3668-11ee-8086-15d9a7601c35",
                 "content": "哇，你记忆力真好！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-2b922203-3668-11ee-8086-15d9a7601c35",
                 "content": "不知不觉就走到这了。在那之后，你又去了很多地方旅行，应该变得更厉害了吧。怎么样，要不要比一比？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/09/dce08fe021baa528c0268e9b1983bedf_445109134858911287.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-2b922204-3668-11ee-8086-15d9a7601c35",
                 "content": "我虽然大部分时间都在蒙德，但也一直没有懈怠过哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/09/30dc66fb03b130d4b2247eb5d5af8709_1445848235176894064.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-2b922205-3668-11ee-8086-15d9a7601c35",
                 "content": "要比飞行吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-2b922206-3668-11ee-8086-15d9a7601c35",
                 "content": "我都没问题，复杂一点也可以。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/09/dce08fe021baa528c0268e9b1983bedf_445109134858911287.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-2b922207-3668-11ee-8086-15d9a7601c35",
                 "content": "唔…路上采集5个日落果？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-2b922208-3668-11ee-8086-15d9a7601c35",
                 "content": "再击落3只风史莱姆？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-2b922209-3668-11ee-8086-15d9a7601c35",
                 "content": "好，就这么定了！派蒙，你猜谁会赢？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/09/30dc66fb03b130d4b2247eb5d5af8709_1445848235176894064.png"
             }
         ]
     }

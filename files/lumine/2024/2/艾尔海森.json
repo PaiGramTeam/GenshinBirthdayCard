@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-f9fe8d40-c64b-11ee-ae66-455e0895c413",
                 "content": "艾尔海森！好巧呀，你今天休息吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-f9fe8d41-c64b-11ee-ae66-455e0895c413",
                 "content": "不，只是午休时间出来坐坐，马上就要回去了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/09/3965b7fd74fd193413462793ce58d4ca_927157810362363451.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-f9fe8d42-c64b-11ee-ae66-455e0895c413",
                 "content": "唔…本来想着要聚一聚的。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-f9fe8d43-c64b-11ee-ae66-455e0895c413",
                 "content": "那晚上见？要不要去兰巴德酒馆坐坐？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/480ed25f898b8a43d9f868806c4b8edc_6156820206384720465.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-f9fe8d44-c64b-11ee-ae66-455e0895c413",
                 "content": "去喝一杯的话，恐怕还得多一个位置，有人今天出门没带钥匙。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/09/43d1b415fa46046909d19b6d0694097f_3115268413012655973.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-f9fe8d45-c64b-11ee-ae66-455e0895c413",
                 "content": "咦，这样呀。没问题，人多更热闹~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-f9fe8d46-c64b-11ee-ae66-455e0895c413",
                 "content": "派蒙什么时候这么大方了？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/480ed25f898b8a43d9f868806c4b8edc_6156820206384720465.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-f9fe8d47-c64b-11ee-ae66-455e0895c413",
                 "content": "什么嘛，当然是你请客啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0cf484e531cd9c1c5e3170bdbd06a596_6664302954906689234.png"
             }
         ]
     }

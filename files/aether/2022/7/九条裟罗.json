@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-22e333b0-fe65-11ec-8171-7f04a0ec1571",
                 "content": "裟罗，快看我们给你带了什么礼物！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-22e333b1-fe65-11ec-8171-7f04a0ec1571",
                 "content": "锵锵——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-22e333b2-fe65-11ec-8171-7f04a0ec1571",
                 "content": "最新款的御，御…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4591c54a19eeab4723c2eb0ae11580a3_4678208895075737.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-22e333b3-fe65-11ec-8171-7f04a0ec1571",
                 "content": "是「御建鸣神主尊大御所大人像」。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/07/b13c4cc68e6bc905f8ce80c892c3cf98_5429622269543377981.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-22e333b4-fe65-11ec-8171-7f04a0ec1571",
                 "content": "对对，我们可是花了好大力气才抢到的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-22e333b5-fe65-11ec-8171-7f04a0ec1571",
                 "content": "二位费心了。这次的「御建鸣神主尊大御所大人像」只限现场抢购，可惜我有公务在身，未能到场。没想到竟能…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/8da8edd369ccf83d3407217a951cddff_4470722377305944380.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-22e333b6-fe65-11ec-8171-7f04a0ec1571",
                 "content": "非常感谢二位。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/8da8edd369ccf83d3407217a951cddff_4470722377305944380.png"
             }
         ]
     }

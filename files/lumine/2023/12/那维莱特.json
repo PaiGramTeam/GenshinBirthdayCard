@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-f9fc80a0-9b39-11ee-90a0-9dce8eb61d3b",
                 "content": "来，大家的咖啡。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-f9fc80a1-9b39-11ee-90a0-9dce8eb61d3b",
                 "content": "谢谢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2023/12/15/066abcb1e3bb25f0acea76246312b40a_6390661884344867938.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-f9fc80a2-9b39-11ee-90a0-9dce8eb61d3b",
                 "content": "今天是旅行者请客哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-f9fc80a3-9b39-11ee-90a0-9dce8eb61d3b",
                 "content": "好！",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-f9fc80a4-9b39-11ee-90a0-9dce8eb61d3b",
                 "content": "你们在看什么呀？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-f9fca7b0-9b39-11ee-90a0-9dce8eb61d3b",
                 "content": "是讲须弥占星术的书哦，可以算一算今后的运势。",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-17f143c0-9b3a-11ee-90a0-9dce8eb61d3b",
                 "content": "对了，上次说要帮那维莱特大人看看，但是突然有人来找，没看成。",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-17f143c1-9b3a-11ee-90a0-9dce8eb61d3b",
                 "content": "现在来看看吧？那维莱特大人的命之座是？",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-17f143c2-9b3a-11ee-90a0-9dce8eb61d3b",
                 "content": "嗯…",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/4799a03c5f4c5ab3e68e7365c363e3ee_4373327763302680255.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-17f143c3-9b3a-11ee-90a0-9dce8eb61d3b",
                 "content": "不妨你们先…",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2023/12/15/066abcb1e3bb25f0acea76246312b40a_6390661884344867938.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "center",
                 "key": "gal-line-17f143c4-9b3a-11ee-90a0-9dce8eb61d3b",
                 "content": "对了，希格雯刚刚不是说，带了自己做的奶昔嘛，来尝尝吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/996ab9406d3047f155ec6847b737873b_8097932660739392062.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "right",
                 "key": "gal-line-17f143c5-9b3a-11ee-90a0-9dce8eb61d3b",
                 "content": "派蒙…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "left",
                 "key": "gal-line-17f143c6-9b3a-11ee-90a0-9dce8eb61d3b",
                 "content": "唔，口感很好，味道也很丰富。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2023/12/15/b885db30f3246cb0dc6b93fc32b8b9e4_948462196347093425.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-c4b45f20-0503-11ee-b8ac-11b32b6d4c0e",
                 "content": "丽莎，又见面啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/6d5666edfda0b242e29b486590f362cf_7868223397583594316.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-c4b45f21-0503-11ee-b8ac-11b32b6d4c0e",
                 "content": "出来享受下午茶时间，正好就能遇到你们，真是有缘。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/08/50d77d633561794bbbce892a2ce79658_6292479716096972293.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-c4b48630-0503-11ee-b8ac-11b32b6d4c0e",
                 "content": "嘿嘿，我们正准备来吃点东西，旅行者，我好饿——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/492e473575066835e93cc273c8a751f5_7969830049291747705.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-c4b48631-0503-11ee-b8ac-11b32b6d4c0e",
                 "content": "知道啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "",
                 "key": "gal-line-c080b490-05d4-11ee-b8ac-11b32b6d4c0e",
                 "content": "（派蒙立刻去拿菜单，回来时差点撞倒了摞在桌边的书。）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-c4b48632-0503-11ee-b8ac-11b32b6d4c0e",
                 "content": "这些书是……？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-c4b48633-0503-11ee-b8ac-11b32b6d4c0e",
                 "content": "玛乔丽小姐正好有些书要还回去。怎么样，要体验下蒙德的学术氛围吗，可以帮你们挑一些哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/08/c2ae00aa48a219ec0f24af5302324baf_6577681355307320923.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-c4b48634-0503-11ee-b8ac-11b32b6d4c0e",
                 "content": "（想起了一些在须弥的经历……）",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-c080b491-05d4-11ee-b8ac-11b32b6d4c0e",
                 "content": "有些书，虽然字都认识，但是连起来就看不懂了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-c4b48635-0503-11ee-b8ac-11b32b6d4c0e",
                 "content": "虽然我会尽量避开不必要的工作，但如果是小可爱和小派蒙，可以为你们量身定制「特训」，包教包会哦~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/08/50d77d633561794bbbce892a2ce79658_6292479716096972293.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-c4b48636-0503-11ee-b8ac-11b32b6d4c0e",
                 "content": "噫——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             }
         ]
     }

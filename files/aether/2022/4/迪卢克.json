@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-32745d80-bafa-11ec-b652-773fdb0d7887",
                 "content": "比预想中提前了一些完成，谢谢帮忙。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/6e38ecf914ad1b3121be670c5bd9b5d7_4847365452783969244.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-32745d81-bafa-11ec-b652-773fdb0d7887",
                 "content": "埃泽已经开始筹备今晚的宴会了，我先回去。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/5f7f460e661bdfcf518a555a082af271_5299976763041253890.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-32745d82-bafa-11ec-b652-773fdb0d7887",
                 "content": "晚上见。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/c72b1096691aef955a6f3376e725c99e_7937089006432038174.png"
             }
         ]
     }

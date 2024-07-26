@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-af17cb60-7d19-11ed-a392-935c2884e4c4",
                 "content": "你们的好意我心领了，但你实在不该自己处理不认识的蘑菇，尤其还有个爱偷吃的小家伙在。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/28/277488cd4e91e8ac4e71f45efdc6642d_189970739015372248.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-af17cb61-7d19-11ed-a392-935c2884e4c4",
                 "content": "…对不起。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-af17f270-7d19-11ed-a392-935c2884e4c4",
                 "content": "认识…识…史莱姆乐园…跳舞！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-af17f271-7d19-11ed-a392-935c2884e4c4",
                 "content": "完全神志不清了。我去煎药，旅行者，你先把火生起来。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/28/550342ba2e24cffce641ee99ecb5fd93_8606887368860906656.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-af17f272-7d19-11ed-a392-935c2884e4c4",
                 "content": "呜哇——旅行者，不要离开我！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-af17f273-7d19-11ed-a392-935c2884e4c4",
                 "content": "嗯？这是什么？软软的，毛茸茸的…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-af17f274-7d19-11ed-a392-935c2884e4c4",
                 "content": "派蒙，不可…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-af17f275-7d19-11ed-a392-935c2884e4c4",
                 "content": "尾巴！是派蒙的尾巴吗，好暖和！派蒙长出了尾巴，嘿嘿嘿…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-af17f276-7d19-11ed-a392-935c2884e4c4",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/28/27e2dafd78593707865c138c7938cde4_6381368396590886936.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-af17f277-7d19-11ed-a392-935c2884e4c4",
                 "content": "…对不起！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-af17f278-7d19-11ed-a392-935c2884e4c4",
                 "content": "哎。这么有精神，看来没什么大问题。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/28/57d741c88bd50b20996b534ab1c68eef_3326608563825562734.png"
             }
         ]
     }

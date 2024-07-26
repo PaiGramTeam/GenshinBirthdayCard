@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-c5feee80-b649-11ed-8795-fb82987eade7",
                 "content": "快看，是宝藏！我们真的找到了宝藏！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/27/39ceab2d8647d583f8f14888c04400d3_7898817810590241879.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-c5feee81-b649-11ed-8795-fb82987eade7",
                 "content": "太好了，「班尼冒险团」本次作战顺利结束！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-c5feee82-b649-11ed-8795-fb82987eade7",
                 "content": "这一路上真是有惊无险，我差点就被从天上莫名其妙掉下来的巨石砸中了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/27/37424acb191efc4419a3ea534b37d3b6_742465175568808437.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-c5feee83-b649-11ed-8795-fb82987eade7",
                 "content": "还有半路突然窜出来的野林猪追着我跑…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-c5feee84-b649-11ed-8795-fb82987eade7",
                 "content": "这真的叫顺利吗…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-c5feee85-b649-11ed-8795-fb82987eade7",
                 "content": "不要在意那些细节嘛！班尼特，快打开宝箱看看吧~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-c5feee86-b649-11ed-8795-fb82987eade7",
                 "content": "好，好的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/27/56c4a2920855a6c24ae4bac27d1d8004_2136185605293827638.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-c5feee87-b649-11ed-8795-fb82987eade7",
                 "content": "…咦？总感觉手心滑滑的。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/27/56c4a2920855a6c24ae4bac27d1d8004_2136185605293827638.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-c5feee88-b649-11ed-8795-fb82987eade7",
                 "content": "可能是我太紧张，出了很多汗吧，哈哈…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/27/37424acb191efc4419a3ea534b37d3b6_742465175568808437.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-c5feee89-b649-11ed-8795-fb82987eade7",
                 "content": "小心！是史莱姆——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             }
         ]
     }

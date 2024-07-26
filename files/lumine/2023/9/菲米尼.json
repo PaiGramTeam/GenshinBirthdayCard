@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-b5efdd20-5922-11ee-889e-2f87f0a9cf48",
                 "content": "早就想去莱舒的发条工坊看看啦，听说有好多好玩的发条玩具~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-b5efdd21-5922-11ee-889e-2f87f0a9cf48",
                 "content": "看到什么好玩的就买下来。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-b5efdd22-5922-11ee-889e-2f87f0a9cf48",
                 "content": "就等你这句话啦！机会难得，菲米尼有什么想买的吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-b5efdd23-5922-11ee-889e-2f87f0a9cf48",
                 "content": "欸，不，不是，我只想走近看看那些橱窗里的发条工艺品，谢谢你们陪我…",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/09/22/18fc3afdc94f3b847b6b76b72a408fac_2344164086106460509.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-b5efdd24-5922-11ee-889e-2f87f0a9cf48",
                 "content": "菲米尼先生，你来啦，之前的发条企鹅很畅销哦！",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-b5efdd25-5922-11ee-889e-2f87f0a9cf48",
                 "content": "啊，好的…那真是太好了…",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/09/22/8c885bac011c48b559d9741dacfd57fe_5645760621512777592.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-b5efdd26-5922-11ee-889e-2f87f0a9cf48",
                 "content": "…",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/09/22/b4d74f6d180738a395213804795bf23e_6493259279999751198.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-b5efdd27-5922-11ee-889e-2f87f0a9cf48",
                 "content": "喂喂菲米尼，怎么就带上头盔了——老板，我们来看发条玩具啦！听说有会吹喇叭的膨膨兽，在哪里呀？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "center",
                 "key": "gal-line-b5efdd28-5922-11ee-889e-2f87f0a9cf48",
                 "content": "欢迎欢迎，就在店内橱窗，还有许多新品，喜欢的话给你们折扣！",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "center",
                 "key": "gal-line-b5efdd29-5922-11ee-889e-2f87f0a9cf48",
                 "content": "谢谢…",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/09/22/8c885bac011c48b559d9741dacfd57fe_5645760621512777592.png"
             }
         ]
     }

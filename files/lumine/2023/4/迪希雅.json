@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-2d447710-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "呼——今天买了好多饰品呢。迪希雅的头发又长又亮，戴上它们肯定很好看！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-2d447711-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "迪希雅？你怎么突然不说话了…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-2d447712-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "…啊，抱歉，想起了一些过去的事情。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/5f51a7626fe5e55a1ca88a52a76abbce_7723464453875596313.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-2d447713-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "过去？迪希雅以前过生日也会买很多漂亮的饰品吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-2d447714-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "不，沙漠中并没有这么多新奇的玩意儿。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/e2b5e8e3be55908acf9cee95c53de3a7_3649591418755027158.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-2d447715-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "不过在我小的时候，有一次生日，库塞拉…我的老爹，他用一些不知从哪弄来的奇怪装扮，把我从头到脚打扮了一番。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/e2b5e8e3be55908acf9cee95c53de3a7_3649591418755027158.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-2d447716-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "大家把我围在中间，唱着不成调的曲子。然后老爹端来加了满满一碗枣椰肉的牛奶，让我对着它许个生日愿望。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/e2b5e8e3be55908acf9cee95c53de3a7_3649591418755027158.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-2d447717-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "你父亲很用心。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-2d447718-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "是吗？老爹总是笨手笨脚的，他套在我脚上的鞋大了好几码，每走一步就会灌一脚沙子。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/e2b5e8e3be55908acf9cee95c53de3a7_3649591418755027158.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-2d447719-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "还有那碗牛奶，因为加了太多枣椰肉，甜到有些发腻。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/e2b5e8e3be55908acf9cee95c53de3a7_3649591418755027158.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-2d44771a-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "呵呵…很滑稽吧？现在回想起来，佣兵团里都是些粗鲁的汉子，老爹肯定也不知道该如何给女儿过一个理想的生日吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/e2b5e8e3be55908acf9cee95c53de3a7_3649591418755027158.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-2d44771b-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "迪希雅…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "right",
                 "key": "gal-line-2d449e20-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "哈哈哈，别露出那样的表情啊。现在不是还有你们陪着我嘛。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/5f51a7626fe5e55a1ca88a52a76abbce_7723464453875596313.png"
             },
             {
                 "type": "simple_dialog",
@@ -137,7 +151,8 @@
                 "pos": "right",
                 "key": "gal-line-2d449e21-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "能像今天这样和朋友一起庆祝的生日，于我而言来之不易。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/e2b5e8e3be55908acf9cee95c53de3a7_3649591418755027158.png"
             },
             {
                 "type": "simple_dialog",
@@ -146,7 +161,8 @@
                 "pos": "right",
                 "key": "gal-line-2d449e22-d42a-11ed-9ed0-9f29bdbc63a6",
                 "content": "所以，谢谢你们今天过来陪我。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/06/e2b5e8e3be55908acf9cee95c53de3a7_3649591418755027158.png"
             }
         ]
     }

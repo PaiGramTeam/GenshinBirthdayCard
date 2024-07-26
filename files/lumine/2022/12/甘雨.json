@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-bc1087c0-716c-11ed-a89d-2d35e93bf24e",
                 "content": "我回来了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-bc1087c1-716c-11ed-a89d-2d35e93bf24e",
                 "content": "嘘…派蒙，声音太大了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-bc1087c2-716c-11ed-a89d-2d35e93bf24e",
                 "content": "啊…旅行者，派蒙，还有凝光…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/01/ae81e3cf1b77931bc86fb9a61038e0fd_5540729439225864384.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-bc1087c3-716c-11ed-a89d-2d35e93bf24e",
                 "content": "抱，抱歉…我刚刚睡着了…你们有事情要谈的话，我就先…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/01/06425e222bfff4a0aa00c0b8e4b62aef_1762803659943185226.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-bc1087c4-716c-11ed-a89d-2d35e93bf24e",
                 "content": "无需担心，这两位是专程过来找你的。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/25/3860f8cfeb9500813a2e4e4d81965a4c_3772812518483718735.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-bc10aed0-716c-11ed-a89d-2d35e93bf24e",
                 "content": "欸…找我？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/01/06425e222bfff4a0aa00c0b8e4b62aef_1762803659943185226.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-bc10aed1-716c-11ed-a89d-2d35e93bf24e",
                 "content": "好啦好啦，今天就别管工作了！快先尝尝这个素食蛋糕，香菱特制的哦~一出炉我就拿过来了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/6d5666edfda0b242e29b486590f362cf_7868223397583594316.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-bc10aed2-716c-11ed-a89d-2d35e93bf24e",
                 "content": "还有还有——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/996ab9406d3047f155ec6847b737873b_8097932660739392062.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-bc10aed3-716c-11ed-a89d-2d35e93bf24e",
                 "content": "生日快乐。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             }
         ]
     }

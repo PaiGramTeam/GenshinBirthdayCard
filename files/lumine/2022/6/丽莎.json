@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-727cab10-e6fd-11ec-b055-1177d587ffc4",
                 "content": "是小可爱呀，午安。好久不见你们了呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/08/c2ae00aa48a219ec0f24af5302324baf_6577681355307320923.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-727cab11-e6fd-11ec-b055-1177d587ffc4",
                 "content": "生日快乐！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-727cd220-e6fd-11ec-b055-1177d587ffc4",
                 "content": "呵呵，谢谢你们的礼物。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/08/c2ae00aa48a219ec0f24af5302324baf_6577681355307320923.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-727cd221-e6fd-11ec-b055-1177d587ffc4",
                 "content": "现在时间还早，不如坐下来喝杯茶，陪姐姐聊聊天吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/08/50d77d633561794bbbce892a2ce79658_6292479716096972293.png"
             }
         ]
     }

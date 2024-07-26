@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-6eab9f50-2b85-11ee-b428-954463ca58b3",
                 "content": "可莉，我们来啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-6eab9f51-2b85-11ee-b428-954463ca58b3",
                 "content": "噫——怎么有这么多蹦蹦炸弹？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-6eabc660-2b85-11ee-b428-954463ca58b3",
                 "content": "不是哦，这是懒懒蹦蹦。懒懒蹦蹦天天睡觉，不会爆炸的。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/cbfc751aa24f51b8349b57092266b2a9_2789198553155993220.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-6eabc661-2b85-11ee-b428-954463ca58b3",
                 "content": "哦…还好还好，不然小可莉又要被关禁闭了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-6eabc662-2b85-11ee-b428-954463ca58b3",
                 "content": "所以可莉请我们过来帮忙，是做懒懒蹦蹦吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-6eabc663-2b85-11ee-b428-954463ca58b3",
                 "content": "对，可莉希望懒懒蹦蹦可以陪在大家身边，让大家多一个朋友哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/b2958ac32ab46146ca27cde3d41d5f05_3364180727721180439.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-6eabc664-2b85-11ee-b428-954463ca58b3",
                 "content": "好耶，谢谢小可莉。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-6eabc665-2b85-11ee-b428-954463ca58b3",
                 "content": "唔…那要不要做个「懒懒派蒙」试试看？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-6eabc666-2b85-11ee-b428-954463ca58b3",
                 "content": "什么嘛！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             }
         ]
     }

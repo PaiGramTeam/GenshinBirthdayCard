@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-6279a640-fe6e-11ec-8171-7f04a0ec1571",
                 "content": "阿忍，我们做了一顶花环，快看，它和你的眼睛颜色很像呢！你戴上看看…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-6279a641-fe6e-11ec-8171-7f04a0ec1571",
                 "content": "嘿嘿，果然适合你，真好看~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4591c54a19eeab4723c2eb0ae11580a3_4678208895075737.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-6279a642-fe6e-11ec-8171-7f04a0ec1571",
                 "content": "谢谢，我很喜欢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/07/26/0cc6418d371ac37dca31a3d43c4ee4e1_6797555943074569838.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-6279a643-fe6e-11ec-8171-7f04a0ec1571",
                 "content": "对了，你们有没有听到什么声音？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/07/26/236a264ec17075272fc5a59787d0ce26_3531065307576339173.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-6279a644-fe6e-11ec-8171-7f04a0ec1571",
                 "content": "嗯…派蒙刚刚好像确实听到了喊声…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0cf484e531cd9c1c5e3170bdbd06a596_6664302954906689234.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-6279a645-fe6e-11ec-8171-7f04a0ec1571",
                 "content": "也许是一斗又把堇瓜烤糊了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-6279a646-fe6e-11ec-8171-7f04a0ec1571",
                 "content": "欸？让他自己想办法啦，我们先把手环编完吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0cf484e531cd9c1c5e3170bdbd06a596_6664302954906689234.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-7a6627a0-902c-11ee-9fed-af96342aa368",
                 "content": "妮露——祖拜尔先生让我们把这些信交给你。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-7a6627a1-902c-11ee-9fed-af96342aa368",
                 "content": "听说今天信箱又被塞满了呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/d63a3562b9ce6bc13c15245876156d24_3999350693014180260.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-7a6627a2-902c-11ee-9fed-af96342aa368",
                 "content": "啊，谢谢你们！观众时常会将对演出的感想写进信里，唔，突然有点紧张…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/02/381a0b13c5501b7f4627310b6634b65d_2482867765540065393.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-7a6627a3-902c-11ee-9fed-af96342aa368",
                 "content": "旅行者、派蒙，如果有时间的话，可以陪我一起看看吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/02/a73aeadf0c8efc762e29931a3c145365_1475695649611618404.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-7a6627a4-902c-11ee-9fed-af96342aa368",
                 "content": "当然没问题！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-7a6627a5-902c-11ee-9fed-af96342aa368",
                 "content": "「妮露小姐就像夜色中绽放的月莲一样皎洁」…「我是从奥摩斯港专程赶来看演出的，真是不虚此行！」…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/02/381a0b13c5501b7f4627310b6634b65d_2482867765540065393.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-7a6627a6-902c-11ee-9fed-af96342aa368",
                 "content": "看来这次的演出也非常成功呢！嘿嘿。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-7a6627a7-902c-11ee-9fed-af96342aa368",
                 "content": "「生日快乐！演出结束后，兰巴德酒馆见~有你喜欢的甜食哦！」…咦，这封信的落款是…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/02/381a0b13c5501b7f4627310b6634b65d_2482867765540065393.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-7a6627a8-902c-11ee-9fed-af96342aa368",
                 "content": "咳咳——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/d63a3562b9ce6bc13c15245876156d24_3999350693014180260.png"
             }
         ]
     }

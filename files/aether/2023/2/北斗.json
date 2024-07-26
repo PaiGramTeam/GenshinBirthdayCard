@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-6af31f20-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "大——姐——头——我们在这里！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-6af31f21-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "哟，是旅行者和派蒙来了，云先生也在，好久不见。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/13/419f457fa45cb15db2899033cac2dbe5_4508178473907222083.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-6af31f22-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "云堇听说你今日返航，于是和我们一起在万民堂准备了一桌菜，大家小聚一下。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-6af31f23-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "在海上确实格外想念万民堂的口味，大家费心了。来，这个你们先拿着。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/13/c543d92665328ef4dfff2ed790407ce2_5291819751883592641.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-6af31f24-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "别惊讶，壶里其实是果汁，算是这次出航的意外收获吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/13/419f457fa45cb15db2899033cac2dbe5_4508178473907222083.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-6af34630-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "我和兄弟们都觉得味道很不错，所以用酒壶带了一份回来给你们试试。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/13/c543d92665328ef4dfff2ed790407ce2_5291819751883592641.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-6af34631-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "好耶！大姐头见多识广，味道一定很不错！如果先偷偷尝一口的话，旅行者不会发现吧——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-6af34632-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "欸，旅行者呢？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-6af34633-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "哈哈哈，旅行者好像被拉住了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/13/419f457fa45cb15db2899033cac2dbe5_4508178473907222083.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-6af34634-ab68-11ed-bd7f-a9aaf2a8a11a",
                 "content": "这次出航收获颇多，给大家准备了不少礼物，千万别客气！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/13/419f457fa45cb15db2899033cac2dbe5_4508178473907222083.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-8f6cf2b0-2457-11ed-8f7c-fb9e3478c15e",
                 "content": "从刚刚起，凝光就一直盯着那个卖饰品的女孩呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/6d5666edfda0b242e29b486590f362cf_7868223397583594316.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-8f6cf2b1-2457-11ed-8f7c-fb9e3478c15e",
                 "content": "是因为想起了从前吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-8f6cf2b2-2457-11ed-8f7c-fb9e3478c15e",
                 "content": "呵呵，你比我想象中要更加敏锐。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/25/3860f8cfeb9500813a2e4e4d81965a4c_3772812518483718735.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-8f6cf2b3-2457-11ed-8f7c-fb9e3478c15e",
                 "content": "没错，她卖力的样子让我想到了过去的自己。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/25/d0ec65d068670c1c1cfb784e8011eb09_574499441154819200.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-f6188470-2457-11ed-8f7c-fb9e3478c15e",
                 "content": "时过境迁，如今走过这片海滩，心境早已不同从前。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/25/dae2036a599aaf4ffc41661c52346e7a_3808025652253350096.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-f6188471-2457-11ed-8f7c-fb9e3478c15e",
                 "content": "但就像浪潮褪去后留在沙滩上的贝壳一样，那段日子在我心中留下了宝贵的回忆。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/25/ed9fd156f65b281b8ae4bfd19bb557e9_3412901567646118846.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-f6188472-2457-11ed-8f7c-fb9e3478c15e",
                 "content": "但愿那孩子也能够通过自己的努力实现梦想。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/25/dae2036a599aaf4ffc41661c52346e7a_3808025652253350096.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-f6188473-2457-11ed-8f7c-fb9e3478c15e",
                 "content": "一定会的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             }
         ]
     }

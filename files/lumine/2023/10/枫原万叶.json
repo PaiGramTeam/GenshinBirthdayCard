@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-a28452b0-73e5-11ee-8805-af4e3dc21181",
                 "content": "好久不见，旅行者、派蒙。没想到会在这里遇到你们。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/28/f7332ffcf9bd39d3b7f67349741ff5c6_506219715714537000.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-a28452b1-73e5-11ee-8805-af4e3dc21181",
                 "content": "你好呀，万叶！我们最近在参加诗歌大会，今天正巧来璃月港转转。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-a28452b2-73e5-11ee-8805-af4e3dc21181",
                 "content": "对此我也有所耳闻，可惜我刚随船队回到璃月，未能赶上如此盛会。看二位的神色，想必玩得非常开心吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/28/92475411aaf3f9b43603c9fade007e6b_5948753857591750018.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-a28452b3-73e5-11ee-8805-af4e3dc21181",
                 "content": "很有趣的活动，难得派蒙这几天还想买书学习呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-a28452b4-73e5-11ee-8805-af4e3dc21181",
                 "content": "哦？虽然在下诗才不佳，遇到诗友也该好好交流一番才是。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/28/f7332ffcf9bd39d3b7f67349741ff5c6_506219715714537000.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-a28452b5-73e5-11ee-8805-af4e3dc21181",
                 "content": "哼哼，那我们就来对对子！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-a28452b6-73e5-11ee-8805-af4e3dc21181",
                 "content": "「巧遇旧友，言谈甚欢，堂上尽抒诗兴。」",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/28/d0059722f65e9e16fe58babfc8fe88d6_7205445756545856978.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-a28452b7-73e5-11ee-8805-af4e3dc21181",
                 "content": "呃…「初…初尝新菜，风味俱佳，桌前…桌前大吃一斤！」",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-a28452b8-73e5-11ee-8805-af4e3dc21181",
                 "content": "噗……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             }
         ]
     }

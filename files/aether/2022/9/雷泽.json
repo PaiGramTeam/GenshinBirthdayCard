@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-a2440590-2d94-11ed-9f6a-757c41739f0f",
                 "content": "这边这边！看我的…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/492e473575066835e93cc273c8a751f5_7969830049291747705.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-a2440591-2d94-11ed-9f6a-757c41739f0f",
                 "content": "呜哇真的冲过来了，救命啊！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-a2440592-2d94-11ed-9f6a-757c41739f0f",
                 "content": "派蒙在帮倒忙…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-a2440593-2d94-11ed-9f6a-757c41739f0f",
                 "content": "可恶，旅行者不也是嘛，野猪都被你吓跑了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-a2440594-2d94-11ed-9f6a-757c41739f0f",
                 "content": "狩猎，不能急。我教你。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/bab740887e414f03ebbc09ca497e1b88_1565855424715339755.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-a2440595-2d94-11ed-9f6a-757c41739f0f",
                 "content": "身体，压低。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/8d0082a1239211911e5721a69f3f147c_7062234408997544147.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-a2440596-2d94-11ed-9f6a-757c41739f0f",
                 "content": "呼吸，轻轻的。脚步，慢慢的。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/8d0082a1239211911e5721a69f3f147c_7062234408997544147.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-a2440597-2d94-11ed-9f6a-757c41739f0f",
                 "content": "然后…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/829779cc634091e98939bac8f887e146_950378211494779362.png"
             }
         ]
     }

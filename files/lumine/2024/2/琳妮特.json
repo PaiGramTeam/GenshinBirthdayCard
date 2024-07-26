@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-68d05e80-c0af-11ee-b556-2175da0be65e",
                 "content": "啊吃饱了！真好吃o(^▽^)o",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-68d05e81-c0af-11ee-b556-2175da0be65e",
                 "content": "哈——吃饱了…",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/31/7f4ab88679b3882c0491a5a543599784_5633920563550885505.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-68d05e82-c0af-11ee-b556-2175da0be65e",
                 "content": "林尼吃饱了也会犯困呢？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/480ed25f898b8a43d9f868806c4b8edc_6156820206384720465.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-68d05e83-c0af-11ee-b556-2175da0be65e",
                 "content": "为了刚刚展示给旅行者和派蒙的专属表演，哥哥昨天都没怎么睡觉，想了很多方案…平时歌剧院的演出前倒是睡得很好。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/31/e00b231c6baca07f3803b06235f91ebc_8067019415934518310.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-68d05e84-c0af-11ee-b556-2175da0be65e",
                 "content": "那还不是…重要的程度有区别啦。等等，你怎么知道我没有睡？",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/31/7f4ab88679b3882c0491a5a543599784_5633920563550885505.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-68d05e85-c0af-11ee-b556-2175da0be65e",
                 "content": "这是秘密，不告诉哥哥。旅行者来这边——",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/31/e00b231c6baca07f3803b06235f91ebc_8067019415934518310.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-68d05e86-c0af-11ee-b556-2175da0be65e",
                 "content": "…",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/31/0d93a725f7e15658c3297e6f9f796296_8020143161442794891.png"
             }
         ]
     }

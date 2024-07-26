@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-073c4f60-c025-11ee-b556-2175da0be65e",
                 "content": "旅行者你们来啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/31/7f4ab88679b3882c0491a5a543599784_5633920563550885505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-073c4f61-c025-11ee-b556-2175da0be65e",
                 "content": "好久没来德波大饭店了，一想到这里的美食，脚步都加快了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-073c4f62-c025-11ee-b556-2175da0be65e",
                 "content": "派蒙是用飞的吧？对了，这是给你们的礼物，生日快乐，林尼，琳妮特。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-073c4f63-c025-11ee-b556-2175da0be65e",
                 "content": "生日快乐，这个给琳妮特，这个给林尼。我们挑了好久呢，希望你们喜欢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-073c4f64-c025-11ee-b556-2175da0be65e",
                 "content": "谢谢，我很喜欢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/31/e00b231c6baca07f3803b06235f91ebc_8067019415934518310.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-073c4f65-c025-11ee-b556-2175da0be65e",
                 "content": "二位费心啦，作为魔术师，就为你们表演一场专属魔术吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/31/aece065e1862f0abc9ba3d020ad1a21c_8081596623865277581.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-073c4f66-c025-11ee-b556-2175da0be65e",
                 "content": "不要眨眼哦~",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/31/aece065e1862f0abc9ba3d020ad1a21c_8081596623865277581.png"
             }
         ]
     }

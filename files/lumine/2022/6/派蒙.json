@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-7bece3c0-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "说起来，这已经是和你一起度过的第二个生日了呢！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-7bece3c1-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "过去的一年里，我们共同走过了好多地方，比如——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-7bece3c2-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "在神秘的海岛冒险。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-7bece3c3-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "那时我们在海边烧烤…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-7bece3c4-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "在稻妻结交了很多新朋友。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-7bece3c5-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "吃到了好多好吃的…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/996ab9406d3047f155ec6847b737873b_8097932660739392062.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-7bed0ad0-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "还在层岩巨渊下发现了许多秘密。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-7bed0ad1-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "见到了会说话的大蘑菇…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-7bed0ad2-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "呃…你是不是又饿了？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-7bed0ad3-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "嘿嘿，被发现了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/6d5666edfda0b242e29b486590f362cf_7868223397583594316.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-7bed0ad4-dfc0-11ec-a89f-19c3f00c4cac",
                 "content": "那么接下来，就有请善良可爱的，我最好的伙伴，带我去吃蛋糕吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/996ab9406d3047f155ec6847b737873b_8097932660739392062.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-2205cda0-8e69-11ee-bfbe-31ae3d6bc6c8",
                 "content": "难得凯亚没有邀请我们去酒馆见呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-2205cda1-8e69-11ee-bfbe-31ae3d6bc6c8",
                 "content": "我也不是每时每刻都在喝酒啊。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/29/c92e0ef43dc21740e6371e3f501bce5d_980966568199607521.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-2205cda2-8e69-11ee-bfbe-31ae3d6bc6c8",
                 "content": "哇，架子上葡萄好像都熟了耶！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-2205cda3-8e69-11ee-bfbe-31ae3d6bc6c8",
                 "content": "上次特纳教你的，还记得吗？到时候新酿好的饮品，可以给你们先尝尝。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/29/9ce4ee178262e9d247a40c3908cfddc5_118863292904229249.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-2205cda4-8e69-11ee-bfbe-31ae3d6bc6c8",
                 "content": "摘葡萄？当然记得。",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/480ed25f898b8a43d9f868806c4b8edc_6156820206384720465.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-2205cda5-8e69-11ee-bfbe-31ae3d6bc6c8",
                 "content": "旅行者…那我们？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "",
                 "key": "gal-line-2205cda6-8e69-11ee-bfbe-31ae3d6bc6c8",
                 "content": "（与派蒙、凯亚一起摘了许多葡萄）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-2205cda7-8e69-11ee-bfbe-31ae3d6bc6c8",
                 "content": "呼…果然是力气活。",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/4799a03c5f4c5ab3e68e7365c363e3ee_4373327763302680255.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "center",
                 "key": "gal-line-2205cda8-8e69-11ee-bfbe-31ae3d6bc6c8",
                 "content": "欸，是嘛？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             }
         ]
     }

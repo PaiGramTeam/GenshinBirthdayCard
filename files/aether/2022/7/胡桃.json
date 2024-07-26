@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-11ca7410-fe67-11ec-8171-7f04a0ec1571",
                 "content": "胡桃到底跑去哪儿了呀…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0cf484e531cd9c1c5e3170bdbd06a596_6664302954906689234.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-11ca7411-fe67-11ec-8171-7f04a0ec1571",
                 "content": "这么晚了，街上一个人都没有，她该不会还在无妄坡闲逛吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-11ca7412-fe67-11ec-8171-7f04a0ec1571",
                 "content": "我们去找她。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-11ca7413-fe67-11ec-8171-7f04a0ec1571",
                 "content": "要…要去那个阴森森的地方吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/92bfa5ec2cfb6fa9188340cca5f62fb5_5934745197134759120.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-11ca7414-fe67-11ec-8171-7f04a0ec1571",
                 "content": "你…你要保护我哦！万一有什么「奇怪的东西」突然窜出来…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/92bfa5ec2cfb6fa9188340cca5f62fb5_5934745197134759120.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-11ca9b20-fe67-11ec-8171-7f04a0ec1571",
                 "content": "嗨！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/07/a1496292c4a792bd379254ab47602b4d_2816082827283632927.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-11ca9b21-fe67-11ec-8171-7f04a0ec1571",
                 "content": "哇啊啊啊啊！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/0f5bacc51b2b2d9ef8bf0663158aa1ac_5707517418751484142.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-11ca9b22-fe67-11ec-8171-7f04a0ec1571",
                 "content": "\n        ",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/07/71f8e35dfdd0d4a11569bcc17e514003_8190796853728526084.png"
             }
         ]
     }

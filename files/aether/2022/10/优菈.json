@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-8f5cfba0-5353-11ed-90ff-a15c18a20e00",
                 "content": "发生了什么，你们怎么这副样子？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/24/f9f38cc00c969461d69129944313f63e_8123629569176072402.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-8f5cfba1-5353-11ed-90ff-a15c18a20e00",
                 "content": "呃…因为酒…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-8f5cfba2-5353-11ed-90ff-a15c18a20e00",
                 "content": "酒？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/24/f6628792866c8a0ee0a9a5fae5f26ca3_9183588443521826510.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-8f5cfba3-5353-11ed-90ff-a15c18a20e00",
                 "content": "据说在低温环境下酿出的酒口感更加独特，我们就在龙脊雪山挑了个湿度和温度都合适的位置，将酒桶埋进雪中。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-8f5cfba4-5353-11ed-90ff-a15c18a20e00",
                 "content": "本想着一个月后的今天，可以将酿好的酒取出来送给你。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-8f5cfba5-5353-11ed-90ff-a15c18a20e00",
                 "content": "刚刚我们赶到那儿，发现酒桶空空如也，旁边还躺着一堆呼噜呼噜打嗝的丘丘人，真是气死我了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-8f5cfba6-5353-11ed-90ff-a15c18a20e00",
                 "content": "旅行者正准备教训它们的时候，不小心踩空掉进了湖里…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-8f5cfba7-5353-11ed-90ff-a15c18a20e00",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/24/f9f38cc00c969461d69129944313f63e_8123629569176072402.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-8f5cfba8-5353-11ed-90ff-a15c18a20e00",
                 "content": "怎…怎么办，我们搞砸了，要被记仇了…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-8f5cfba9-5353-11ed-90ff-a15c18a20e00",
                 "content": "把这碗汤喝了吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/24/f6628792866c8a0ee0a9a5fae5f26ca3_9183588443521826510.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-8f5cfbaa-5353-11ed-90ff-a15c18a20e00",
                 "content": "…你不生气吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-8f5cfbab-5353-11ed-90ff-a15c18a20e00",
                 "content": "当然生气啊，这个仇我记下了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/24/f6628792866c8a0ee0a9a5fae5f26ca3_9183588443521826510.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "left",
                 "key": "gal-line-8f5cfbac-5353-11ed-90ff-a15c18a20e00",
                 "content": "所以，快点擦干头发再喝口热汤，你如果感冒了，我还怎么报仇啊？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/24/4196fde19802196c6b564443e2ed0df2_7943766988354436840.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-77b7dfe0-21f4-11ee-91fd-311054a36442",
                 "content": "太阳当空照，大咪二咪早！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/07/71f8e35dfdd0d4a11569bcc17e514003_8190796853728526084.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-77b7dfe1-21f4-11ee-91fd-311054a36442",
                 "content": "胡桃胡桃~~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-77b7dfe2-21f4-11ee-91fd-311054a36442",
                 "content": "生日快乐胡桃！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-77b7dfe3-21f4-11ee-91fd-311054a36442",
                 "content": "谢谢你们！今天发现一只可爱的小宠物，看它这光亮的毛发、俏皮的模样，一起给它想个响亮的名字吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/07/71f8e35dfdd0d4a11569bcc17e514003_8190796853728526084.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-77b7dfe4-21f4-11ee-91fd-311054a36442",
                 "content": "你说的宠物不会是……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-77b7dfe5-21f4-11ee-91fd-311054a36442",
                 "content": "这个圆滚滚的……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-77b7dfe6-21f4-11ee-91fd-311054a36442",
                 "content": "没错！就叫它「胖胖」吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/07/a1496292c4a792bd379254ab47602b4d_2816082827283632927.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-0340c310-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "最后一击！——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-0340ea20-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "派蒙今天干劲满满呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-0340ea21-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "呼，没想到竟然聚集了这么多盗宝团，难道那个传说是真的？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-0340ea22-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "那个——传说？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-0340ea23-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "就是那个，那个，传说！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-0340ea24-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "某酒庄今年收获的葡萄，在午夜，用极其精确的方式萃取其精华，就能获得颠覆蒙德的力量——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/29/9ce4ee178262e9d247a40c3908cfddc5_118863292904229249.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-0340ea25-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "这个传说？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/29/c92e0ef43dc21740e6371e3f501bce5d_980966568199607521.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-0340ea26-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "为什么你会知道，等等…果然是你，传播谣言的坏人！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "center",
                 "key": "gal-line-0340ea27-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "怎么是谣言呢，今年收获的葡萄多汁甘甜，比往年的葡萄甜度高了不止一点，酿出来的酒稍晚点可就买不到咯，说是颠覆蒙德也不为过吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/29/9ce4ee178262e9d247a40c3908cfddc5_118863292904229249.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "center",
                 "key": "gal-line-0340ea28-6fd0-11ed-8e7f-e70939ed7ab4",
                 "content": "好了，该去找某酒庄收佣金了。帮他们找回了重要的货物，收取多少谢礼才合适呢？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/29/c92e0ef43dc21740e6371e3f501bce5d_980966568199607521.png"
             }
         ]
     }

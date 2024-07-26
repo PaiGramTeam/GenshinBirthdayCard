@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-1d501ef0-4b8f-11ed-a02e-e50ee00eb40d",
                 "content": "之前听朋友说过，琉璃百合的汁液能够使休眠的古琴回春。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-1d501ef1-4b8f-11ed-a02e-e50ee00eb40d",
                 "content": "把它涂在辛焱的琴上，会不会让琴奏出的声音更加特别呢？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-1d501ef2-4b8f-11ed-a02e-e50ee00eb40d",
                 "content": "哈哈，好有意思的说法！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/14/5924c7b2ae9e1fe9ac1fc52a5d545716_6509504790396146725.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-1d501ef3-4b8f-11ed-a02e-e50ee00eb40d",
                 "content": "那如果涂上绝云椒椒的汁液，说不定会让演奏更加火热呢！",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/10/16/0789cc55ba0936d769424be330d421b7_915304581193067541.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-1d501ef4-4b8f-11ed-a02e-e50ee00eb40d",
                 "content": "我们都试试看吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/14/5924c7b2ae9e1fe9ac1fc52a5d545716_6509504790396146725.png"
             }
         ]
     }

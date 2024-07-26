@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-11a41140-fe70-11ec-8171-7f04a0ec1571",
                 "content": "嗯…清淡爽口、口感鲜嫩，还冒着腾腾热气。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/a6274e5c999c0ce1e79fc03b919af193_5606357362747926556.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-11a41141-fe70-11ec-8171-7f04a0ec1571",
                 "content": "这顿饭完美符合「豆腐律法」，我给它一百分！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/3f8a52ba49608bcee5dd5cfeaf2473c7_882525071083438460.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-11a41142-fe70-11ec-8171-7f04a0ec1571",
                 "content": "嘿嘿，符合你的口味就好！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-11a41143-fe70-11ec-8171-7f04a0ec1571",
                 "content": "作为回报，这里是各国律法资料！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/a6274e5c999c0ce1e79fc03b919af193_5606357362747926556.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-11a41144-fe70-11ec-8171-7f04a0ec1571",
                 "content": "下次见面时我还可以赠送一次免费的普法课程哟~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/3f8a52ba49608bcee5dd5cfeaf2473c7_882525071083438460.png"
             }
         ]
     }

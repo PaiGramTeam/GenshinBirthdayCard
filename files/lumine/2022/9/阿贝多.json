@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-6be7be00-2d95-11ed-9f6a-757c41739f0f",
                 "content": "你说，阿贝多会不会喜欢我们送的礼物呢？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-6be7be01-2d95-11ed-9f6a-757c41739f0f",
                 "content": "…啊等等，阿贝多的工坊爆炸了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-6be7be02-2d95-11ed-9f6a-757c41739f0f",
                 "content": "哇！可莉不是故意的！！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/cbfc751aa24f51b8349b57092266b2a9_2789198553155993220.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "",
                 "key": "gal-line-6be7be03-2d95-11ed-9f6a-757c41739f0f",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-6be7be04-2d95-11ed-9f6a-757c41739f0f",
                 "content": "——所以你们就帮可莉抓鱼来道歉？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/a3ff9d659e7203fd2d8d16ff30a64a52_8894432446251090566.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-6be7be05-2d95-11ed-9f6a-757c41739f0f",
                 "content": "是…是这样的…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-6be7be06-2d95-11ed-9f6a-757c41739f0f",
                 "content": "嗯…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-6be7be07-2d95-11ed-9f6a-757c41739f0f",
                 "content": "啊，看起来可莉的新配方有些问题，一会我来看一下…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/a3ff9d659e7203fd2d8d16ff30a64a52_8894432446251090566.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-6be7be08-2d95-11ed-9f6a-757c41739f0f",
                 "content": "在此之前，可莉要把工坊先打扫干净哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/394e8192ffd840452d38613e8e4462ee_1576657119143787565.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-6be7be09-2d95-11ed-9f6a-757c41739f0f",
                 "content": "可莉知道错了，阿贝多哥哥对不起！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/cbfc751aa24f51b8349b57092266b2a9_2789198553155993220.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-6be7be0a-2d95-11ed-9f6a-757c41739f0f",
                 "content": "可莉这就去打扫！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/b2958ac32ab46146ca27cde3d41d5f05_3364180727721180439.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-6be7be0b-2d95-11ed-9f6a-757c41739f0f",
                 "content": "好哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/394e8192ffd840452d38613e8e4462ee_1576657119143787565.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "left",
                 "key": "gal-line-e6275020-2db5-11ed-9f6a-757c41739f0f",
                 "content": "走吧旅行者，我们去烤鱼。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/394e8192ffd840452d38613e8e4462ee_1576657119143787565.png"
             }
         ]
     }

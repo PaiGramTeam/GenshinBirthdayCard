@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-d61ce560-e86d-11ec-92c6-b7137b5b8af5",
                 "content": "哇——我们一进门，大家的目光全都聚集过来了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/92bfa5ec2cfb6fa9188340cca5f62fb5_5934745197134759120.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-d61ce561-e86d-11ec-92c6-b7137b5b8af5",
                 "content": "毕竟雷电将军和八重宫司同时出现在这里了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-d61ce562-e86d-11ec-92c6-b7137b5b8af5",
                 "content": "呵呵，说得好像是什么严肃的会面一样。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/085bbaa0858e555724c94afb53618cf4_7301758508572550773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-d61ce563-e86d-11ec-92c6-b7137b5b8af5",
                 "content": "不过，倒确实难得见到影出来闲逛呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/9a8f512eb2da088cf469e19f78bc50f9_6318623795593896163.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-d61ce564-e86d-11ec-92c6-b7137b5b8af5",
                 "content": "那就点一份牛奶团子来庆祝吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/085bbaa0858e555724c94afb53618cf4_7301758508572550773.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-d61ce565-e86d-11ec-92c6-b7137b5b8af5",
                 "content": "嗯…可惜，这家店的菜单上好像没有呢，只能麻烦你们跑一趟啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/9a8f512eb2da088cf469e19f78bc50f9_6318623795593896163.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-d61ce566-e86d-11ec-92c6-b7137b5b8af5",
                 "content": "快去，快去。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/085bbaa0858e555724c94afb53618cf4_7301758508572550773.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-d61ce567-e86d-11ec-92c6-b7137b5b8af5",
                 "content": "咦？怎么突然…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0cf484e531cd9c1c5e3170bdbd06a596_6664302954906689234.png"
             }
         ]
     }

@@ -1,4 +1,3 @@
-import random
 import json
 from datetime import datetime
 from pathlib import Path
@@ -106,7 +105,7 @@ async def create_month_html(gender: str, year: str, month: str, datas: List[Dict
             )
         )
     scene_map = await get_scene_map(gender, year, month, [role.role_name for role in roles])
-    post.cover = random.Random().choice([role.src for role in roles])
+    post.cover = roles[0].src
     related_posts = get_related_posts(gender, year, month)
     html = template.render(
         post=post.dict(),

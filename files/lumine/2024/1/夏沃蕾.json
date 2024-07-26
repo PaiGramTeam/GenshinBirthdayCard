@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-b6742020-aec8-11ee-9b3a-939da469b902",
                 "content": "夏沃蕾今天的工作结束了吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-b6742021-aec8-11ee-9b3a-939da469b902",
                 "content": "今天是休息日，希望不会有什么突发情况。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/09/aaf531b0e9f4c18e64c84d73d20b6dde_4201519186186367234.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-b6742022-aec8-11ee-9b3a-939da469b902",
                 "content": "走吧，去吃点东西，我请客。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/09/aaf531b0e9f4c18e64c84d73d20b6dde_4201519186186367234.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-b6742023-aec8-11ee-9b3a-939da469b902",
                 "content": "好耶！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "",
                 "key": "gal-line-b6742024-aec8-11ee-9b3a-939da469b902",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-b6742025-aec8-11ee-9b3a-939da469b902",
                 "content": "呼…果然糖分和油脂能让人开心，就是容易忍不住吃太多。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/09/62a4eceda9ac8ee5ea5fecd837a3aaa2_1518636204989870898.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-b6742026-aec8-11ee-9b3a-939da469b902",
                 "content": "人之常情嘛，派蒙一定很赞成。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/d63a3562b9ce6bc13c15245876156d24_3999350693014180260.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-b6742027-aec8-11ee-9b3a-939da469b902",
                 "content": "对呀，开心就好！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-b6742028-aec8-11ee-9b3a-939da469b902",
                 "content": "等会我要去加练，派蒙好像也吃了不少，跟我一起去吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2024/01/09/62a4eceda9ac8ee5ea5fecd837a3aaa2_1518636204989870898.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "center",
                 "key": "gal-line-b6742029-aec8-11ee-9b3a-939da469b902",
                 "content": "欸欸欸？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             }
         ]
     }

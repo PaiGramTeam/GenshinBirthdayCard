@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-71d280a0-4646-11ee-a6e1-1141f8087ada",
                 "content": "莫娜早上好，给你带了好吃的哦！刚出炉的面包~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-71d280a1-4646-11ee-a6e1-1141f8087ada",
                 "content": "早啊莫娜。咦，怎么黑眼圈这么重——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-71d280a2-4646-11ee-a6e1-1141f8087ada",
                 "content": "你们来啦！快到截稿日，我昨天赶稿到半夜，不小心睡着了…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/29/cb0c6fae1eaf60fd666a923507c46ce5_1486424733884925527.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-71d280a3-4646-11ee-a6e1-1141f8087ada",
                 "content": "幸好大部分稿件都写完了——正好有点饿，谢谢你们带的早饭…呼，继续写稿！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/29/13c6be5ff7529848014e032b66db85a0_4310437594042841922.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-71d280a4-4646-11ee-a6e1-1141f8087ada",
                 "content": "等等，中午说好一起去菲谢尔家聚餐你没有忘记吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-71d280a5-4646-11ee-a6e1-1141f8087ada",
                 "content": "听说菲谢尔昨天研究菜谱到很晚，不知道准备了什么大餐，我好期待的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-71d280a6-4646-11ee-a6e1-1141f8087ada",
                 "content": "没有忘啦，我的稿子还需要最后占卜一次就完成了！先进来喝杯茶吧，很快就好。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/29/13c6be5ff7529848014e032b66db85a0_4310437594042841922.png"
             }
         ]
     }

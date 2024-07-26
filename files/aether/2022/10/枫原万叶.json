@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-ba499780-569e-11ed-a37a-63627553b7eb",
                 "content": "没想到走到一半突然下雨了呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-ba499781-569e-11ed-a37a-63627553b7eb",
                 "content": "不好意思呀，万叶。本来我和旅行者觉得今晚景色不错，正好邀你一起出来走走。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-ba499782-569e-11ed-a37a-63627553b7eb",
                 "content": "结果大家现在都被困在草棚里，呜…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-ba499783-569e-11ed-a37a-63627553b7eb",
                 "content": "无须在意，旅途中各种际遇都值得回味。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/28/92475411aaf3f9b43603c9fade007e6b_5948753857591750018.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-ba499784-569e-11ed-a37a-63627553b7eb",
                 "content": "而且我听到了云散开的声音，雨或许马上就会停了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/28/d0059722f65e9e16fe58babfc8fe88d6_7205445756545856978.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "",
                 "key": "gal-line-ba499785-569e-11ed-a37a-63627553b7eb",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-ba499786-569e-11ed-a37a-63627553b7eb",
                 "content": "让我看看…雨确实小了不少，好像还能看到远处的月亮，万叶真厉害！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-ba499787-569e-11ed-a37a-63627553b7eb",
                 "content": "抬头见月，侧耳听风…真是一番美景。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/28/d0059722f65e9e16fe58babfc8fe88d6_7205445756545856978.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-ba499788-569e-11ed-a37a-63627553b7eb",
                 "content": "旅行者、派蒙，谢谢你们邀请我。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/28/92475411aaf3f9b43603c9fade007e6b_5948753857591750018.png"
             }
         ]
     }

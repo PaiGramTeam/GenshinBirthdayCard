@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-31b9b860-197f-11ee-8b8a-277e9c5542c5",
                 "content": "甜点、茶具…都摆放好了！辛苦旅行者和派蒙准备了这么多，今天的茶会很丰盛呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/00fbbb67e73d8feced74d3cc4405d435_5917648373049042719.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-31b9b861-197f-11ee-8b8a-277e9c5542c5",
                 "content": "嘿嘿，今天可是「做饭专家派蒙」！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/492e473575066835e93cc273c8a751f5_7969830049291747705.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-31b9b862-197f-11ee-8b8a-277e9c5542c5",
                 "content": "我们试着做了些须弥的甜点，不知道合不合大家的口味。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-31b9b863-197f-11ee-8b8a-277e9c5542c5",
                 "content": "我可以试一块椰炭饼吗？唔…微甜的面饼搭配辛辣的酱料，好特别的体验！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/27/cbb2d49a2b942288d0ffd0b5b715f715_7249120349025600283.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-31b9b864-197f-11ee-8b8a-277e9c5542c5",
                 "content": "辛辣的…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-31b9b865-197f-11ee-8b8a-277e9c5542c5",
                 "content": "酱料？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-31b9b866-197f-11ee-8b8a-277e9c5542c5",
                 "content": "呜哇…该不会是我昨天手忙脚乱准备的时候，把绝云椒椒和墩墩桃弄混了吧…对不起…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-31b9b867-197f-11ee-8b8a-277e9c5542c5",
                 "content": "怎么会！我很喜欢，派蒙创造了很有趣的搭配呀。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/27/c0795083db53f613f7804b7b60fd8492_2428073268263486054.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "center",
                 "key": "gal-line-31b9b868-197f-11ee-8b8a-277e9c5542c5",
                 "content": "是场难忘的茶会呢…各位，要来杯茶吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/00fbbb67e73d8feced74d3cc4405d435_5917648373049042719.png"
             }
         ]
     }

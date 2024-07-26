@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e66170-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "五郎——！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e66171-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "你们来了。这个味道…你们涂了什么东西吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/2c1dfb4eef5b1685d888c6bce79ee23f_633035085505181480.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e66172-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "其实…这是要送给你的植物精油…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e66173-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "呜，没有惊喜感了。五郎的鼻子也太灵啦！下次，下次一定要选择无香型的…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e66174-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "哈哈，谢谢你们，有这份心意我就已经很开心了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/2c1dfb4eef5b1685d888c6bce79ee23f_633035085505181480.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e66175-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "说起来，最近我给《闲事月刊》写回信的时候也遇到了类似的问题。有位读者在信中写道——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/0580d80a7bb65c21323ebfe5e40c101b_31855961547594860.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-b2e66176-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "\n        ",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-b2e66177-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "「上司是位温柔又细心的人，他也每次都假装很吃惊的样子配合着我们。但果然还是想看看他发自内心惊喜的表情啊…这次一定要提前做好保密工作！」",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "center",
                 "key": "gal-line-b2e66178-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "「他的爱好是登山，大家准备凑钱买一套新的登山套装送给他，但是我们不知道该如何挑选…」",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e66179-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "五郎是怎么回复的呢？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68880-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "正好我也经常登山，就给他们推荐了我正在用的那套，虽然算不上名贵，但胜在结实耐用。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/0580d80a7bb65c21323ebfe5e40c101b_31855961547594860.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68881-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "礼物的珍贵在于其中饱含的心意，而不是花费了多少金钱。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/2c2bee5b75a7c4c63f2d93bab0d38d76_4830940019294025837.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68882-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "咳咳…说回正题。晚饭马上准备好了，我们先进去吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/2c1dfb4eef5b1685d888c6bce79ee23f_633035085505181480.png"
             },
             {
                 "type": "simple_dialog",
@@ -137,7 +151,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68883-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "欸？门前放着一个盒子…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/0580d80a7bb65c21323ebfe5e40c101b_31855961547594860.png"
             },
             {
                 "type": "simple_dialog",
@@ -146,7 +161,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68884-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "一定是士兵们送给你的生日礼物，快打开看看吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -155,7 +171,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68885-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "嗯！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/2c2bee5b75a7c4c63f2d93bab0d38d76_4830940019294025837.png"
             },
             {
                 "type": "simple_dialog",
@@ -164,7 +181,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68886-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/0580d80a7bb65c21323ebfe5e40c101b_31855961547594860.png"
             },
             {
                 "type": "simple_dialog",
@@ -173,7 +191,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68887-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "噗哈哈哈，原来是他们！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/2c1dfb4eef5b1685d888c6bce79ee23f_633035085505181480.png"
             },
             {
                 "type": "simple_dialog",
@@ -182,7 +201,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68888-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "怎么了？笑什么？里面是什么呀？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -191,7 +211,8 @@
                 "pos": "left",
                 "key": "gal-line-b2e68889-f3bb-11ed-9646-3be1ca60cb02",
                 "content": "是我推荐的那套登山装备。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/17/2c1dfb4eef5b1685d888c6bce79ee23f_633035085505181480.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-4f6037b0-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "啊啊啊啊啊——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-4f6037b1-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "嘘——派蒙，别扯头发了，小心秃头哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-4f6037b2-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "为什么这书上的每一个字我都认识，可是它们连在一起我倒读不懂了…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-4f6037b3-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "半个小时过去了，我只读了两行字！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-4f6037b4-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "艾尔海森平时都在看这么晦涩又枯燥的书吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-4f6037b5-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "我并不觉得它们晦涩，也不觉得它们枯燥。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/09/3965b7fd74fd193413462793ce58d4ca_927157810362363451.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-4f6037b6-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "什…呜，那是因为你没读过真正轻松有趣的书！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-4f6037b7-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "你指的是这本《野猪公主》？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/09/3965b7fd74fd193413462793ce58d4ca_927157810362363451.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-4f6037b8-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "嗯…的确是一本有趣的书，各种意义上。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/02/09/43d1b415fa46046909d19b6d0694097f_3115268413012655973.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-4f6037b9-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "…你刚刚皱眉头了吧，绝对皱眉头了吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-4f6037ba-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "不过没关系，我们这回带了这么多书，《沉秋拾剑录》、《菲谢尔皇女夜谭》、《转生成为雷电将军，然后天下无敌》…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-4f6037bb-a871-11ed-b8d8-a18aa6e8c85f",
                 "content": "总有一本，包你满意~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             }
         ]
     }

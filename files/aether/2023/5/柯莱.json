@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-9dc6a6b0-ebf5-11ed-b9d9-cfce0d8150b4",
                 "content": "这里这里——柯莱，生日快乐！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-9dc6cdc0-ebf5-11ed-b9d9-cfce0d8150b4",
                 "content": "啊，是旅行者和派蒙！谢谢你们特意来看我。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/06/66e698567b860f131e6810e144add310_7007025376280660597.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-9dc6cdc1-ebf5-11ed-b9d9-cfce0d8150b4",
                 "content": "生日快乐，听提纳里说你想找些新书，所以我们挑了一些带过来。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-9dc6cdc2-ebf5-11ed-b9d9-cfce0d8150b4",
                 "content": "看上去都很有意思呢，《出发吧！嘟嘟可》、《少女薇拉的忧郁》…欸？兽米香香食谱…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/06/5a32cd28f54a635c4f26dbe7742c34d7_5810476965137978404.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-9dc6cdc3-ebf5-11ed-b9d9-cfce0d8150b4",
                 "content": "欸？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-9dc6cdc4-ebf5-11ed-b9d9-cfce0d8150b4",
                 "content": "那个…是我和旅行者说想吃这道菜…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-9dc6cdc5-ebf5-11ed-b9d9-cfce0d8150b4",
                 "content": "好像不小心把食谱放进书堆里了，嘿嘿…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-9dc6cdc6-ebf5-11ed-b9d9-cfce0d8150b4",
                 "content": "派蒙想吃的话，等会留下一起吃饭吧，我来准备。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/06/66e698567b860f131e6810e144add310_7007025376280660597.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-9dc6cdc7-ebf5-11ed-b9d9-cfce0d8150b4",
                 "content": "好耶！兽米香香——我们也来帮忙！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             }
         ]
     }

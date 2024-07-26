@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-d2758620-b990-11ed-bfd3-b3e6563b738e",
                 "content": "竹笋，给你。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/303de17320ac9de3820e195c4df5cba8_4714986861272725389.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-d275ad30-b990-11ed-bfd3-b3e6563b738e",
                 "content": "谢谢你！七七，你还记得我吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/03/c4888e3aba0d5a818db26dd02876c508_871139680085768130.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-d275ad31-b990-11ed-bfd3-b3e6563b738e",
                 "content": "记得，你是…唔…小团雀。可爱。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/303de17320ac9de3820e195c4df5cba8_4714986861272725389.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-d275ad32-b990-11ed-bfd3-b3e6563b738e",
                 "content": "哈哈，我是瑶瑶，是七七的好朋友哦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/03/22923f13c411251dca7074ddb3c4c1d6_2687668038275481949.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-d275ad33-b990-11ed-bfd3-b3e6563b738e",
                 "content": "七七的…好朋友…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4e5235e664aedd3c57b524676d781d59_4842619514452902425.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-d275ad34-b990-11ed-bfd3-b3e6563b738e",
                 "content": "没错，瑶瑶一直都是七七的朋友。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/03/c4888e3aba0d5a818db26dd02876c508_871139680085768130.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-d275ad35-b990-11ed-bfd3-b3e6563b738e",
                 "content": "瑶瑶一个人，很危险。有野林猪。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/303de17320ac9de3820e195c4df5cba8_4714986861272725389.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-d275ad36-b990-11ed-bfd3-b3e6563b738e",
                 "content": "没关系，瑶瑶是和其他朋友一起来的，他们很可靠哦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/03/22923f13c411251dca7074ddb3c4c1d6_2687668038275481949.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-d275ad37-b990-11ed-bfd3-b3e6563b738e",
                 "content": "其他朋友？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4e5235e664aedd3c57b524676d781d59_4842619514452902425.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-d275ad38-b990-11ed-bfd3-b3e6563b738e",
                 "content": "就在那边——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/03/c4888e3aba0d5a818db26dd02876c508_871139680085768130.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-d275ad39-b990-11ed-bfd3-b3e6563b738e",
                 "content": "旅行者！加油！用力啊啊啊！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "right",
                 "key": "gal-line-d275ad3a-b990-11ed-bfd3-b3e6563b738e",
                 "content": "派蒙！好痛！快松手啊啊啊！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             }
         ]
     }

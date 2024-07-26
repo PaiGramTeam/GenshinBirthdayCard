@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-3e199a70-3cd5-11ee-8d5f-d330bb0326be",
                 "content": "呼~珐露珊，我们找了你好久，怎么跑到这里啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-3e199a71-3cd5-11ee-8d5f-d330bb0326be",
                 "content": "遗迹龙兽的研究有了新的想法，确认一下细节。",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/08/17/719fc6c59e3cf401eceb26affcb091ab_6129159498651788430.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-3e199a72-3cd5-11ee-8d5f-d330bb0326be",
                 "content": "过生日也这么忙碌，我们给你做了好吃的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/996ab9406d3047f155ec6847b737873b_8097932660739392062.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-3e199a73-3cd5-11ee-8d5f-d330bb0326be",
                 "content": "除了北地烟熏鸡外也尝试做了一下古法秘制椰炭饼，之前你说这是一百年前须弥传统的做法，不知道有没有还原一点……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-3e199a74-3cd5-11ee-8d5f-d330bb0326be",
                 "content": "一百年后有人为我庆生，感觉还不错嘛！",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/08/17/49e8df2c449973bae3df9b4ed7a56d35_926801375179271512.png"
             }
         ]
     }

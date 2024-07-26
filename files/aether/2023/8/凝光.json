@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-df50ed70-4186-11ee-8d5f-d330bb0326be",
                 "content": "今天的事情就先处理到这里。旅行者，谢谢你的帮助。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/25/3860f8cfeb9500813a2e4e4d81965a4c_3772812518483718735.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-df50ed71-4186-11ee-8d5f-d330bb0326be",
                 "content": "凝光今天也辛苦了，接下来该到休息时间啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-df50ed72-4186-11ee-8d5f-d330bb0326be",
                 "content": "旅——行——者——快出来呀！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-df50ed73-4186-11ee-8d5f-d330bb0326be",
                 "content": "呵呵，派蒙这么着急，是有什么事吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/25/d0ec65d068670c1c1cfb784e8011eb09_574499441154819200.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-df50ed74-4186-11ee-8d5f-d330bb0326be",
                 "content": "咳咳，这个…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "bg",
@@ -65,7 +71,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "",
                 "key": "gal-line-df50ed75-4186-11ee-8d5f-d330bb0326be",
                 "content": "（群玉阁大门打开的那一刻，有状似琉璃百合的烟花在月夜中绽放）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-df50ed76-4186-11ee-8d5f-d330bb0326be",
                 "content": "呼——顺利发射！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/996ab9406d3047f155ec6847b737873b_8097932660739392062.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-df50ed77-4186-11ee-8d5f-d330bb0326be",
                 "content": "这个图案我和旅行者研究了很久哦，虽然不是特别还原…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-df50ed78-4186-11ee-8d5f-d330bb0326be",
                 "content": "凝光，生日快乐！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-df50ed79-4186-11ee-8d5f-d330bb0326be",
                 "content": "今夜的景色很美呢。谢谢二位为我准备了这些，我很喜欢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/25/3860f8cfeb9500813a2e4e4d81965a4c_3772812518483718735.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-9c7ecc80-e4e6-11ed-ac11-5943b2183f61",
                 "content": "我们来啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-9c7ecc81-e4e6-11ed-ac11-5943b2183f61",
                 "content": "晚上好，两位。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/c72b1096691aef955a6f3376e725c99e_7937089006432038174.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-9c7ecc82-e4e6-11ed-ac11-5943b2183f61",
                 "content": "我们带了超——多新食材哦！可以调各种各样的饮品了，嘿嘿。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-9c7ecc83-e4e6-11ed-ac11-5943b2183f61",
                 "content": "基础的调制方法，你们应该很熟悉了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/5f7f460e661bdfcf518a555a082af271_5299976763041253890.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-9c7ecc84-e4e6-11ed-ac11-5943b2183f61",
                 "content": "没错，大家的评价都很不错哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-9c7ecc85-e4e6-11ed-ac11-5943b2183f61",
                 "content": "那自由发挥就好，需要的话，我可以提供一些建议。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/6e38ecf914ad1b3121be670c5bd9b5d7_4847365452783969244.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-9c7ecc86-e4e6-11ed-ac11-5943b2183f61",
                 "content": "先做一杯以墩墩桃汁为基底的果酿吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-9c7ecc87-e4e6-11ed-ac11-5943b2183f61",
                 "content": "好耶！要不要再加点枣椰的果肉呢？赤念果…没吃过，但也可以试试吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-9c7ecc88-e4e6-11ed-ac11-5943b2183f61",
                 "content": "派蒙，别太贪心了，一个一个来吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-9c7ecc89-e4e6-11ed-ac11-5943b2183f61",
                 "content": "上次的「苍古落日」口味很不错，期待你这次的成果，我会好好品尝的。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/c72b1096691aef955a6f3376e725c99e_7937089006432038174.png"
             }
         ]
     }

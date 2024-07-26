@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-ab831c00-feb7-11ed-b59e-377cf59f3265",
                 "content": "一斗生日快乐！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-ab831c01-feb7-11ed-b59e-377cf59f3265",
                 "content": "生日快乐！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-ab831c02-feb7-11ed-b59e-377cf59f3265",
                 "content": "哈哈哈哈哈哈本大爷的生日果然难以被忽略！我可是为挚友准备了「美味到古今无双」的料理！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/01a1ca156a2d0268a02406431283035a_1441912945258628390.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-ab831c03-feb7-11ed-b59e-377cf59f3265",
                 "content": "派蒙你觉得怎么样？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-ab831c04-feb7-11ed-b59e-377cf59f3265",
                 "content": "这个颜色……总感觉有点不靠谱。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-ab831c05-feb7-11ed-b59e-377cf59f3265",
                 "content": "喂喂喂，飞行矮堇瓜你这是什么意思？这可是「荒泷美食大师一斗」定制的生日特别版「热血强者之道」！传承荒泷派老大的强者意志！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/a31bd49f7fc11f6e6318a0a3f3f784d9_223635298900072634.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-ab831c06-feb7-11ed-b59e-377cf59f3265",
                 "content": "一斗啊，乌冬面还要吗？",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-ab831c07-feb7-11ed-b59e-377cf59f3265",
                 "content": "啊啊啊，请再来一碗！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/01a1ca156a2d0268a02406431283035a_1441912945258628390.png"
             }
         ]
     }

@@ -63,7 +63,12 @@
                     </p>
                 {% else %}
                     <p>
-                        {{ item_.chara }}: {{ item_.content }}
+                        {% if item_.src %}
+                            <pic src="{{ item_.src }}" width="75px" height="75px"></pic>
+                        {% else %}
+                            {{ item_.chara }}:
+                        {% endif %}
+                        {{ item_.content }}
                     </p>
                 {% endif %}
             {% endfor %}

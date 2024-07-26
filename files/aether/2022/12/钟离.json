@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-34dbe370-8815-11ed-b307-57ae5c9f8e67",
                 "content": "你说旅行者拿着的兽肉和蘑菇…嘿嘿，是在须弥的特别发现！要听听是怎么来的吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-34dbe371-8815-11ed-b307-57ae5c9f8e67",
                 "content": "愿闻其详。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/2d8752876214bb39ae902ebdb32dad53_7059376307994467880.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-34dbe372-8815-11ed-b307-57ae5c9f8e67",
                 "content": "当时我和派蒙正走在雨林里…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-34dbe373-8815-11ed-b307-57ae5c9f8e67",
                 "content": "然后看到了背上长蘑菇的野林猪哦！很神奇吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-34dbe374-8815-11ed-b307-57ae5c9f8e67",
                 "content": "感觉真是非常方便的食材呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-34dbe375-8815-11ed-b307-57ae5c9f8e67",
                 "content": "所以我们正想着，做成什么菜比较合适。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-34dbe376-8815-11ed-b307-57ae5c9f8e67",
                 "content": "确实是有趣的生物。这种共生关系也使得蕈猪广受食客们的欢迎。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/d8f66e0e1e0a58c13ca424120d8ee0ce_6503690699176277687.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-34dbe377-8815-11ed-b307-57ae5c9f8e67",
                 "content": "我认识一家餐馆的厨师，正擅长处理这样优质的食材。旅行者，是否要顺路去店里试一试？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/2d8752876214bb39ae902ebdb32dad53_7059376307994467880.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-34dbe378-8815-11ed-b307-57ae5c9f8e67",
                 "content": "好耶！钟离推荐的店，味道一定很不错！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/492e473575066835e93cc273c8a751f5_7969830049291747705.png"
             }
         ]
     }

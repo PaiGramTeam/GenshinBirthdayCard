@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-7c276540-17a6-11ed-b5f2-414528219950",
                 "content": "安柏，生日快乐！今年的礼物是——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/dbb43ce8436f873a88fc5dbc6ee6b07b_751280844798480107.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-7c276541-17a6-11ed-b5f2-414528219950",
                 "content": "锵锵~月亮派和免费清洗兔兔伯爵服务~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-7c276542-17a6-11ed-b5f2-414528219950",
                 "content": "太棒啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/09/dce08fe021baa528c0268e9b1983bedf_445109134858911287.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-7c276543-17a6-11ed-b5f2-414528219950",
                 "content": "真好吃！可以请你教我做法吗，嘿嘿嘿~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/08/09/30dc66fb03b130d4b2247eb5d5af8709_1445848235176894064.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-7c276544-17a6-11ed-b5f2-414528219950",
                 "content": "咦，兔兔伯爵好像有点不对劲…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             }
         ]
     }

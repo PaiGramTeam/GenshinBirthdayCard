@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-692c4550-5c42-11ee-9680-c59a9fcd69e8",
                 "content": "这样就做好了，尝尝看吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/244786b95b02102d0b59ec30e4900fc2_8539895905255005776.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-692c4551-5c42-11ee-9680-c59a9fcd69e8",
                 "content": "哇，绫华好厉害呀！旅行者，你泡的茶也不错嘛。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-692c4552-5c42-11ee-9680-c59a9fcd69e8",
                 "content": "绫华一起吃吧？你的生日，应该是我们帮你才对。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-692c4553-5c42-11ee-9680-c59a9fcd69e8",
                 "content": "没关系，这样一边聊天一边做点心，对我来说是很难得的休息时间。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/d87f7e2eb637816fd96b025257795d76_2619184283844855199.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-692c4554-5c42-11ee-9680-c59a9fcd69e8",
                 "content": "反而是我要谢谢你愿意陪我，我很开心。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/244786b95b02102d0b59ec30e4900fc2_8539895905255005776.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "",
                 "key": "gal-line-692c4555-5c42-11ee-9680-c59a9fcd69e8",
                 "content": "（趁旅行者的注意力在绫华身上，派蒙又拿起了一块绯樱饼…）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-692c4556-5c42-11ee-9680-c59a9fcd69e8",
                 "content": "汪！",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-692c4557-5c42-11ee-9680-c59a9fcd69e8",
                 "content": "派蒙——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-692c4558-5c42-11ee-9680-c59a9fcd69e8",
                 "content": "唔…再吃最后一块！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             }
         ]
     }

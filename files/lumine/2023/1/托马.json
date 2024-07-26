@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-b6fa7260-8d9a-11ed-8da9-3d5ec19d0c05",
                 "content": "把这些饭团也拿着吧，给小动物们带些吃的。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/06/89548238b005203c595c3e6e0b05c33a_2596912284176905216.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-b6fa7261-8d9a-11ed-8da9-3d5ec19d0c05",
                 "content": "好呀，毛衣也快织好了，我们一会儿就出发。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-b6fa7262-8d9a-11ed-8da9-3d5ec19d0c05",
                 "content": "哇，上次教学之后，旅行者进步很大嘛！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/06/a1e82cf046f98e5f65090a133e62c61f_2957760890057420914.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-b6fa7263-8d9a-11ed-8da9-3d5ec19d0c05",
                 "content": "不过，这一件是不是太宽松了？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/06/a1e82cf046f98e5f65090a133e62c61f_2957760890057420914.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-b6fa7264-8d9a-11ed-8da9-3d5ec19d0c05",
                 "content": "嗯…好像是欸。要不派蒙试试看？合适的话就送你啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-b6fa7265-8d9a-11ed-8da9-3d5ec19d0c05",
                 "content": "什么嘛，这明显就不是给人穿的衣服吧！手和脚都露不出来了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-b6fa7266-8d9a-11ed-8da9-3d5ec19d0c05",
                 "content": "哈哈，那就留给太郎丸吧，它一定会喜欢的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/06/89548238b005203c595c3e6e0b05c33a_2596912284176905216.png"
             }
         ]
     }

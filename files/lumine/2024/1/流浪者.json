@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-4eded370-a95e-11ee-85d5-a5a967872419",
                 "content": "哇！那边的人是…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-4eded371-a95e-11ee-85d5-a5a967872419",
                 "content": "嘘——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-4eded372-a95e-11ee-85d5-a5a967872419",
                 "content": "（小声）没想到会在图书馆遇到你。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-4eded373-a95e-11ee-85d5-a5a967872419",
                 "content": "因论派的学生硬给我推荐了几本书，无聊了随便翻翻而已。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/b4300beb754b72d5425e2c4db207db19_8293773821992386676.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-4eded374-a95e-11ee-85d5-a5a967872419",
                 "content": "那要出去走走吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-4eded375-a95e-11ee-85d5-a5a967872419",
                 "content": "不必了，这里没人烦我，清净点也不错。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/ca69a9dea949eb6df064478fe5123421_8281808417954351240.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-4eded376-a95e-11ee-85d5-a5a967872419",
                 "content": "那我也一起看看吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-4eded377-a95e-11ee-85d5-a5a967872419",
                 "content": "随你。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/30/ca69a9dea949eb6df064478fe5123421_8281808417954351240.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "",
                 "key": "gal-line-4eded378-a95e-11ee-85d5-a5a967872419",
                 "content": "旅行者从桌上拿起一本书，坐在一旁开始阅读。",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "",
                 "key": "gal-line-4eded379-a95e-11ee-85d5-a5a967872419",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "center",
                 "key": "gal-line-4eded37a-a95e-11ee-85d5-a5a967872419",
                 "content": "唔…你们还在看啊，到晚饭时间了吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             }
         ]
     }

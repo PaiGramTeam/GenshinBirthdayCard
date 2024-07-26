@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-eb7ab320-7c7c-11ee-963a-474bc0568961",
                 "content": "让本名侦探派蒙看看，还有没有遗留的贴纸——嗯嗯，干干净净，一张都没有了~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-eb7ab321-7c7c-11ee-963a-474bc0568961",
                 "content": "确实，焕然一新。——好茶。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-eb7ab322-7c7c-11ee-963a-474bc0568961",
                 "content": "辛苦了，美露莘们总是到处粘贴纸，有些粘在不显眼的位置很难找。——旅行者，再来点茶？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/23/94fa245e9869d74ad988fddeb143de1e_6244843870236050839.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-eb7ab323-7c7c-11ee-963a-474bc0568961",
                 "content": "好的，谢谢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-eb7ab324-7c7c-11ee-963a-474bc0568961",
                 "content": "让我看看，我找到了二十九张，旅行者五张，莱欧斯利两张，我赢啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-eb7ab325-7c7c-11ee-963a-474bc0568961",
                 "content": "刚才怎么说来着，输的两个人要请找到贴纸最多的人吃饭——你们要请我吃大餐哦？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-eb7ab326-7c7c-11ee-963a-474bc0568961",
                 "content": "不愧是名侦探派蒙。——这是手下从国外带回的新茶，还不错吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/23/47053eacc86acd2c1089b4f84336a8a6_4705286890845941940.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-eb7ab327-7c7c-11ee-963a-474bc0568961",
                 "content": "派蒙太厉害了，我完全找不到——这茶确实不错，回味甘甜。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-eb7ab328-7c7c-11ee-963a-474bc0568961",
                 "content": "哼哼！不愧是我。好累哦，要大吃一顿才能恢复…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-eb7ab329-7c7c-11ee-963a-474bc0568961",
                 "content": "好了休息够了，去巡视转一圈吧。等巡视结束一起去吃饭，我已经给韦尔赛打招呼了，备了豪华福利餐。",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/23/47053eacc86acd2c1089b4f84336a8a6_4705286890845941940.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-eb7ab32a-7c7c-11ee-963a-474bc0568961",
                 "content": "好耶！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "center",
                 "key": "gal-line-eb7ab32b-7c7c-11ee-963a-474bc0568961",
                 "content": "派蒙，福——利——餐——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "right",
                 "key": "gal-line-eb7ab32c-7c7c-11ee-963a-474bc0568961",
                 "content": "咦，那岂不是免费…怪不得你们这么划水，等下要把你们的好吃的都抢过来！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-af2a1260-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "城里的酒馆都找了一遍，难道她出城工作去了？我们再找找！希望罗莎莉亚喜欢烤肉卷…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-af2a1261-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "那边城墙上是不是她？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-af2a1262-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "——嗨！罗莎莉亚！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-af2a1263-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "哦？是你们啊，早安。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/18/b86c305749e7779edd96c9b6eb0174d0_2168407231248110765.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-af2a1264-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "今天的工作时间结束了，需要帮助的话明天再说吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/18/a017585f03279c88773cd7aaa1610558_8001816487699231013.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-af2a1265-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "不是的啦，听说今天是你的生日，我们是来给你送礼物的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/6d5666edfda0b242e29b486590f362cf_7868223397583594316.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-af2a1266-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "生日快乐。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-af2a1267-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "嗯？独特的烤肉香气…谢谢，你们有心了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/18/b86c305749e7779edd96c9b6eb0174d0_2168407231248110765.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-af2a1268-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "我正要去喝杯早餐酒，没什么事的话一起来吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/18/b86c305749e7779edd96c9b6eb0174d0_2168407231248110765.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-af2a1269-9719-11ed-bc07-f74b97f9c6d4",
                 "content": "蒲公英酒配烤肉，真是不错的早餐…想喝点什么？我请客。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/18/b86c305749e7779edd96c9b6eb0174d0_2168407231248110765.png"
             }
         ]
     }

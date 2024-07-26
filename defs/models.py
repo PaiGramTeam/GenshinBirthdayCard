@@ -102,6 +102,7 @@ class SceneItem(BaseModel, frozen=False):
     key: Optional[str] = ""
     content: Optional[str] = ""
     ext: Optional[str] = ""
+    src: Optional[str] = ""
 
 
 class Scene(BaseModel):

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-a59de370-e7ce-11ec-9c68-2ba7948d3f0d",
                 "content": "快看，是卖唱的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/dbb43ce8436f873a88fc5dbc6ee6b07b_751280844798480107.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-a59de371-e7ce-11ec-9c68-2ba7948d3f0d",
                 "content": "嘿，我刚刚还想着你们什么时候会来呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/d6d4466d1c2a46505c53e5e99597a70a_4717034846302383164.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-a59de372-e7ce-11ec-9c68-2ba7948d3f0d",
                 "content": "温迪，今天是你的生日。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-a59de373-e7ce-11ec-9c68-2ba7948d3f0d",
                 "content": "有什么生日愿望，或是想要做的事情吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-a59de374-e7ce-11ec-9c68-2ba7948d3f0d",
                 "content": "嗯…那就陪我一起聊聊天，散散步，要是能再去喝一杯就好了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/53fb1af1b23770d2d0b1259f4030eb87_72534573725806341.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-a59de375-e7ce-11ec-9c68-2ba7948d3f0d",
                 "content": "都是些好平常的事情…我还以为神明的生日愿望会更有「噼咔」的感觉呢…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0cf484e531cd9c1c5e3170bdbd06a596_6664302954906689234.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-a59de376-e7ce-11ec-9c68-2ba7948d3f0d",
                 "content": "欸嘿，那种「噼咔」的感觉，不是来自于做了什么事情，而是来自于陪伴在身边的人。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/53fb1af1b23770d2d0b1259f4030eb87_72534573725806341.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-a59de377-e7ce-11ec-9c68-2ba7948d3f0d",
                 "content": "对吧，旅行者？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/06/09/d6d4466d1c2a46505c53e5e99597a70a_4717034846302383164.png"
             }
         ]
     }

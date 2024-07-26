@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-513f1a20-69ae-11ee-9815-7764ef6d5f01",
                 "content": "辛焱！好久不见呀。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-513f1a21-69ae-11ee-9815-7764ef6d5f01",
                 "content": "是啊，听说你们去枫丹了，怎么样？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/14/5924c7b2ae9e1fe9ac1fc52a5d545716_6509504790396146725.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-513f1a22-69ae-11ee-9815-7764ef6d5f01",
                 "content": "唔…我们坐下慢慢说吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "",
                 "key": "gal-line-513f1a23-69ae-11ee-9815-7764ef6d5f01",
                 "content": "（三人喝着茶，旅行者和派蒙给辛焱说了一些在枫丹的见闻。）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-513f4130-69ae-11ee-9815-7764ef6d5f01",
                 "content": "哇——能在歌剧院演出，应该是很厉害的人吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/14/5924c7b2ae9e1fe9ac1fc52a5d545716_6509504790396146725.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-513f4131-69ae-11ee-9815-7764ef6d5f01",
                 "content": "有空我也想去枫丹演出，也能找找灵感。怎么样，要不要一起？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/10/16/0789cc55ba0936d769424be330d421b7_915304581193067541.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-513f4132-69ae-11ee-9815-7764ef6d5f01",
                 "content": "哇哦，合作舞台吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-513f4133-69ae-11ee-9815-7764ef6d5f01",
                 "content": "对，我可以帮你们准备我亲手做的乐器哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/10/16/0789cc55ba0936d769424be330d421b7_915304581193067541.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-513f4134-69ae-11ee-9815-7764ef6d5f01",
                 "content": "好期待呀！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/996ab9406d3047f155ec6847b737873b_8097932660739392062.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-513f4135-69ae-11ee-9815-7764ef6d5f01",
                 "content": "正好听听我新写的曲子。来，动起来吧，摇滚时间到！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/14/5924c7b2ae9e1fe9ac1fc52a5d545716_6509504790396146725.png"
             }
         ]
     }

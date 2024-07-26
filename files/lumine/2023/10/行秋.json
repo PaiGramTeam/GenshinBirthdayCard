@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-57bb5fc0-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "刚刚真是千钧一发，如果不是行秋及时出手，那个孩子就要落水了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-57bb5fc1-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "派蒙过奖了，遇到需要帮助的人及时相助，此乃侠义之道，只希望他下次别为了捞风筝做出那么危险的事情。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/30/06e80a6415f847463a09e560fe7ab2e6_1587817985320684780.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-57bb5fc2-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "稍微耽误了些时间，难得有空一起去品读新书，我们快点走吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/30/064028d39d72f20e1ce3bb0252a91a2b_1670314418613371225.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-57bb5fc3-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "——欸？旅行者、派蒙和行秋？这边这边！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/01/965dcb26148b81221a0ebef88f9177f2_5373140618180227362.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-57bb5fc4-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "（香菱笑容这么灿烂，难不成是有新菜的试吃，不好，快跑——）",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/30/06e80a6415f847463a09e560fe7ab2e6_1587817985320684780.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-57bb5fc5-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "…香菱？那是什么，看起来好美味~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-57bb5fc6-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "你们运气可真不错，这是刚送来的兽肉和须弥采购的调味料，我最近研究了一种用兽肉烹饪的新菜，来试试，给你们免费试吃~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/01/8b2289a9e841557e19ec6a44f8a4c254_7044015710748721542.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-57bb5fc7-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "(¯﹃¯)好耶！~旅行者、行秋，吃饱了才有力气看书嘛，走嘛！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-57bb5fc8-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "这…旅行者你可要帮我，如果新菜里有「刺客」——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/30/06e80a6415f847463a09e560fe7ab2e6_1587817985320684780.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "center",
                 "key": "gal-line-57bb5fc9-65a9-11ee-ac33-59d3b5ccc957",
                 "content": "…懂了，包在我身上！正好饿了，走吧~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             }
         ]
     }

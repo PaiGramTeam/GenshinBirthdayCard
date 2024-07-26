@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-c9031c10-baf9-11ec-b652-773fdb0d7887",
                 "content": "你们来了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/3d99f04f529706f6a6d4e61114ccef1a_6169920906912161408.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-c9031c12-baf9-11ec-b652-773fdb0d7887",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/16165ad66620cf97889ec2e3a627d5b8_14951083626809578.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-fa426100-baf9-11ec-b652-773fdb0d7887",
                 "content": "这曲调，让我想起一些往事。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/04/13/3d99f04f529706f6a6d4e61114ccef1a_6169920906912161408.png"
             }
         ]
     }

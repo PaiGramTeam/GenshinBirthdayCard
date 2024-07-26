@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-f23fd090-1b0c-11ee-a214-e1250f8ebea2",
                 "content": "这是给我们的吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-7755acd0-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "嗯，画稿的间隙大概构思了一下，如果你们之后想在须弥有个住处，我可以做完整的设计。",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/07/05/72e72daa769977ae7e92385de9fca3d1_9063307978497169902.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-7755acd1-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "别不说话啊…感觉怎么样？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/07/05/e490b6d859c2b2c4f3cd7f1e05512405_1821072057801976241.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-7755acd2-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "哇——特别好！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-7755acd3-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "是兼具美观和舒适的房子，很喜欢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-7755acd4-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "没错！我已经想象出住在里面的感觉了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-7755acd5-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "…这么满意？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/07/05/72e72daa769977ae7e92385de9fca3d1_9063307978497169902.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-7755acd6-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "这还能有哪里不满意呀。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-7755acd7-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "唔…其实我很少有一次过稿的经历，多少都要改几次。",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/07/05/72e72daa769977ae7e92385de9fca3d1_9063307978497169902.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-7755acd8-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "你们不会是看在我生日的份上，让我体验一次过稿才故意这么说的吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/07/05/e490b6d859c2b2c4f3cd7f1e05512405_1821072057801976241.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-7755acd9-1c7c-11ee-a214-e1250f8ebea2",
                 "content": "怎么可能嘛！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/c214273af6d41c6864e7b3b661dc962c_7379835470161307229.png"
             }
         ]
     }

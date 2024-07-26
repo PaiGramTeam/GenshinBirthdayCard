@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-0e882290-9eeb-11ee-adb3-6bad3f9827f8",
                 "content": "这么晚才结束，多莉过生日的时候也很辛苦呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/429b51746a0c4f7590234d2028602c9c_2418930246343969800.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-0e8849a0-9eeb-11ee-adb3-6bad3f9827f8",
                 "content": "累了的话就早点休息吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-0e8849a1-9eeb-11ee-adb3-6bad3f9827f8",
                 "content": "这可是拓展业务的好机会，怎么会累呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-0e8849a2-9eeb-11ee-adb3-6bad3f9827f8",
                 "content": "这些合同，都是刚才谈下来的哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/53f04e3046aa5025980a99593df0b149_6732120349585366012.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-0e8849a3-9eeb-11ee-adb3-6bad3f9827f8",
                 "content": "这么多吗，好厉害。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-0e8849a4-9eeb-11ee-adb3-6bad3f9827f8",
                 "content": "哇——好像已经见到堆成山的摩拉了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-0e8849a5-9eeb-11ee-adb3-6bad3f9827f8",
                 "content": "要不是旅行者你们去了枫丹，近期的宴会一定也会邀请你们的。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-0e8849a6-9eeb-11ee-adb3-6bad3f9827f8",
                 "content": "大名鼎鼎的旅行者，一定能吸引更多人来，我就可以谈下更多生意，嘿嘿~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/6410510f8e7a4dbc93e0f72eecd6cd4e_2102310537804742700.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-47128430-e59f-11ed-ba1a-aba227628698",
                 "content": "好饱！枣椰蜜糖真好吃啊，嘿嘿。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-47128431-e59f-11ed-ba1a-aba227628698",
                 "content": "是啊，旅行者的手艺很棒。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/28/57d422082e02e0da8cebbec19726c670_1173196487938057771.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-47128432-e59f-11ed-ba1a-aba227628698",
                 "content": "对了，请收下这个。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/28/6b5c47d895ab1f89b1c49f5bb5f7ff99_6174365594536910666.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-47128433-e59f-11ed-ba1a-aba227628698",
                 "content": "哇！好漂亮！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-47128434-e59f-11ed-ba1a-aba227628698",
                 "content": "真的可以吗…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-47128435-e59f-11ed-ba1a-aba227628698",
                 "content": "哈哈，没关系。我平时没什么机会戴这些小饰品，倒不如当成礼物送给朋友。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/28/57d422082e02e0da8cebbec19726c670_1173196487938057771.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-47128436-e59f-11ed-ba1a-aba227628698",
                 "content": "谢谢你，坎蒂丝。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-47128437-e59f-11ed-ba1a-aba227628698",
                 "content": "不用客气。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/28/6b5c47d895ab1f89b1c49f5bb5f7ff99_6174365594536910666.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-47128438-e59f-11ed-ba1a-aba227628698",
                 "content": "嗯，果然没有看错，它们和你很相称。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/28/57d422082e02e0da8cebbec19726c670_1173196487938057771.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-47128439-e59f-11ed-ba1a-aba227628698",
                 "content": "旅行者…快帮帮我，这个项圈好沉…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-4712843a-e59f-11ed-ba1a-aba227628698",
                 "content": "派蒙，那个呀，是手镯。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/04/28/57d422082e02e0da8cebbec19726c670_1173196487938057771.png"
             }
         ]
     }

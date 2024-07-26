@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-c8841990-c6ee-11ed-9235-a7338e294be6",
                 "content": "还要多久到呀？没有力气啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-c8841991-c6ee-11ed-9235-a7338e294be6",
                 "content": "订单上写着龙脊雪山脚下，覆雪之路附近的冒险家营地——应该就在附近才对…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/00fbbb67e73d8feced74d3cc4405d435_5917648373049042719.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-c8841992-c6ee-11ed-9235-a7338e294be6",
                 "content": "可是这附近白茫茫的一片，一个营地也没看到。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-c8841993-c6ee-11ed-9235-a7338e294be6",
                 "content": "究竟是谁在雪山点外卖呀，真是的！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-c8841994-c6ee-11ed-9235-a7338e294be6",
                 "content": "害我们的下午茶都要凉啦，呜呜，特地给诺艾尔带了须弥的茶点呢！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-c8841995-c6ee-11ed-9235-a7338e294be6",
                 "content": "真是太感谢了…不过看到猎鹿人餐厅的老板那么苦恼，我很难拒绝她的委托…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0d8bd5ef2756c45b80832adf4a0825e6_5480415500796913943.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-c8841996-c6ee-11ed-9235-a7338e294be6",
                 "content": "嘿嘿，不必谢啦，我们快快完成订单回去继续喝下午茶吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-c8841997-c6ee-11ed-9235-a7338e294be6",
                 "content": "——欸等等，那边是不是有烟？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-c8841998-c6ee-11ed-9235-a7338e294be6",
                 "content": "看来营地就在那边了，我们快点过去吧~等回去给你们重新准备下午茶，只需一小会就好！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/00fbbb67e73d8feced74d3cc4405d435_5917648373049042719.png"
             }
         ]
     }

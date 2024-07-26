@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-996b0c10-7d18-11ed-a392-935c2884e4c4",
                 "content": "赚呀赚呀赚摩拉，亮晶晶的摩拉少不了，看一看呀数一数，只要有摩拉就没烦恼~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/6410510f8e7a4dbc93e0f72eecd6cd4e_2102310537804742700.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-996b0c11-7d18-11ed-a392-935c2884e4c4",
                 "content": "哎呀，这不是大名鼎鼎的旅行者，还有…旁边的小吉祥物嘛！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-996b0c12-7d18-11ed-a392-935c2884e4c4",
                 "content": "喂！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-996b0c13-7d18-11ed-a392-935c2884e4c4",
                 "content": "等等，你们手上拿的莫非就是…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-996b0c14-7d18-11ed-a392-935c2884e4c4",
                 "content": "摩拉肉。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-996b0c15-7d18-11ed-a392-935c2884e4c4",
                 "content": "送给我的吗？干得不错，快让我尝尝——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-996b0c16-7d18-11ed-a392-935c2884e4c4",
                 "content": "嗯！味道真棒！只不过摩拉肉里没有摩拉呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/53f04e3046aa5025980a99593df0b149_6732120349585366012.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-996b0c17-7d18-11ed-a392-935c2884e4c4",
                 "content": "渔人吐司里没有渔人，黄金蟹里面也没有黄金呀！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-996b0c18-7d18-11ed-a392-935c2884e4c4",
                 "content": "也对，如果用摩拉做原料，再把它卖掉去赚摩拉，不就得不偿失了嘛。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-996b3320-7d18-11ed-a392-935c2884e4c4",
                 "content": "但如果把一份普普通通的商品用「摩拉」包装一下，就可以获得百倍利润…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-996b3321-7d18-11ed-a392-935c2884e4c4",
                 "content": "比如在盘子底部印上摩拉的符号，再做一些宣传：「每天用它吃饭，就能招财进宝，日进斗金。」",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "left",
                 "key": "gal-line-996b3322-7d18-11ed-a392-935c2884e4c4",
                 "content": "嘿嘿，发现新商机！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/6410510f8e7a4dbc93e0f72eecd6cd4e_2102310537804742700.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "left",
                 "key": "gal-line-996b3323-7d18-11ed-a392-935c2884e4c4",
                 "content": "怎么样，旅行者，心动了吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             },
             {
                 "type": "simple_dialog",
@@ -137,7 +151,8 @@
                 "pos": "left",
                 "key": "gal-line-996b3324-7d18-11ed-a392-935c2884e4c4",
                 "content": "你是第一个顾客，可以给你打八折优惠哦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/98b1e7cc51b6dc6888905ab51bc02198_8327386012356622842.png"
             }
         ]
     }

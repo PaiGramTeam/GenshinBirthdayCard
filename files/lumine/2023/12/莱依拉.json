@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-68336570-9d74-11ee-ab23-4788e685e885",
                 "content": "莱依拉好厉害，赢了好多奖品~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/996ab9406d3047f155ec6847b737873b_5103066539592311837.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-68336571-9d74-11ee-ab23-4788e685e885",
                 "content": "那些摊主的手法…多多观察的话，总能找到一些规律。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/0f6e108da8a23d0cc4b4e37d0dbde0a5_3044280357290585931.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-68336572-9d74-11ee-ab23-4788e685e885",
                 "content": "欸，这样吗？明明刚刚看的时候，眼睛都没有眨一下，除了感觉眼睛好累，完全没看出规律来。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-68336573-9d74-11ee-ab23-4788e685e885",
                 "content": "有时一眨眼的功夫，摊主就已经调换好了顺序…",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/480ed25f898b8a43d9f868806c4b8edc_6156820206384720465.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-68336574-9d74-11ee-ab23-4788e685e885",
                 "content": "这…很难描述，每位摊主有不一样的手法…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/16/99c341372e0855f5f5b63058f52c79e8_4189459206616121319.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-68336575-9d74-11ee-ab23-4788e685e885",
                 "content": "那要不我来变个戏法，你们来猜？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-68336576-9d74-11ee-ab23-4788e685e885",
                 "content": "\n        ",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             }
         ]
     }

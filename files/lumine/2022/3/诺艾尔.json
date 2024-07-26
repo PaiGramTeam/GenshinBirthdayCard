@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-e3577820-94b3-11ec-a640-f711072e5421",
                 "content": "呼…今天的工作提前完成了，我们出发吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/00fbbb67e73d8feced74d3cc4405d435_5917648373049042719.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-0b9d8720-94b4-11ec-a640-f711072e5421",
                 "content": "咦？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0d8bd5ef2756c45b80832adf4a0825e6_5480415500796913943.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-e3577821-94b3-11ec-a640-f711072e5421",
                 "content": "旅行者，你在干什么？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0d8bd5ef2756c45b80832adf4a0825e6_5480415500796913943.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-e3579f30-94b3-11ec-a640-f711072e5421",
                 "content": "哇！等等，现在还不能看！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/6cc3088b8af4bbbad85396d9cce4079e_3986419550110772839.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-3e6d9ab0-94b3-11ec-a640-f711072e5421",
                 "content": "申鹤，今天是你的生日，旅行者特地为你煮了面哦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/492e473575066835e93cc273c8a751f5_7969830049291747705.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-3e6d9ab1-94b3-11ec-a640-f711072e5421",
                 "content": "这是…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4b12bbbd9da35cd358757e0d30d4c7d0_6550742716244957345.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-3e6d9ab2-94b3-11ec-a640-f711072e5421",
                 "content": "听说在璃月部分人家中有生日吃面这种习俗。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-3e6d9ab3-94b3-11ec-a640-f711072e5421",
                 "content": "嗯…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/b69c3273b055eb0ae909b0b423ab83fa_7359393045636913712.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-3e6d9ab4-94b3-11ec-a640-f711072e5421",
                 "content": "怎么了？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-3e6d9ab5-94b3-11ec-a640-f711072e5421",
                 "content": "没什么。味道很好，谢谢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/1e251b7f6ba0865e5ab6959802b1ba80_56331135875431155.png"
             }
         ]
     }

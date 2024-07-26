@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-b041a710-59c7-11ed-b556-d3208b1e99fe",
                 "content": "…出海找食材，最有趣的就是收网之前你不知道会抓到什么~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/01/965dcb26148b81221a0ebef88f9177f2_5373140618180227362.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-b041a711-59c7-11ed-b556-d3208b1e99fe",
                 "content": "有什么东西在动…伸，伸出来了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-b041a712-59c7-11ed-b556-d3208b1e99fe",
                 "content": "…让我看看，这次能开发出怎样的新菜品呢？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/01/965dcb26148b81221a0ebef88f9177f2_5373140618180227362.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-b041a713-59c7-11ed-b556-d3208b1e99fe",
                 "content": "啊，章鱼，是章鱼——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-b041a714-59c7-11ed-b556-d3208b1e99fe",
                 "content": "…来点滑溜溜，黏糊糊的东西…再加点香喷喷的配菜，一定很好吃！——快来吧快来吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/01/965dcb26148b81221a0ebef88f9177f2_5373140618180227362.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-b041a715-59c7-11ed-b556-d3208b1e99fe",
                 "content": "哇啊啊——章鱼要跑出来了！派蒙要被章鱼抓走啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-b041a716-59c7-11ed-b556-d3208b1e99fe",
                 "content": "…嗯？这是什么香味，简直恰到好处！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/01/8b2289a9e841557e19ec6a44f8a4c254_7044015710748721542.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-b041a717-59c7-11ed-b556-d3208b1e99fe",
                 "content": "等等，我的鱼！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-b041a718-59c7-11ed-b556-d3208b1e99fe",
                 "content": "派蒙要——被——抓——走——啦！可恶！都没人关心一下我嘛？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             }
         ]
     }

@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-d803b970-a555-11ee-aad3-59064037cbd4",
                 "content": "水之国生长的植物果然与雨林中的差异甚大，谢谢你们带来如此珍贵的礼物。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2023/12/28/c6814c6fa9508507a1fc1c40540d0035_4611324933117622240.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-d803b971-a555-11ee-aad3-59064037cbd4",
                 "content": "加上巡林时收获的这些，足够做一批新的标本了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2023/12/28/c6814c6fa9508507a1fc1c40540d0035_4611324933117622240.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-d803b972-a555-11ee-aad3-59064037cbd4",
                 "content": "嘿嘿，你喜欢就好~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-d803b973-a555-11ee-aad3-59064037cbd4",
                 "content": "整理完这些我们就去吃饭吧。柯莱那孩子听说你们要来，几天前就开始念叨要准备些什么来招待。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2023/12/28/c6814c6fa9508507a1fc1c40540d0035_4611324933117622240.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-d803b974-a555-11ee-aad3-59064037cbd4",
                 "content": "好耶——那我们现在开始！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/492e473575066835e93cc273c8a751f5_5301550024730901103.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "",
                 "key": "gal-line-d803b975-a555-11ee-aad3-59064037cbd4",
                 "content": "（三人开始整理……）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-d803b976-a555-11ee-aad3-59064037cbd4",
                 "content": "唔，虹彩蔷薇和须弥蔷薇虽然名字相近，外形却相去甚远…真是有趣。",
-                "ext": ""
+                "ext": "",
+                "src": "https://act-webstatic.hoyoverse.com/upload-static-galgame/2023/12/28/c6814c6fa9508507a1fc1c40540d0035_4611324933117622240.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-d803b977-a555-11ee-aad3-59064037cbd4",
                 "content": "（悄声）呜哇！旅行者你看这种叶子的形状，是不是很像…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/6d5666edfda0b242e29b486590f362cf_7868223397583594316.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-d803b978-a555-11ee-aad3-59064037cbd4",
                 "content": "咳咳，派蒙——",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/4799a03c5f4c5ab3e68e7365c363e3ee_4373327763302680255.png"
             }
         ]
     }

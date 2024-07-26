@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-b810e820-d803-11ec-a997-23c3942c5183",
                 "content": "云堇，生日快乐！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/4591c54a19eeab4723c2eb0ae11580a3_4678208895075737.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-b810e821-d803-11ec-a997-23c3942c5183",
                 "content": "呀，是旅行者和派蒙，谢谢你们。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/20/6359c8557dc4120b9f5708e95fc19638_8314684757353806291.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-b810e822-d803-11ec-a997-23c3942c5183",
                 "content": "我们一直想着要送你一份特别的生日礼物，想了好久好久…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/dbb43ce8436f873a88fc5dbc6ee6b07b_751280844798480107.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-b810e823-d803-11ec-a997-23c3942c5183",
                 "content": "最后试着写了一场「戏」！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/e74e859c0627ba5c84cd7cebc1fd6594_5000977009134386262.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-b810e824-d803-11ec-a997-23c3942c5183",
                 "content": "是以你为原型的故事。想现在唱给你听，可以吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-b810e825-d803-11ec-a997-23c3942c5183",
                 "content": "当然可以，我很期待！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/20/f1408be16a6b72dd4641442ba2dbedf4_2760029701492372137.png"
             }
         ]
     }

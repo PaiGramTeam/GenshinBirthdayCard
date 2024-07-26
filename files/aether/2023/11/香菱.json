@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-d9294cf0-73ed-11ee-8805-af4e3dc21181",
                 "content": "香菱，生日快乐！这是给你带的新食材。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-d9297400-73ed-11ee-8805-af4e3dc21181",
                 "content": "哇真是太感谢了，今天我也有准备特别料理招待大家哦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/01/965dcb26148b81221a0ebef88f9177f2_5373140618180227362.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-d9297401-73ed-11ee-8805-af4e3dc21181",
                 "content": "哈哈，已经有点期待了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/10/14/5924c7b2ae9e1fe9ac1fc52a5d545716_6509504790396146725.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-d9297402-73ed-11ee-8805-af4e3dc21181",
                 "content": "这可是我苦心研制、加了泡泡桔的新菜品——待会请务必多尝两口~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/11/01/965dcb26148b81221a0ebef88f9177f2_5373140618180227362.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "right",
                 "key": "gal-line-d9297403-73ed-11ee-8805-af4e3dc21181",
                 "content": "火……火！香菱，锅要爆炸啦！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-d9297404-73ed-11ee-8805-af4e3dc21181",
                 "content": "快！派蒙，接住那个盘子——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "right",
                 "key": "gal-line-d9297405-73ed-11ee-8805-af4e3dc21181",
                 "content": "要接不住啦！！！！！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             }
         ]
     }

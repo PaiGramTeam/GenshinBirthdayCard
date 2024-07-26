@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-55d0f3c0-0f58-11ee-92b3-df0402b961f4",
                 "content": "又输了…赛诺先生，这已经是第7局了！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/06/5a32cd28f54a635c4f26dbe7742c34d7_5810476965137978404.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-55d0f3c1-0f58-11ee-92b3-df0402b961f4",
                 "content": "哼哼——就让「打牌专家」派蒙来助你一臂之力！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "center",
                 "key": "gal-line-55d0f3c2-0f58-11ee-92b3-df0402b961f4",
                 "content": "放马过来吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/06/21/9d15d7ef7483d26cb262706f0a540780_2629834814224670353.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "",
                 "key": "gal-line-55d0f3c3-0f58-11ee-92b3-df0402b961f4",
                 "content": "（随着旅行者和派蒙的加入，局势逐渐变得白热化）",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-55d0f3c4-0f58-11ee-92b3-df0402b961f4",
                 "content": "刚才这张牌引发了「超载」反应。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/06/21/2b9d4122c89d2cfd8756603d507a45a8_4067165855721754573.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-55d0f3c5-0f58-11ee-92b3-df0402b961f4",
                 "content": "没错…有哪里不对吗？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-55d0f3c6-0f58-11ee-92b3-df0402b961f4",
                 "content": "牌局没有问题。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/06/21/2b9d4122c89d2cfd8756603d507a45a8_4067165855721754573.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "left",
                 "key": "gal-line-55d0f3c7-0f58-11ee-92b3-df0402b961f4",
                 "content": "不过你们正好也有三个人，按照规则，应该切换到派蒙出牌才是。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/06/21/2a5d17216d8d5c606121aaaa157a34c9_7708777032985913198.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-55d0f3c8-0f58-11ee-92b3-df0402b961f4",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/06/5a32cd28f54a635c4f26dbe7742c34d7_5810476965137978404.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "center",
                 "key": "gal-line-55d0f3c9-0f58-11ee-92b3-df0402b961f4",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-55d0f3ca-0f58-11ee-92b3-df0402b961f4",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "center",
                 "key": "gal-line-55d0f3cb-0f58-11ee-92b3-df0402b961f4",
                 "content": "赛诺……",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/12/28/550342ba2e24cffce641ee99ecb5fd93_8606887368860906656.png"
             }
         ]
     }

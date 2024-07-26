@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-b0682a80-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "今日待完成的事项不少，感谢两位前来帮助小姐准备邀请函。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/26/cb6bfeb0fd76335aec823cd7208947ff_4483164472477161985.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-b0682a81-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "不用客气！嘿嘿，那我们现在开始吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-b0682a82-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "「在此命定之日，诚邀各位于夜…夜幕垂落之时，在本皇女选定之地，赐与诸位共品之幸…」",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-b0682a83-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "「随后循着星辰的轨迹，见证远方命运的预兆…」",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-b0682a84-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "此即幽夜净土之圣诏！本皇女最信任的扈从啊，你的贡献将被永远铭记。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/26/8acc09e0d14aa30b52670a6dc4fbedf5_2210345769525162833.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-b0682a85-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "啊，这句话是小姐在感谢你，不用写进邀请函。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/26/dff92ceca2d92e9471c89233fc3f9ecc_4488718229382697249.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-b0682a86-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "所以邀请函里究竟说了些什么呀？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "center",
                 "key": "gal-line-b0682a87-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "小姐的意思是，请大家傍晚来猎鹿人餐馆小聚，然后去蒙德城郊外散步。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/26/dff92ceca2d92e9471c89233fc3f9ecc_4488718229382697249.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-b0682a88-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "唔…只看文字完全不明白呢…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/03/02/c41f1045f4f8f0cdd28468796da66836_7747742441198939653.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "center",
                 "key": "gal-line-b0682a89-fb9c-11ed-8755-0d5fe3715c38",
                 "content": "咳，将信送到客人手里时，要拜托两位帮忙解释一番了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/05/26/cb6bfeb0fd76335aec823cd7208947ff_4483164472477161985.png"
             }
         ]
     }

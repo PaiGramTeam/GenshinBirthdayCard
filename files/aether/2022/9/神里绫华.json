@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "center",
                 "key": "gal-line-8d3f4da0-2db5-11ed-9f6a-757c41739f0f",
                 "content": "好久没有和绫华一起出来玩了，今天真开心！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-8d3f4da1-2db5-11ed-9f6a-757c41739f0f",
                 "content": "除了那张可恶的纸签，呜…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/feecc03906eed92e7d8509309775e2d0_7728114991563584812.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-8d3f4da2-2db5-11ed-9f6a-757c41739f0f",
                 "content": "三人一起求的签，偏偏只有派蒙抽中了凶。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/5518eca5b93ac47d979bef4ca1d99bbe_9215357363688995190.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-8d3f4da3-2db5-11ed-9f6a-757c41739f0f",
                 "content": "哼，我还没看到你们两个的签文呢！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "center",
                 "key": "gal-line-8d3f4da4-2db5-11ed-9f6a-757c41739f0f",
                 "content": "让我看看…哇，你们怎么都是大吉！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/eaf39003212529c4ea8a3c8dc074d158_4687072000391147373.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "center",
                 "key": "gal-line-8d3f4da5-2db5-11ed-9f6a-757c41739f0f",
                 "content": "「所求之事心想则成。」",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-8d3f4da6-2db5-11ed-9f6a-757c41739f0f",
                 "content": "好厉害！绫华，快趁着今天多许几个愿望吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-8d3f4da7-2db5-11ed-9f6a-757c41739f0f",
                 "content": "欸？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/d87f7e2eb637816fd96b025257795d76_2619184283844855199.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-8d3f4da8-2db5-11ed-9f6a-757c41739f0f",
                 "content": "愿望的话，刚刚已经在心里许过了哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/d87f7e2eb637816fd96b025257795d76_2619184283844855199.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-8d3f4da9-2db5-11ed-9f6a-757c41739f0f",
                 "content": "许了什么样的愿望？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/d63a3562b9ce6bc13c15245876156d24_3999350693014180260.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "right",
                 "key": "gal-line-8d3f4daa-2db5-11ed-9f6a-757c41739f0f",
                 "content": "嗯…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/d87f7e2eb637816fd96b025257795d76_2619184283844855199.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "right",
                 "key": "gal-line-8d3f4dab-2db5-11ed-9f6a-757c41739f0f",
                 "content": "保密。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/244786b95b02102d0b59ec30e4900fc2_8539895905255005776.png"
             }
         ]
     }

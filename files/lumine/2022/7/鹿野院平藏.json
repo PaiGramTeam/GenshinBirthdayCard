@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-63807270-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "哎呀呀，这不是我的搭档和小派蒙嘛，下午好。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/8925f0ec62de00138feba18ebb6ddb3d_8425601798891906110.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "right",
                 "key": "gal-line-63807271-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "平藏，生日快乐。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/a246097460fc926d57097ee6370994e9_1236000290411654226.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "left",
                 "key": "gal-line-63807272-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "嘿嘿，真体贴啊，谢谢你们。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/8925f0ec62de00138feba18ebb6ddb3d_8425601798891906110.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "left",
                 "key": "gal-line-63807273-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "好香的味道，里面装的是什么？让我猜猜…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/83a2158d7afc48f0738d48c3a8a3f3a9_7122304352985246371.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-63807274-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "是「绯樱天妇罗」吧？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/4bb08f175999171e2e5ac5a92c78383d_4443024138746722963.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "right",
                 "key": "gal-line-63807275-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "猜对了。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/0b4c79a332286b09fa23f3e4a8d8fd5f_8157761328440504773.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-63807276-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "不过，烹饪过程似乎不太顺利，你们应该尝试了很多遍。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/8925f0ec62de00138feba18ebb6ddb3d_8425601798891906110.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-63807277-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "你怎么知道…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/92bfa5ec2cfb6fa9188340cca5f62fb5_5934745197134759120.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-63807278-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "你圆鼓鼓的小肚皮已经告诉我了哦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/83a2158d7afc48f0738d48c3a8a3f3a9_7122304352985246371.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "right",
                 "key": "gal-line-63809980-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "欸？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/02/23/6cc3088b8af4bbbad85396d9cce4079e_3986419550110772839.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-63809981-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "嘴角也还挂着面衣呢。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/4bb08f175999171e2e5ac5a92c78383d_4443024138746722963.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "right",
                 "key": "gal-line-63809982-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "欸——",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/0f5bacc51b2b2d9ef8bf0663158aa1ac_5707517418751484142.png"
             },
             {
                 "type": "simple_dialog",
@@ -128,7 +141,8 @@
                 "pos": "left",
                 "key": "gal-line-63809983-fe6f-11ec-8171-7f04a0ec1571",
                 "content": "哈哈，趁它凉掉之前，我们快找个地方坐下来，一起享用吧。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/07/08/8925f0ec62de00138feba18ebb6ddb3d_8425601798891906110.png"
             }
         ]
     }

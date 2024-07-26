@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "png"
+                "ext": "png",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "right",
                 "key": "gal-line-d41ac300-b449-11ee-9f96-0df9147f10ff",
                 "content": "等你们好久了，说好的「那个」带来了没？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/17/4f0afb60cd9953b4749563ad34ba447b_1670047655331053859.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "center",
                 "key": "gal-line-d41aea10-b449-11ee-9f96-0df9147f10ff",
                 "content": "嗯嗯，带来了~为了拿到它可费了我们一番功夫。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/6d5666edfda0b242e29b486590f362cf_7868223397583594316.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-d41aea11-b449-11ee-9f96-0df9147f10ff",
                 "content": "辛苦啦，接下来就交给我吧！哼哼，蒙德酒业的末日就在今天！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/17/410112965d1001e16d36f692ff1174ba_5187132864132112583.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "center",
                 "key": "gal-line-d41aea12-b449-11ee-9f96-0df9147f10ff",
                 "content": "哼哼，「酒业杀手」，出击！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "",
                 "key": "gal-line-d41aea13-b449-11ee-9f96-0df9147f10ff",
                 "content": "迪奥娜接过「那个」，又选取了一些材料开始调制饮品。",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "left",
                 "key": "gal-line-d41aea14-b449-11ee-9f96-0df9147f10ff",
                 "content": "话虽如此，我们也没有尝试过品尝这种液体…",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/480ed25f898b8a43d9f868806c4b8edc_6156820206384720465.png"
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "left",
                 "key": "gal-line-d41aea15-b449-11ee-9f96-0df9147f10ff",
                 "content": "万一出乎意料地好喝——",
-                "ext": ""
+                "ext": "",
+                "src": "https://upload-static.hoyoverse.com/event-static-galgame/2023/11/09/480ed25f898b8a43d9f868806c4b8edc_6156820206384720465.png"
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-d41aea16-b449-11ee-9f96-0df9147f10ff",
                 "content": "绝无可能，这诡异的颜色，腐败的气味，一定没错——旅行者先来试试吧！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2023/01/17/410112965d1001e16d36f692ff1174ba_5187132864132112583.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "left",
                 "key": "gal-line-d41aea17-b449-11ee-9f96-0df9147f10ff",
                 "content": "？",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/05/30/e639385936cfa77713ed71e52b584db0_5064574134990746021.png"
             }
         ]
     }

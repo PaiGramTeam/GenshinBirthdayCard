@@ -11,7 +11,8 @@
                 "pos": "",
                 "key": "",
                 "content": "",
-                "ext": "jpg"
+                "ext": "jpg",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -20,7 +21,8 @@
                 "pos": "left",
                 "key": "gal-line-efcfd2c0-4096-11ed-b63b-17376f27a169",
                 "content": "「他挺剑疾刺，接着…接着…」",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/30/06e80a6415f847463a09e560fe7ab2e6_1587817985320684780.png"
             },
             {
                 "type": "simple_dialog",
@@ -29,7 +31,8 @@
                 "pos": "left",
                 "key": "gal-line-efcff9d0-4096-11ed-b63b-17376f27a169",
                 "content": "唔…这里该接什么动作好呢？想把打戏写得生动灵巧可真难。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/30/06e80a6415f847463a09e560fe7ab2e6_1587817985320684780.png"
             },
             {
                 "type": "simple_dialog",
@@ -38,7 +41,8 @@
                 "pos": "right",
                 "key": "gal-line-efcff9d1-4096-11ed-b63b-17376f27a169",
                 "content": "这种时候，当然是从亲身实践中找灵感啦。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/c214273af6d41c6864e7b3b661dc962c_3438735764704487618.png"
             },
             {
                 "type": "simple_dialog",
@@ -47,7 +51,8 @@
                 "pos": "right",
                 "key": "gal-line-efcff9d2-4096-11ed-b63b-17376f27a169",
                 "content": "看，那边有几个鬼鬼祟祟的家伙，我们去教训教训他们！",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6d5666edfda0b242e29b486590f362cf_6832589406110057366.png"
             },
             {
                 "type": "simple_dialog",
@@ -56,7 +61,8 @@
                 "pos": "left",
                 "key": "gal-line-efcff9d3-4096-11ed-b63b-17376f27a169",
                 "content": "好主意。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/30/064028d39d72f20e1ce3bb0252a91a2b_1670314418613371225.png"
             },
             {
                 "type": "simple_dialog",
@@ -65,7 +71,8 @@
                 "pos": "",
                 "key": "gal-line-efcff9d4-4096-11ed-b63b-17376f27a169",
                 "content": "……",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -74,7 +81,8 @@
                 "pos": "center",
                 "key": "gal-line-efcff9d5-4096-11ed-b63b-17376f27a169",
                 "content": "是…是你！少侠饶命，我们今天没干坏事啊——",
-                "ext": ""
+                "ext": "",
+                "src": ""
             },
             {
                 "type": "simple_dialog",
@@ -83,7 +91,8 @@
                 "pos": "right",
                 "key": "gal-line-efcff9d6-4096-11ed-b63b-17376f27a169",
                 "content": "遛得好快！看来我派蒙的名号连盗宝团都知道啦，哼哼~",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/ce28a4e2c7261448f238896181fc867e_6061123016690406505.png"
             },
             {
                 "type": "simple_dialog",
@@ -92,7 +101,8 @@
                 "pos": "right",
                 "key": "gal-line-efcff9d7-4096-11ed-b63b-17376f27a169",
                 "content": "只可惜现成的素材就这么跑掉了…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/f1f63e0db656de6a96f05ea9f590a594_8905324975853349481.png"
             },
             {
                 "type": "simple_dialog",
@@ -101,7 +111,8 @@
                 "pos": "left",
                 "key": "gal-line-efcff9d8-4096-11ed-b63b-17376f27a169",
                 "content": "哈，原来是我的「老相识们」。",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/30/06e80a6415f847463a09e560fe7ab2e6_1587817985320684780.png"
             },
             {
                 "type": "simple_dialog",
@@ -110,7 +121,8 @@
                 "pos": "left",
                 "key": "gal-line-efcff9d9-4096-11ed-b63b-17376f27a169",
                 "content": "有了，「他挺剑疾刺，那贼人招架不住，连退数步…」",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/30/ee60ba8f33b9489c37df18163b5f406d_5082090272075258252.png"
             },
             {
                 "type": "simple_dialog",
@@ -119,7 +131,8 @@
                 "pos": "right",
                 "key": "gal-line-efcff9da-4096-11ed-b63b-17376f27a169",
                 "content": "欸？行秋进入「噼咔」状态了！笔呢，笔呢，赶紧帮他记下来…",
-                "ext": ""
+                "ext": "",
+                "src": "https://uploadstatic-sea.hoyoverse.com/galgame/2022/09/06/6856a9579a8aabe8c3bee5fb50507630_5664900719908619826.png"
             }
         ]
     }
